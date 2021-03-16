@@ -1,6 +1,8 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    'Introduction': ['welcome', 'objectives'],
+    'Format Concepts': ['inputs-and-outputs', 'glossary', 'new-frontier'],
+    'Format Reference Guide': ['format-basics'],
+    'Docusaurus Reference': ['doc1', 'doc2', 'doc3', 'mdx']
   },
 };
