@@ -1,20 +1,20 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'furtive handbook',
+  tagline: 'Your reference for tournament formats',
+  url: 'TBD',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/shush.svg',
+  organizationName: 'morleym', // Usually your GitHub org/user name.
+  projectName: 'furtive-handbook', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'furtive handbook',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Shush Emoji',
+        src: 'img/shush.svg',
       },
       items: [
         {
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/morleym/furtive-handbook',
           label: 'GitHub',
           position: 'right',
         },
@@ -38,12 +38,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Format Concepts',
+              to: 'docs/inputs-and-outputs',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Format Reference Guide',
+              to: 'docs/format-basics',
             },
           ],
         },
@@ -51,17 +51,9 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+              href: 'https://discord.gg/4U7UWjCt7r',
+            }
           ],
         },
         {
@@ -73,12 +65,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/morleym/furtive-handbook',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Mitchell Morley. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -89,13 +81,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/morleym/furtive-handbook/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/morleym/furtive-handbook(1/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
