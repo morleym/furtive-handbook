@@ -29,6 +29,11 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: 'https://www.mitchellmorley.com/',
+          label: 'Portfolio',
+          position: 'right',
+        }
       ],
     },
     footer: {
