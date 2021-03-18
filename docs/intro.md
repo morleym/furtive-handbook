@@ -1,12 +1,30 @@
 ---
 id: welcome
-title: Welcome to my Handbook!
+title: Welcome!
 sidebar_label: Welcome
 slug: /
 ---
 
-Hi! This is my introduction about me.
+Hi!
+Welcome to my handbook.
 
-## Who I am
+## What is this?
 
-## What this is
+This is a reference guide for a number of competitive formats you may see/use in esports events!
+Different formats may be better or worse for YOUR needs, and this guide will shed some light on that.
+
+One of the neat things about esports is that you can get creative with formatting your events!
+However, there's a difference between *consciously trying out a new idea* (while aware of the potential benefits & pitfalls) and *winging it as an afterthought*.
+Formatting choices can deliver exciting and fun experiences—or *subpar* ones—for your competitors, orgs, broadcast, viewers, staff, sponsors & partners.
+
+Having a quick reference to compare the strengths and drawbacks of different formats can help you navigate those decisions.
+Whether it's your first event or your hundredth, I hope this serves you well!
+
+## Who am I?
+
+My name is Mitchell Morley, and I also go by 'furtive'.
+I've been working on esports events since 2015, when I started running
+ [Rocket League LAN tournaments out of a friend's garage](https://secure.meetupstatic.com/photos/event/a/d/4/d/highres_444404365.jpeg).
+Now I work on competitive operations for professional esports events like [RLCSX](https://www.mitchellmorley.com/work/rlcsx-winter-split) and [eMLS](https://www.mitchellmorley.com/work/emls-2021).
+I've worked on all kinds of projects in-between, which you can look at on [my portfolio](https://mitchellmorley.com).
+While I would never claim to be the authority on competitive formatting, I have a fair amount of experience and learnings (read: failing and improving) to draw from.
