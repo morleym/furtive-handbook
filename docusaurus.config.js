@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'furtive handbook',
-  tagline: 'Your reference for tournament formats',
+  title: 'furtive\'s handbook',
+  tagline: 'A reference for tournament formats',
   url: 'TBD',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'furtive-handbook', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'furtive handbook',
+      title: 'furtive\'s handbook',
       logo: {
         alt: 'Shush Emoji',
         src: 'img/shush.svg',
