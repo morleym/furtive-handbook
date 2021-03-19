@@ -13,9 +13,9 @@ Welcome to my handbook.
 This is a reference guide for a number of competitive formats you may see/use in esports events!
 Different formats may be better or worse for YOUR needs, and this guide will shed some light on that.
 
-One of the neat things about esports is that you can get creative with formatting your events!
-However, there's a difference between *consciously trying out a new idea* (while aware of the potential benefits & pitfalls) and *winging it as an afterthought*.
-Formatting choices can deliver exciting and fun experiences—or *subpar* ones—for your competitors, orgs, broadcast, viewers, staff, sponsors & partners.
+To me, the creative freedom with formatting an event is one of best parts of esports!
+However, there's a difference between *consciously trying out ideas* (while being aware of potential benefits & pitfalls) and *winging it as an afterthought*.
+Formatting choices can deliver exciting and fun experiences—or subpar ones—for your competitors, broadcast, viewers, staff, sponsors & partners.
 
 Having a quick reference to compare the strengths and drawbacks of different formats can help you navigate those decisions.
 Whether it's your first event or your hundredth, I hope this serves you well!
