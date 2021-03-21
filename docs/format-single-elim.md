@@ -41,7 +41,10 @@ Optionally, you can add a 'third place match' where the losers of the semifinal 
 
 ## Considerations for Broadcast
 
-* It's easy to chart out the 'predicted' matchups throughout the day because higher seeds will generally beat lower seeds, and everything is deterministic
-* Every match is high-stakes because the winner moves on, and the loser goes home
-* Just like with competitors/competitive ops, the prospect of an important competitor going home early due to poor/incomplete seeding applies to broadcast, too
+* It's easy to chart out the 'predicted' matchups throughout the day
+  * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
+  * Disruptions to this, aka 'upsets', are good stories themselves
+* Every match is impactful
+  * The winner moves on, and the loser goes home
 * Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
+* Key competitors going home 'early' can negatively impact broadcast
