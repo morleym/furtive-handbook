@@ -4,4 +4,44 @@ title: Single-Elimination Bracket
 sidebar_label: Single-Elim Bracket
 ---
 
-Hello there.
+The vanilla ice cream of brackets.
+It's simple, and pairs well with other ~~desserts~~ formats.
+
+## How it Works
+
+Competitors are seeded into rounds of matches.
+Win, and you advance to the next round.
+Lose, and you are eliminated.
+This continues until only one competitor remains.
+These rounds are typically named "Round of X" (e.g. Round of 64, Round of 32) to indicate how many competitors
+ remain.
+Once you have 8 remaining competitors, rounds are then named "Quarterfinal" (8), "Semifinal" (4), and "Final" (2).
+Optionally, you can add a 'third place match' where the losers of the semifinal matches play for third place.
+
+![single elim bracket image](https://i.imgur.com/wJcEF9d.png)
+
+## By the Numbers
+
+| Category              |      Value <br />(*N* is # of competitors)                |   Example / Notes |
+| -------------         | :-----------:             | ----- |
+| # of Matches Played   | *N - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
+| # of Rounds Played    |   log₂(*N*)               | 16 competitors = 4 rounds played <br /> 17 competitors = 5 rounds played |
+| Distinct Placements   |   1st & 2nd, 3rd* & 4th, 4x T-5th,<br />8x T-9th, 16x T-17th, etc.       |   |
+| Possible progressions | 1, 2, 3*, 4, 8, 16, etc.   |
+
+**Only when a third place match is played.*
+
+## Considerations for Competitors & Competitive Ops
+
+* Competitors are only guaranteed one match (lowest of all format types)
+  * Half of all competitors will only get to play one match
+* Single-elimiation depends on excellent seeding
+  * If there are any big unknowns or 'mistakes' in seeding, then better competitors can be knocked out earlier than intended
+* Competitors can chart out their course through bracket (to prepare for predicted matchups)
+
+## Considerations for Broadcast
+
+* It's easy to chart out the 'predicted' matchups throughout the day because higher seeds will generally beat lower seeds, and everything is deterministic
+* Every match is high-stakes because the winner moves on, and the loser goes home
+* Just like with competitors/competitive ops, the prospect of an important competitor going home early due to poor/incomplete seeding applies to broadcast, too
+* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
