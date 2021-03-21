@@ -13,11 +13,16 @@ If you're running an event entirely by yourself, then I guess you can have some 
 
 Typical stakeholders involved with an event might be:
 
-* Competitors (the players/teams themselves)
-* Competitive Operations (tournament admins)
+* **Competitors** (the players/teams themselves)
+* **Competitive Operations** (tournament admins)
+* **Broadcast** (production team, talent, etc.)
 * Competitor Orgs (organizations that competitors represent)
-* Broadcast (production team, talent, etc.)
 * Sponsors/Partners
+
+I'll be focusing on the **bolded** stakeholders in this handbook,
+ because (in my opinion) these are the core of an esports product.
+Additionally, I will be grouping **Competitors** and **Competitive Ops** together
+ because their interests generally tend to align with each another.
 
 ## Conflicting Interests
 
