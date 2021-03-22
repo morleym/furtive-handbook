@@ -4,12 +4,13 @@ title: Single-Elimination Bracket
 sidebar_label: Single-Elim Bracket
 ---
 
+Single Elimination, Single-Elimination, Single-Elim, SE.
 The *vanilla* ice cream of brackets.
 It's simple, and pairs well with other ~~desserts~~ formats.
 
 ## How it Works
 
-Competitors are seeded into rounds of matches.
+Competitors are seeded into an initial round of matches.
 Win, and you advance to the next round.
 Lose, and you are eliminated.
 This continues until only one competitor remains.
@@ -36,7 +37,7 @@ Optionally, you can add a 'third place match' where the losers of the semifinal 
 * Competitors are only guaranteed one match (lowest of all format types)
   * Half of all competitors will only get to play one match
 * Single-elimination depends on excellent seeding
-  * If there are significant unknowns or 'mistakes' in seeding, then better competitors may be knocked out earlier than intended
+  * If there are significant unknowns or 'mistakes' in seeding, then competitors may be eliminated earlier than intended by similarly-skilled opponents
 * Competitors can chart out their course through bracket (to prepare for predicted matchups)
 
 ## Considerations for Broadcast
