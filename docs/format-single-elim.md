@@ -4,7 +4,7 @@ title: Single-Elimination Bracket
 sidebar_label: Single-Elim Bracket
 ---
 
-The vanilla ice cream of brackets.
+The *vanilla* ice cream of brackets.
 It's simple, and pairs well with other ~~desserts~~ formats.
 
 ## How it Works
@@ -14,7 +14,7 @@ Win, and you advance to the next round.
 Lose, and you are eliminated.
 This continues until only one competitor remains.
 These rounds are typically named "Round of X" (e.g. Round of 64, Round of 32) to indicate how many competitors
- remain.
+ remain, or otherwise are referred to as "Round 1," "Round 2," etc.
 Once you have 8 remaining competitors, rounds are then named "Quarterfinal" (8), "Semifinal" (4), and "Final" (2).
 Optionally, you can add a 'third place match' where the losers of the semifinal matches play for third place.
 
@@ -25,7 +25,7 @@ Optionally, you can add a 'third place match' where the losers of the semifinal 
 | Category              |      Value <br />(*N* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played   | *N - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
-| # of Rounds Played    |   log₂(*N*)               | 16 competitors = 4 rounds played <br /> 17 competitors = 5 rounds played |
+| # of Necessary Rounds    |   log₂(*N*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   1st & 2nd, 3rd* & 4th, 4x T-5th,<br />8x T-9th, 16x T-17th, etc.       |   |
 | Possible progressions | 1, 2, 3*, 4, 8, 16, etc.   |
 
@@ -35,8 +35,8 @@ Optionally, you can add a 'third place match' where the losers of the semifinal 
 
 * Competitors are only guaranteed one match (lowest of all format types)
   * Half of all competitors will only get to play one match
-* Single-elimiation depends on excellent seeding
-  * If there are any big unknowns or 'mistakes' in seeding, then better competitors can be knocked out earlier than intended
+* Single-elimination depends on excellent seeding
+  * If there are significant unknowns or 'mistakes' in seeding, then better competitors may be knocked out earlier than intended
 * Competitors can chart out their course through bracket (to prepare for predicted matchups)
 
 ## Considerations for Broadcast
