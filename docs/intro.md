@@ -15,9 +15,9 @@ Different formats may be better or worse for YOUR needs, and this guide will she
 
 To me, the creative freedom with formatting an event is one of best parts of esports!
 However, there's a difference between *consciously trying out ideas* (while being aware of potential benefits & pitfalls) and *winging it as an afterthought*.
-Formatting choices can deliver exciting and fun experiences—or subpar ones—for your competitors, broadcast, viewers, staff, sponsors & partners.
+Formatting choices can deliver fair, fun and exciting experiences—or awful ones—for your competitors, broadcast, viewers, staff, sponsors & partners.
 
-Having a quick reference to compare the strengths and drawbacks of different formats can help you navigate those decisions.
+Having a quick reference to compare the strengths and drawbacks of different formats will help you navigate those decisions.
 Whether it's your first event or your hundredth, I hope this serves you well!
 
 ## Who am I?
