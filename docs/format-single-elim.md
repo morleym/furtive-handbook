@@ -23,10 +23,10 @@ Optionally, you can add a 'third place match' where the losers of the semifinal 
 
 ## By the Numbers
 
-| Category              |      Value <br />(*N* is # of competitors)                |   Example / Notes |
+| Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
-| # of Matches Played   | *N - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
-| # of Necessary Rounds    |   log₂(*N*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| # of Matches Played   | *n - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
+| # of Necessary Rounds    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   1st & 2nd, 3rd* & 4th, 4x T-5th,<br />8x T-9th, 16x T-17th, etc.       |   |
 | Possible progressions | 1, 2, 3*, 4, 8, 16, etc.   |
 
