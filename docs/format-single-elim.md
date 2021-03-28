@@ -19,6 +19,8 @@ These rounds are typically named "Round of X" (e.g. Round of 64, Round of 32) to
 Once you have 8 remaining competitors, rounds are then named "Quarterfinal" (8), "Semifinal" (4), and "Final" (2).
 Optionally, you can add a 'third place match' where the losers of the semifinal matches play for third place.
 
+After all matches are completed, a set of standings is produced (where competitors are placed based on where they were eliminated).
+
 ![single elim bracket image](https://i.imgur.com/wJcEF9d.png)
 
 ## By the Numbers

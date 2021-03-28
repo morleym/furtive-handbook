@@ -23,18 +23,20 @@ Rounds are typically named in each 'side' of bracket as "Winners/Losers Round of
  remain.
 Once you have are in the last three rounds of a bracket, those rounds are then named "Winners/Losers Quarterfinal", "Winners/Losers Semifinal", and "Winners/Losers Final".
 
+After all matches are completed, a set of standings is produced (where competitors are placed based on where they were eliminated).
+
+![double elim bracket image](https://imgur.com/9E3KGEH.png)
+
 ### Grand Finals
 
-There are conflicting schools of thought on how exactly 'grand finals' should work, and we need to cover that briefly.
+There are conflicting schools of thought on how exactly 'grand finals' (where the winners of Winners Bracket and Losers Bracket meet) should work, and we need to cover that briefly.
 Some believe that the competitor who entered grand finals via winners bracket should have an advantage, either in the form of a bracket reset (where the team from losers match must win TWO matches, while the team from winners need only win ONE match), or a game advantage in a single match
  (like a 1-0 head start in a Best-of-5 match).
 Others believe that there should be no advantage for the team from winners side.
 
 Personally, I'm of the opinion that a double-elimination bracket is incomplete if it ends when two competitors have only lost once.
-**But**, I understand that some esports have a difficult balancing act due to match length (e.g. [Overwatch League](https://www.ggrecon.com/articles/were-the-vancouver-titans-done-dirty), with its 3-hour-long matches).
-Do what's right for you, but be conscious of the debate and consider the alternatives (like single-elim).
-
-![double elim bracket image](https://imgur.com/9E3KGEH.png)
+**But**, I understand that some esports have established a standard of no-advantage grand finals due to match length (e.g. [Overwatch League](https://www.ggrecon.com/articles/were-the-vancouver-titans-done-dirty)).
+Do what's right for your project, but be conscious of the debate and consider the alternatives (like single-elim).
 
 ## By the Numbers
 
@@ -107,6 +109,9 @@ Do what's right for you, but be conscious of the debate and consider the alterna
   * Competitors may also meet in winners bracket, and then meet again later in losers bracket 
 * Bracket reset introduces a variance into runtime
   * Grand finals might be one match, or it might be two matches
+* Grand Finals can make or break excitement
+  * At its best, a grand finals can be an instant classic
+  * At its worst, a lopsided/boring grand finals can be twice the slog of a single-elim finals
 
 ## Citations
 
