@@ -10,3 +10,11 @@ I need to research if [page playoff](https://en.wikipedia.org/wiki/Page_playoff_
 
 Spoiler: they are not.
 Page should be listed as a variant of double-elimination.
+
+## How it Works
+
+## By the Numbers
+
+## Considerations for Competitors & Competitive Ops
+
+## Considerations for Broadcast
