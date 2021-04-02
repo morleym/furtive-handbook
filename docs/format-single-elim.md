@@ -6,7 +6,7 @@ sidebar_label: Single-Elim Bracket
 
 Single Elimination, Single-Elimination, Single-Elim, SE.
 The *vanilla* ice cream of brackets.
-It's simple, and pairs well with other ~~desserts~~ formats.
+It's simple and pairs well with other ~~desserts~~ formats.
 
 ## How it Works
 
@@ -34,7 +34,9 @@ After all matches are completed, a set of standings is produced (where competito
 
 **Only when a third place match is played.*
 
-## Considerations for Competitors & Competitive Ops
+## Considerations
+
+### Competitors & Competitive Ops
 
 * Competitors are only guaranteed one match (lowest of all format types)
   * Half of all competitors will only get to play one match
@@ -42,7 +44,7 @@ After all matches are completed, a set of standings is produced (where competito
   * If there are significant unknowns or 'mistakes' in seeding, then competitors may be eliminated earlier than intended by similarly-skilled opponents
 * Competitors can chart out their course through bracket (to prepare for predicted matchups)
 
-## Considerations for Broadcast
+### Broadcast
 
 * It's easy to chart out the 'predicted' matchups throughout the day
   * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
@@ -50,4 +52,4 @@ After all matches are completed, a set of standings is produced (where competito
 * Every match is impactful
   * The winner moves on, and the loser goes home
 * Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
-* Key competitors going home 'early' can negatively impact broadcast
+* There is a risk of key competitors going home 'early'

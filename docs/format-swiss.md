@@ -10,6 +10,8 @@ Hello there.
 
 ## By the Numbers
 
-## Considerations for Competitors & Competitive Ops
+## Considerations
 
-## Considerations for Broadcast
+### Competitors & Competitive Ops
+
+### Broadcast

@@ -17,6 +17,8 @@ Hello there.
 | Distinct Placements   |   1st, 2nd, 3rd, 4th, 2x T-5th,<br />2x T-7th, 4x T-9th, 4x T-13th, etc.       |   |
 | Possible progressions | 1, 2, 3, 4, 6, 8, 12, 16, etc.   |
 
-## Considerations for Competitors & Competitive Ops
+## Considerations
 
-## Considerations for Broadcast
+### Competitors & Competitive Ops
+
+### Broadcast

@@ -10,8 +10,8 @@ Next to single elimination, Round Robin may be the 'other' ubiqutous format
 
 ## How it Works
 
-"Everyone plays everyone else!"
-I was tempted to stop writing after that, because it's amazingly easy to summarize as that.
+In short: "Everyone plays everyone else!"
+
 Every competitor will play every other competitor once, meaning it's effectively one match per 'combination' of your competitors.
 After all matches are completed, you will have a standings sorted by how the competitors performed.
 The first sort is usually # of matches won.
@@ -40,6 +40,19 @@ Often times (and especially for larger Round Robins) you may simply see a list o
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |   |
 | Possible progressions | 1 to *n*  |
 
-## Considerations for Competitors & Competitive Ops
+## Considerations
 
-## Considerations for Broadcast
+### Competitors & Competitive Ops
+
+* Round-Robin has a significantly larger # of rounds of play per competitors involved compared to elimination brackets or Swiss
+  * If you do not have adequated setups to run all available matches at once, then runtime will be longer
+  * On the positive side, competitors are guaranteed that many matches, and this is a common format for leagues played over several weeks
+* With every competitor playing each other, you can use round robin to acquire 'accurate' seeding for a multi-stage tournament (e.g. round-robin into double-elim)
+* Multi-stage tournaments often use round-robin as a lead-in to a playoff. Some competitors may end up out of playoff contention before their matches are over. This can, sometimes, lead to sandbagging (competitors not trying their hardest) in their final round-robin matches
+* Tiebreakers can take some time to calculate if it isn't natively handled in the tournament software/tooling you're using. Keep this in mind and be sure to communicate timeline expectations to competitors & broadcast in advance.
+
+### Broadcast
+
+* You can schedule every single match out in advance, because round-robin matchups are predetermined
+* If a competitor is already eliminated from contention for the next stage in a multi-stage tournament, then their late round-robin matches may not be suitable for broadcast.
+* Tiebreakers may take some time to sort out. Try to plan how you will communicate scenarios and tiebreakers to an audience, and work with comp ops to plan how you'll determine these ASAP.

@@ -15,6 +15,8 @@ Page should be listed as a variant of double-elimination.
 
 ## By the Numbers
 
-## Considerations for Competitors & Competitive Ops
+## Considerations
 
-## Considerations for Broadcast
+### Competitors & Competitive Ops
+
+### Broadcast
