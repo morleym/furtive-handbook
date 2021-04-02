@@ -42,8 +42,8 @@ I've decided to focus on **Competitors & Comp Ops** and **Broadcast**.
 
 ### Competitors & Competitive Ops
 
-Competitors & Comp Ops overlap enough on format-related strenghts & weaknesses that I've grouped them together here.
-Comp Ops, in an ideal world, is there to facilitate an excellent competitor experience while keeping everything running smoothly for broadcast & other stakeholders.
+Competitors & Comp Ops overlap enough on format-related strengths & weaknesses that I've grouped them together here.
+Comp Ops, in an ideal world, exists to facilitate an excellent competitor experience while keeping everything running smoothly for broadcast & other stakeholders.
 That being the case, Comp Ops' considerations are largely driven by how competitors feel & behave in different formats.
 The items I list for them in each format usually relate to the competitor experience and the logistics for operating that foramt.
 

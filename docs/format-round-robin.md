@@ -47,6 +47,7 @@ Often times (and especially for larger Round Robins) you may simply see a list o
 * Round-Robin has a significantly larger # of rounds of play per competitors involved compared to elimination brackets or Swiss
   * If you do not have adequated setups to run all available matches at once, then runtime will be longer
   * On the positive side, competitors are guaranteed that many matches, and this is a common format for leagues played over several weeks
+  * To alleviate this problem for larger competitions, you can break competitors into groups/'pools'. While 16 competitors would require 15 rounds of play, 2 groups of 8 would require just 7 rounds of play.
 * With every competitor playing each other, you can use round robin to acquire 'accurate' seeding for a multi-stage tournament (e.g. round-robin into double-elim)
 * Multi-stage tournaments often use round-robin as a lead-in to a playoff. Some competitors may end up out of playoff contention before their matches are over. This can, sometimes, lead to sandbagging (competitors not trying their hardest) in their final round-robin matches
 * Tiebreakers can take some time to calculate if it isn't natively handled in the tournament software/tooling you're using. Keep this in mind and be sure to communicate timeline expectations to competitors & broadcast in advance.

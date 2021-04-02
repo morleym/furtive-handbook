@@ -7,7 +7,6 @@ sidebar_label: Objectives
 Whether you're starting from square one, or working for a prestigious company,
  you have to approach each project with objectives in mind.
 By and large, those objectives come from your project's stakeholders.
-(If you're running a project by yourself, then that's all you I guess)
 
 ## Stakeholders
 
@@ -16,13 +15,12 @@ Typical stakeholders involved with an event might be:
 * **Competitors** (the players/teams themselves)
 * **Competitive Operations** (tournament admins)
 * **Broadcast** (production team, talent, etc.)
-* Competitor Orgs (organizations that competitors represent)
+* Competitor Orgs (brands that competitors represent)
 * Sponsors/Partners
 
 I'll be focusing on the **bolded** stakeholders in this handbook,
  because (in my opinion) these are the core of an esports product.
-Additionally, I will be grouping **Competitors** and **Competitive Ops** together
- because their interests generally tend to align with each another.
+Additionally, I will be grouping **Competitors** and **Competitive Ops** together.
 
 ## Conflicting Interests
 
@@ -36,7 +34,7 @@ Let's consider a single-elimination bracket with 8 competitors:
 
 Obviously, these are at odds!
 *"Running every match when it's ready"* means you would only catch one quarterfinal and one semifinal on a broadcast.
-*"Running every match on broadcast"* means players would wait longer between matches (if you play first quarterfinal,
+*"Running every match on broadcast"* means players would wait longer between matches (if you play in the first quarterfinal,
  then you'd need to wait for three other matches to finish before you could play again).
 
 So you have to come up with solutions, and discuss with each party.
@@ -53,4 +51,4 @@ For example, round-robin has an entirely predetermined set of matches you can re
 Round-robin scales linearly with competitors while Swiss scales logarithmically.
 
 This handbook will try to appeal to the general wants of different stakeholders for each format, but your exact needs may differ.
-Use this as a jumping-off point, and work towards the best solutions for your needs.
+Use this as a jumping-off point, and work towards the best solutions for your project.

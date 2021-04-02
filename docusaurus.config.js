@@ -2,13 +2,13 @@
 module.exports = {
   title: 'furtive\'s handbook',
   tagline: 'A reference for tournament formats',
-  url: 'TBD',
+  url: 'https://morleym.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/shush.svg',
   organizationName: 'morleym', // Usually your GitHub org/user name.
-  projectName: 'furtive-handbook', // Usually your repo name.
+  projectName: 'morleym.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'furtive\'s handbook',
