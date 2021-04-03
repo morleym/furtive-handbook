@@ -6,6 +6,7 @@ module.exports = {
       'format-single-elim', 
       'format-double-elim', 
       'format-round-robin',
+      'format-combinations',
     ],
   },
 };
@@ -13,8 +14,7 @@ module.exports = {
 //     'Format Concepts': ['inputs-and-outputs', 'glossary', 'new-frontier'],
 
 /* 
-'format-swiss',
+      'format-swiss',
       'format-gauntlet',
       'format-ladder',
-      'format-combinations'
 */
