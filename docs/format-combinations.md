@@ -27,19 +27,19 @@ But we can learn from them, and apply those learnings to what we do.
 
 This traditional 'league' format is something we don't see as frequently in esports because of the resources involved with competing (and broadcasting) over several weeks.
 Therefore, we tend to see it in collegiate esports (where school club infrastructure keeps it together) and in premiere franchised esports leagues (where millions of dollars keeps it together).
-[Call of Duty League 2021](https://callofdutyleague.com/en-us/news/2021-call-of-duty-league-season-structure-details) is using a series of five Majors, where each major consists of Round-Robin groups (played over multiple weeks) into a Double-Elimination "Major" weekend.
+[Call of Duty League 2021](https://callofdutyleague.com/en-us/news/2021-call-of-duty-league-season-structure-details) is using a series of five majors, where each major consists of Round-Robin groups (played over multiple weeks) into a Double-Elimination "Major" weekend.
 That way, fans get guaranteed matches with their favorite teams (which are all determined upfront and can be arranged for storytelling purposes) while also getting high-impact elimination matches at the end.
 
 ### Swiss to Elim
 
-Swiss is more common in chess and TCG/CCG games than in major sports (although now we're seeing ["the world's game" incorporate it](https://soccer.nbcsports.com/2020/12/01/champions-league-swiss-system-details/)), and largely found its way into esports via digital TCG/CCG games like Hearthstone.
+Swiss is more common in chess and TCG/CCG games than in major sports (although [now we're seeing "the world's game" incorporate it](https://soccer.nbcsports.com/2020/12/01/champions-league-swiss-system-details/)), and largely found its way into esports via digital TCG/CCG games like Hearthstone.
 
 When setups and space aren't an issue, Swiss is an excellent way to start an open event, like a [Hearthstone event with hundreds of competitors at DreamHack](https://playhearthstone.com/en-us/esports/tournament/hct-dreamhack-atlanta-2018/).
 They combine the power of Swiss (a logarithmic-scaling, non-eliminating format) with a single-elim final.
 By doing so, they provide plenty of matches to all competitors, and deliver an exciting finish on broadcast, all in a timely manner.
 
 But you'll also see smaller-sized/invitational tournaments with this sort of format.
-The [2017 ELEAGUE Major](http://static.hltv.org/images/galleries/1693-full/1483656015.2685.jpeg) (source: HLTV) used a modified 16-team Swiss -> Single-Elim format where teams who won 3 matches advanced and teams who lost 3 matches were eliminated.
+The [2017 ELEAGUE Major](http://static.hltv.org/images/galleries/1693-full/1483656015.2685.jpeg) (source: HLTV) used a modified 16-team Swiss -> Single-Elim format where teams who won 3 matches advanced to the final bracket and teams who lost 3 matches were eliminated.
 
 ### And Beyond
 

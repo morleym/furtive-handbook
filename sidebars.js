@@ -6,6 +6,7 @@ module.exports = {
       'format-single-elim', 
       'format-double-elim', 
       'format-round-robin',
+      'format-swiss',
       'format-combinations',
     ],
   },

@@ -19,7 +19,7 @@ These rounds are typically named "Round of X" (e.g. Round of 64, Round of 32) to
 Once you have 8 remaining competitors, rounds are then named "Quarterfinal" (8), "Semifinal" (4), and "Final" (2).
 Optionally, you can add a 'third place match' where the losers of the semifinal matches play for third place.
 
-After all matches are completed, a set of standings is produced (where competitors are placed based on where they were eliminated).
+After all matches are completed, a set of standings is produced where competitors are placed based on where they were eliminated.
 
 ![single elim bracket image](https://i.imgur.com/wJcEF9d.png)
 
@@ -49,6 +49,7 @@ After all matches are completed, a set of standings is produced (where competito
 * It's easy to chart out the 'predicted' matchups throughout the day
   * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
   * Disruptions to this, aka 'upsets', are good stories themselves
+* Matches start with large predicted skill gaps, and close with small predicted skill gaps
 * Every match is impactful
   * The winner moves on, and the loser goes home
 * Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round

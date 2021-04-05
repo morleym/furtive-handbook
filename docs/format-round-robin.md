@@ -31,11 +31,18 @@ This way, you can easily see all matches for each competitor.
 
 Often times (and especially for larger Round Robins) you may simply see a list of standings in lieu of an actual diagram of the matches (as this is easier to digest on a broadcast).
 
+### Groups
+
+Unlike with single-elim and double-elim, breaking a Round-Robin into groups effectively changes the format (you won't see the same matches that you would have originally).
+Since the length of Round-Robin scales linearly with # of competitors (see below), breaking a large group into smaller group will save considerable time.
+If you have 16 competitors for example, and break them into two groups of eight, then you will have two separate Round-Robins which will take half as long to complete (7 rounds of play instead of 15 rounds of play).
+Time savings of this nature become more pronounced as the # of competitors increases; 128 competitors would take 127 rounds, but *16 groups of 8* still only needs 7 rounds.
+
 ## By the Numbers
 
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
-| # of Matches Played   | *n! / [2! \* (n-2)!]*       | 8 competitors = 28 matches played <br />17 competitors = 136 matches played |
+| # of Matches Played   | *n! / [2! \* (n-2)!]* <br /> (# of combinations)       | 8 competitors = 28 matches played <br />17 competitors = 136 matches played |
 | # of Necessary Rounds | *n-1* (if *n* is even) <br />*n* (if *n* is odd)          | 8 competitors = 7 rounds required <br /> 17 competitors = 17 rounds required |
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |   |
 | Possible progressions | 1 to *n*  |
@@ -45,15 +52,20 @@ Often times (and especially for larger Round Robins) you may simply see a list o
 ### Competitors & Competitive Ops
 
 * Round-Robin has a significantly larger # of rounds of play per competitors involved compared to elimination brackets or Swiss
-  * If you do not have adequated setups to run all available matches at once, then runtime will be longer
+  * If you do not have adequate setups to run all available matches at once, then runtime will be longer
   * On the positive side, competitors are guaranteed that many matches, and this is a common format for leagues played over several weeks
-  * To alleviate this problem for larger competitions, you can break competitors into groups/'pools'. While 16 competitors would require 15 rounds of play, 2 groups of 8 would require just 7 rounds of play.
+  * Again, you can break Round-Robin into smaller groups to save runtime
 * With every competitor playing each other, you can use round robin to acquire 'accurate' seeding for a multi-stage tournament (e.g. round-robin into double-elim)
-* Multi-stage tournaments often use round-robin as a lead-in to a playoff. Some competitors may end up out of playoff contention before their matches are over. This can, sometimes, lead to sandbagging (competitors not trying their hardest) in their final round-robin matches
+* Multi-stage tournaments often use round-robin as a lead-in to a playoff. Some competitors may end up out of playoff contention before their matches are over
+  * This can, sometimes, lead to sandbagging (competitors not trying their hardest) in their final round-robin matches
+  * In the worst case, copmetitors could participate in matchfixing/collusion around such a situation
 * Tiebreakers can take some time to calculate if it isn't natively handled in the tournament software/tooling you're using. Keep this in mind and be sure to communicate timeline expectations to competitors & broadcast in advance.
 
 ### Broadcast
 
 * You can schedule every single match out in advance, because round-robin matchups are predetermined
-* If a competitor is already eliminated from contention for the next stage in a multi-stage tournament, then their late round-robin matches may not be suitable for broadcast.
-* Tiebreakers may take some time to sort out. Try to plan how you will communicate scenarios and tiebreakers to an audience, and work with comp ops to plan how you'll determine these ASAP.
+* If you have multiple round-robin groups, then each group is its own self-contained story
+  * Who is expected to advance out of the group? Who is expected to be eliminated?
+* If a competitor is already eliminated from contention for the next stage in a multi-stage tournament, then their late round-robin matches may not be suitable for broadcast
+  * No one wants to see competitors sandbagging/not trying their hardest. Unless they do!
+* Tiebreakers may take some time to sort out. Consider how you will communicate scenarios and tiebreakers to an audience, and work with Comp Ops for how & when they will be determined

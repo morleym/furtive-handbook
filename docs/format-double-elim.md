@@ -22,7 +22,7 @@ Then, those two competitors face each other in a grand final.
 Rounds are typically named in each 'side' of bracket as "Winners/Losers Round X" (e.g. Winners Round 1, Losers Round 3, etc.).
 Once you are in the last three rounds of either side bracket, those rounds are then named "Winners/Losers Quarterfinal", "Winners/Losers Semifinal", and "Winners/Losers Final".
 
-After all matches are completed, a set of standings is produced (where competitors are placed based on where they were eliminated).
+After all matches are completed, a set of standings is produced where competitors are placed based on where they were eliminated.
 
 ![double elim bracket image](https://imgur.com/9E3KGEH.png)
 
@@ -41,7 +41,7 @@ Do what's right for your project, but be conscious of the debate and consider th
 
 As the number of competitors scales up, double-elimination competitions are usually represented not as a singular behemoth bracket, but as groups (or 'pools') feeding into a top bracket.
 For example, if you have 128 competitors, then you can represent that as 8 pools of 16 competitors each.
-Then, you would take a number from each pool (let's say top 2) and advance those copmetitors to the next 'stage'.
+Then, you would take a number from each pool (let's say top 2) and advance those competitors to the next 'stage'.
 I really need a visual for this...
 
 ## By the Numbers
@@ -94,7 +94,7 @@ I really need a visual for this...
 * Especially for broadcasted double-elim brackets, be conscious of downtime for competitors
   * Classic example is the winner of winners final waiting for *hours* to play grand finals
 * Conversely, be conscious of competitors burning out if playing too many matches back-to-back
-  * Usually, a competitor may need to play Losers Semifinal, Losers Final, And Grand Finals consecutively
+  * A competitor may need to play Losers Semifinal, Losers Final, And Grand Finals consecutively
   * This can be addressed with quick breaks
 * Double-elimination requires [complex algorithms](https://blog.smash.gg/changes-in-the-world-of-brackets-695ecb777a4c) to avoid early rematches in losers side of bracket.
 * Brackets can visually scale quickly- consider breaking your bracket into 'groups' or 'pools' for larger sizes (e.g. [1,365 competitors](https://smash.gg/tournament/genesis-5/event/melee-singles/brackets))
@@ -111,10 +111,10 @@ I really need a visual for this...
   * The winner moves on
   * The loser either goes to losers bracket, or goes home
 * The "Losers Run"
-  * A timeless tale where a competitor drops into losers side, and strings together wins
+  * Double-Elimination features a potential story where a competitor drops into losers side, and strings together wins
 * Rematches can happen!
-  * The classic is a competitor being sent to losers, getting to grands, and rematching the competitor who beat them
-  * Competitors may also meet in winners bracket, and then meet again later in losers bracket 
+  * A story where a competitor is sent to losers, gets to grands, and rematches the competitor who beat them
+  * Competitors may also meet in winners bracket, and then rematch in losers bracket
 * Bracket reset introduces a variance into runtime
   * Grand finals might be one match, or it might be two matches
 * Grand Finals can make or break excitement

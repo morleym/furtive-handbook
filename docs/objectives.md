@@ -26,7 +26,7 @@ Additionally, I will be grouping **Competitors** and **Competitive Ops** togethe
 
 What each stakeholder *wants* may align or conflict with one another.
 The classic example to dive into is between competitive ops (who are most focused on competitor experience & keeping the competition flowing smoothly)
- and broadcast (who are most focused on teling the story of the competition to the world).
+ and broadcast (who are most focused on telling the story of that competition to the world).
 Let's consider a single-elimination bracket with 8 competitors:
 
 * In the world without a broadcast, you probably want to run every match when it's ready (smoothest, quickest execution).
@@ -38,9 +38,9 @@ Obviously, these are at odds!
  then you'd need to wait for three other matches to finish before you could play again).
 
 So you have to come up with solutions, and discuss with each party.
-Maybe you propose that *two* quarterfinal matches will be streamed.
-Competitive ops says "Sure, that means players will only have to wait up to *two* matches' time."
-Broadcast says, "Okay! That means we'll only miss two matches (and they're the earliest round)."
+Maybe you propose that only *one* quarterfinal match will be streamed, and then both semifinals and the finals.
+Competitive ops says "Sure, that means players will have some waiting, but only for winning the first semifinal."
+Broadcast says, "Okay! That means we'll miss matches in the earliest round, but will catch all the finishing action."
 Great job, team!
 
 The larger a project is—and the more stakeholders it has—the more difficult this balancing act becomes.
@@ -48,7 +48,9 @@ But the principle remains the same: **gather what each party wants**, **learn wh
 
 For that last part, you'll need to quickly and confidently speak to how different formats suit (or don't suit) different goals.
 For example, round-robin has an entirely predetermined set of matches you can re-arrange while Swiss has you flying blind, hour by hour.
-Round-robin scales linearly with competitors while Swiss scales logarithmically.
+Round-robin scales linearly with competitors (balloons quickly) while Swiss scales logarithmically (can handle +++ competitors with little additional time).
+What would Comp Ops think of each?
+What would Broadcast think of each?
 
 This handbook will try to appeal to the general wants of different stakeholders for each format, but your exact needs may differ.
 Use this as a jumping-off point, and work towards the best solutions for your project.

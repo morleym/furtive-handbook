@@ -17,6 +17,8 @@ Next, I'll give you a reference table of relevant numbers for the format.
 * \# of Matches Played
   * This is how many total matches will be played
 * \# of Necessary Rounds
+  * The number of rounds necessary **to determine a 1st place competitor** given *n* competitors
+    * If you are breaking your format into groups, and/or are advancing a certain number of competitors per group, then there will be fewer rounds played than this
   * This is how you can calculate the runtime of a format! Multiply # of necessary rounds by the time you expect a match to take
 * Distinct Placements
   * These are the final standings you will have after you've completed all matches. If you want to award prizing, these will be your options.
@@ -36,19 +38,17 @@ As an example, here is the reference table for **Single-Elimination**.
 
 ## Considerations
 
-Here, I will call out some common & important notes to keep in mind for different people involved in esports projects.
-
-I've decided to focus on **Competitors & Comp Ops** and **Broadcast**.
+Here, I will call out some common & important notes to keep in mind for different stakeholders.
 
 ### Competitors & Competitive Ops
 
-Competitors & Comp Ops overlap enough on format-related strengths & weaknesses that I've grouped them together here.
+Competitors & Comp Ops overlap enough on format-related concerns that I've grouped them together here.
 Comp Ops, in an ideal world, exists to facilitate an excellent competitor experience while keeping everything running smoothly for broadcast & other stakeholders.
 That being the case, Comp Ops' considerations are largely driven by how competitors feel & behave in different formats.
-The items I list for them in each format usually relate to the competitor experience and the logistics for operating that foramt.
+The items I list for them in each format usually relate to the competitor experience and the logistics for operating that format.
 
 ### Broadcast
 
 Broadcast tells the story of the competition to the world.
-That being the case, Broadcast considerations are largely driven by what stories can be told, and how they can be told.
+That being the case, Broadcast considerations are largely driven by what stories can be told and how they can be told.
 The items I list for them relate to predictability in a format, typical storylines, and potential pitfalls.
