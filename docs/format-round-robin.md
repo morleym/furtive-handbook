@@ -51,6 +51,7 @@ Time savings of this nature become more pronounced as the # of competitors incre
 
 ### Competitors & Competitive Ops
 
+* Round-Robin supports ties! Unlike elimination formats, competitors can play a match and have a tied outcome.
 * Round-Robin has a significantly larger # of rounds of play per competitors involved compared to elimination brackets or Swiss
   * If you do not have adequate setups to run all available matches at once, then runtime will be longer
   * On the positive side, competitors are guaranteed that many matches, and this is a common format for leagues played over several weeks
