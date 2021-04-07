@@ -3,7 +3,7 @@ module.exports = {
   title: 'furtive\'s handbook',
   tagline: 'A reference for tournament formats',
   url: 'https://morleym.github.io',
-  baseUrl: '/furtive-handbook/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/shush.svg',
