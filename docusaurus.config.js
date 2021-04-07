@@ -8,7 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/shush.svg',
   organizationName: 'morleym', // Usually your GitHub org/user name.
-  projectName: 'morleym.github.io', // Usually your repo name.
+  projectName: 'furtive-handbook', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'furtive\'s handbook',
