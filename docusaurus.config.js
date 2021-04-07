@@ -3,7 +3,7 @@ module.exports = {
   title: 'furtive\'s handbook',
   tagline: 'A reference for tournament formats',
   url: 'https://morleym.github.io',
-  baseUrl: '/',
+  baseUrl: '/furtive-handbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/shush.svg',
@@ -66,6 +66,10 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/morleym/furtive-handbook',
+            },
+            {
+              label: 'Shush emoji by Twemoji',
+              href: 'https://twemoji.twitter.com/'
             },
           ],
         },
