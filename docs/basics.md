@@ -13,12 +13,13 @@ First, I'll start with a brief explanation of how the format works.
 ## By the Numbers
 
 Next, I'll give you a reference table of relevant numbers for the format.
+The values in this table assume that you are playing to completion and determining a 1st place.
+If you are splitting your competition into groups, and stopping early to advance competitors to another stage, then these values will be different.
 
 * \# of Matches Played
   * This is how many total matches will be played
 * \# of Necessary Rounds
-  * The number of rounds necessary **to determine a 1st place competitor** given *n* competitors
-    * If you are breaking your format into groups, and/or are advancing a certain number of competitors per group, then there will be fewer rounds played than this
+  * The number of necessary, consecutive rounds of play given *n* competitors
   * This is how you can calculate the runtime of a format! Multiply # of necessary rounds by the time you expect a match to take
 * Distinct Placements
   * These are the final standings you will have after you've completed all matches. If you want to award prizing, these will be your options.

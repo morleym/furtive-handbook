@@ -8,6 +8,7 @@ module.exports = {
       'format-round-robin',
       'format-swiss',
       'format-combinations',
+      'tldr',
     ],
   },
 };
