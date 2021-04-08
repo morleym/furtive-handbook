@@ -6,7 +6,7 @@ sidebar_label: Double-Elim Bracket
 
 Double Elimination, Double-Elimination, Double-Elim, DE.
 The *chocolate chip* ice cream of brackets.
-It's still fairly simple, and still pairs well with other ~~desserts~~ formats,
+It's still fairly simple and pairs well with other formats,
  but it has an added layer of complexity.
 
 ## How it Works
@@ -14,7 +14,7 @@ It's still fairly simple, and still pairs well with other ~~desserts~~ formats,
 Competitors are seeded into an initial round of matches.
 Win, and you advance to the next round in the 'winners bracket' (also known as 'upper bracket').
 Lose once, and you are sent to 'losers bracket' (also known as 'lower bracket').
-Lose a second time (in losers bracket), and you are eliminated.
+Lose a second time, and you are eliminated.
 This continues until only one competitor remains in winners bracket
  and one competitor remains in losers bracket.
 Then, those two competitors face each other in a grand final.
@@ -26,22 +26,26 @@ After all matches are completed, a set of standings is produced where competitor
 
 ![double elim bracket image](https://imgur.com/9E3KGEH.png)
 
-### Grand Finals
+### Grand Final
 
-There are conflicting schools of thought on how exactly 'grand finals' (where the winners of Winners Bracket and Losers Bracket meet) should work, and we need to cover that briefly.
-Some believe that the competitor who entered grand finals via winners bracket should have an advantage, either in the form of a bracket reset (where the team from losers match must win TWO matches, while the team from winners need only win ONE match), or a game advantage in a single match
+There are conflicting schools of thought on how exactly the 'grand final' (where the winners of Winners Bracket and Losers Bracket meet) should work.
+Some believe that the competitor who entered grand final via winners bracket should have an advantage, either in the form of a bracket reset (where the team from losers match must win TWO matches, while the team from winners need only win ONE match), or a game advantage in a single match
  (like a 1-0 head start in a Best-of-5 match).
 Others believe that there should be no advantage for the team from winners side.
 
 Personally, I'm of the opinion that a double-elimination bracket is incomplete if it ends when two competitors have only lost once.
-**But**, I understand that some esports have established a standard of no-advantage grand finals due to match length (e.g. [Overwatch League](https://www.ggrecon.com/articles/were-the-vancouver-titans-done-dirty)).
-Do what's right for your project, but be conscious of the debate and consider the alternatives (like single-elim).
+From that purist point of view, a grand final *must* have a bracket reset.
+**But**, I understand that some esports have established a standard of no-advantage grand finals due to impractical match lengths (e.g. [Overwatch League](https://www.ggrecon.com/articles/were-the-vancouver-titans-done-dirty)).
+Do what's right for your project, but be conscious of this debate and consider alternatives like single-elim in those cases.
 
 ### Pools
 
 As the number of competitors scales up, double-elimination competitions are usually represented not as a singular behemoth bracket, but as groups (or 'pools') feeding into a top bracket.
 For example, if you have 128 competitors, then you can represent that as 8 pools of 16 competitors each.
 Then, you would take a number from each pool (let's say top 2) and advance those competitors to the next 'stage'.
+Anyone who advances from losers side will remain in losers side in the next stage, and anyone who advances from winners will remain in winners.
+This could be two stages total, three stages total, or even more.
+In the end, however, it is still just one double-elimination bracket.
 I really need a visual for this...
 
 ## By the Numbers

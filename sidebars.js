@@ -3,6 +3,7 @@ module.exports = {
     'Introduction': ['welcome', 'objectives'],
     'Format Reference Guide': [
       'format-basics', 
+      'concepts',
       'format-single-elim', 
       'format-double-elim', 
       'format-round-robin',

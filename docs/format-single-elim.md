@@ -6,7 +6,7 @@ sidebar_label: Single-Elim Bracket
 
 Single Elimination, Single-Elimination, Single-Elim, SE.
 The *vanilla* ice cream of brackets.
-It's simple and pairs well with other ~~desserts~~ formats.
+It's simple and pairs well with other formats.
 
 ## How it Works
 

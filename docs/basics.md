@@ -8,16 +8,16 @@ This is a quick walkthrough of how I've formatted my format guides!
 
 ## How it Works
 
-First, I'll start with a brief explanation of how the format works.
+First, I'll start by explaining how the format works, and will cover some important aspects & variations.
 
 ## By the Numbers
 
 Next, I'll give you a reference table of relevant numbers for the format.
 The values in this table assume that you are playing to completion and determining a 1st place.
-If you are splitting your competition into groups, and stopping early to advance competitors to another stage, then these values will be different.
+If you are splitting your competition into groups and/or stopping early to advance competitors to another stage, then these values will be different.
 
 * \# of Matches Played
-  * This is how many total matches will be played
+  * This is how many total matches will be played given *n* competitors
 * \# of Necessary Rounds
   * The number of necessary, consecutive rounds of play given *n* competitors
   * This is how you can calculate the runtime of a format! Multiply # of necessary rounds by the time you expect a match to take
