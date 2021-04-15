@@ -47,3 +47,4 @@ With the basic principle of "use strengths to cover weaknesses," you can come up
 
 * [Ladder into bracket](https://smash.gg/tournament/training-mode-tournaments-21/details)
 * [Round-Robin groups into Double-Elim into Single-Elim](https://esports.rocketleague.com/news/announcing-the-rlcs-x-spring-split/)
+* [GSL Groups (Double-Elim groups that feed into a Single-Elim final)](https://help.toornament.com/structures/introducing-the-bracket-group)

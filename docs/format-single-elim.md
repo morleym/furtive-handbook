@@ -38,19 +38,35 @@ After all matches are completed, a set of standings is produced where competitor
 
 ### Competitors & Competitive Ops
 
+#### Competitor Experience
+
 * Competitors are only guaranteed one match (lowest of all format types)
   * Half of all competitors will only get to play one match
+* Competitors can chart out their course through bracket (to prepare for predicted matchups)
+
+#### Seeding
+
 * Single-elimination depends on excellent seeding
   * If there are significant unknowns or 'mistakes' in seeding, then competitors may be eliminated earlier than intended by similarly-skilled opponents
-* Competitors can chart out their course through bracket (to prepare for predicted matchups)
+
+#### Scheduling & Logistics
+
+* Single-Elim is efficient and fast
+* Single-Elim brackets are easy to generate
+  * At scale, use tournament software!
 
 ### Broadcast
 
-* It's easy to chart out the 'predicted' matchups throughout the day
+#### Storylines & Information Flow
+
+* Due to deterministic nature of bracket, it's easy to chart out the 'predicted' matchups throughout the day
   * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
   * Disruptions to this, aka 'upsets', are good stories themselves
 * Matches start with large predicted skill gaps, and close with small predicted skill gaps
 * Every match is impactful
   * The winner moves on, and the loser goes home
-* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
 * There is a risk of key competitors going home 'early'
+
+#### Scheduling
+
+* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round

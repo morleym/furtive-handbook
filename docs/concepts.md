@@ -12,13 +12,13 @@ Many competitions consist of more than just one bracket or bracket type.
 For example, a competition might *start* with round-robin and then *end* with a single-elim bracket.
 I refer to these as the 'stages' of a tournament, and you'll also see these referred to as 'phases' on tools like smash.gg.
 
-Moving from one stage to another stage is what I call *advancing* or *progressing*.
+Moving from one stage to another stage is what I call 'advancing' or 'progressing'.
 We see both of these concepts all the time in traditional sports.
 A team "making the playoffs" means that they advance from one stage (regular season play) to another stage (the playoffs bracket).
 
 ## Groups / Pools
 
-As the number of competitors scales up, competitions are usually broken up (either functionally or visually) into groups.
+As the number of competitors scales up, competitions are usually broken up—either functionally or visually—into groups.
 You can imagine, for example, that a double-elimination bracket of 512 competitors would be a behemoth to look at!
 For easier digestion and logistics, that 512 competitor bracket can instead be visually represented as groups (also known as 'pools') feeding into a final bracket.
 
