@@ -86,20 +86,28 @@ I really need a visual for this...
 
 ### Competitors & Competitive Ops
 
+#### Competitor Experience
+
 * Competitors are guaranteed two matches
   * A quarter of all competitors will only play one match
-* Double-elimination can be deceptively lengthy.
-  * Refer to the table for total length!
-  * Delays in *either* side of bracket (especially losers side) will hold up the overall bracket
-* Double-elimination relies on good seeding
-  * If there are significant unknowns or 'mistakes' in seeding, then competitors may be sent to losers earlier than intended, or eliminated entirely,
-    by similarly-skilled opponents
 * Competitors can chart out their course through both sides of bracket (to prepare for predicted matchups)
 * Especially for broadcasted double-elim brackets, be conscious of downtime for competitors
   * Classic example is the winner of winners final waiting for *hours* to play grand finals
 * Conversely, be conscious of competitors burning out if playing too many matches back-to-back
   * A competitor may need to play Losers Semifinal, Losers Final, And Grand Finals consecutively
   * This can be addressed with quick breaks
+
+#### Seeding
+
+* Double-elimination relies on good seeding
+  * If there are significant unknowns or 'mistakes' in seeding, then competitors may be sent to losers earlier than intended, or eliminated entirely,
+    by similarly-skilled opponents
+
+#### Scheduling & Logistics
+
+* Double-elimination can be deceptively lengthy.
+  * Refer to the table for total length!
+  * Delays in *either* side of bracket (especially losers side) will hold up the overall bracket
 * Double-elimination requires [complex algorithms](https://blog.smash.gg/changes-in-the-world-of-brackets-695ecb777a4c) to avoid early rematches in losers side of bracket.
 * Brackets can visually scale quickly- consider breaking your bracket into 'groups' or 'pools' for larger sizes (e.g. [1,365 competitors](https://smash.gg/tournament/genesis-5/event/melee-singles/brackets))
 * Utilize bracket software!
@@ -107,7 +115,8 @@ I really need a visual for this...
 
 ### Broadcast
 
-* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
+#### Storylines & Information Flow
+
 * It's easy to chart out the 'predicted' matchups throughout the day
   * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
   * Disruptions to this, aka 'upsets', are good stories themselves
@@ -119,11 +128,16 @@ I really need a visual for this...
 * Rematches can happen!
   * A story where a competitor is sent to losers, gets to grands, and rematches the competitor who beat them
   * Competitors may also meet in winners bracket, and then rematch in losers bracket
-* Bracket reset introduces a variance into runtime
-  * Grand finals might be one match, or it might be two matches
 * Grand Finals can make or break excitement
   * At its best, a grand finals can be an instant classic
   * At its worst, a lopsided/boring grand finals can be twice the slog of a single-elim finals
+
+#### Scheduling
+
+* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
+
+* Bracket reset introduces a variance into runtime
+  * Grand finals might be one match, or it might be two matches
 
 ## Citations
 

@@ -92,6 +92,21 @@ As always, a reminder that the below values assume you are playing to completion
 
 ### Competitors & Competitive Ops
 
+#### Competitor Experience
+
+* Swiss guarantees plenty of matches
+* Make sure the rules of *your* Swiss competition are clearly communicated in advance
+  * Everyone should know what it means to advance/win. Is it reaching a certain point in standings? Is it getting a certain record threshold?
+  * Consider setting aside time for Q&A beforehand
+
+#### Seeding
+
+* Swiss does not rely *heavily* on good seeding
+  * Good seeding has its largest impact in round 1
+  * Good seeding creates useful pairing numbers
+
+#### Scheduling & Logistics
+
 * Swiss supports ties! Because Swiss can be used as a non-eliminating format, and ties on the standings can be broken by various means, individual matches/games can have tied results
 * Swiss, like Round-Robin, requires adequate setups to play all matches at once (otherwise it will have a significantly long runtime)
 * Swiss matchups cannot be determined in advance, so you need to have quick turnaround from round to round (in informing everyone of the next round's matches) to prevent delays
@@ -101,11 +116,17 @@ As always, a reminder that the below values assume you are playing to completion
 
 ### Broadcast
 
+#### Storylines & Information Flow
+
 * Swiss is usually used as an initial stage for an event, followed by some form of elimination bracket
   * Consequently, the story of Swiss normally revolves around the records each competitor holds, and for any cutoff in the standings/records that competitors must make
 * You will not know matchups beyond the current round! Coordinate with Comp Ops for the expected cadence of learning the standings as of the current round, and the next round's matchups
 * For broadcast, it's usually much more clear-cut to use a record-based threshold for advancement/elimination
   * Makes the stakes of each match clear for talent and audience
 * If you're using a fully-played-out Swiss stage, then coordinate with Comp Ops to know when to expect final standings to be sorted out
+
+#### Scheduling
+
+* Coordinate with Comp Ops to know the expected number of rounds played
 * Consider the possible downtime between matches (if you broadcast a sweep, but any matches go longer in the round, then the next round will take a while to start)
   * One way to address this is being ready to hop into another, in-progress match if your first one ends quickly
