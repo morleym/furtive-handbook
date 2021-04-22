@@ -1,7 +1,7 @@
 ---
-id: objectives
-title: Objectives & Approach
-sidebar_label: Objectives
+id: stakeholders
+title: Stakeholders
+sidebar_label: Stakeholders
 ---
 
 ## Who are you?
@@ -32,7 +32,7 @@ Additionally, I will be grouping **Competitors** and **Competitive Ops** togethe
 ## Conflicting Interests
 
 What each stakeholder *wants* may align or conflict with one another.
-The classic example to dive into is between Competitive Ops and Broadcast.
+A classic example to dive into is how Competitive Ops and Broadcast might approach scheduling.
 Comp Ops is focused on competitor experience & keeping the competition flowing smoothly.
 Broadcast is focused on telling the story of that competition to the world.
 With that in mind, let's consider a single-elimination bracket with 8 competitors:

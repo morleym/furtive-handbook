@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    'Introduction': ['welcome', 'objectives'],
+    'Introduction': ['welcome', 'stakeholders'],
     'Format Reference Guide': [
       'format-basics', 
       'concepts',
