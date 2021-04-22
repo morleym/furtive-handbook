@@ -4,17 +4,14 @@ title: Stakeholders
 sidebar_label: Stakeholders
 ---
 
-## Who are you?
-
 Maybe you're working solo on your first-ever project.
 Maybe you're the head of Comp Ops for a franchised esports league.
 Maybe you're the producer for a grassroots event broadcast.
-
 No matter what role you're playing, or what size & shape your project fits,
- you have to approach each project with objectives in mind.
-These objectives usually come from your project's stakeholders.
+ you have to appease your stakeholders.
+If you're running a project by yourself, then consider these to be each of the different hats you're wearing!
 
-## Stakeholders
+### Stakeholders
 
 Typical stakeholders involved with an event are:
 
@@ -22,7 +19,7 @@ Typical stakeholders involved with an event are:
 * **Competitive Operations** (tournament admins/referees)
 * **Broadcast** (production team, talent, etc.)
 * Competitor Orgs (brands that competitors represent)
-* The Competition/Organizer's brand
+* The Competition's/Organizer's brand (social media/marketing)
 * Sponsors/Partners
 
 I'll be focusing on the **bolded** stakeholders in this handbook,

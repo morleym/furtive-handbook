@@ -1,10 +1,10 @@
 ---
-id: format-basics
-title: Format Basics
-sidebar_label: Format Basics
+id: format-guides-overview
+title: Format Guides Overview
+sidebar_label: Format Guides Overview
 ---
 
-This is a quick walkthrough of how I've formatted my format guides!
+This is a quick walkthrough of how I've formatted my format guides.
 
 ## How it Works
 
@@ -12,7 +12,7 @@ First, I'll start by explaining how the format works, and will cover some import
 
 ## By the Numbers
 
-Next, I'll give you a reference table of relevant numbers for the format.
+Next, I'll provide a reference table of important numbers for the format.
 The values in this table assume that you are playing to completion and determining a 1st place.
 If you are splitting your competition into groups and/or stopping early to advance competitors to another stage, then these values will be different.
 
@@ -24,7 +24,7 @@ If you are splitting your competition into groups and/or stopping early to advan
 * Distinct Placements
   * These are the final standings you will have after you've completed all matches. If you want to award prizing, these will be your options.
 * Possible progressions
-  * How many competitors you could advance from the format. This can involve shortening the competition (e.g. stopping a single-elim bracket after quarterfinals so that you can advance 4 competitors)
+  * How many competitors you could advance from the format. This may involve shortening the competition (e.g. stopping a single-elim bracket after quarterfinals so that you can advance 4 competitors)
 
 As an example, here is the reference table for **Single-Elimination**.
 
@@ -39,7 +39,8 @@ As an example, here is the reference table for **Single-Elimination**.
 
 ## Considerations
 
-Here, I will call out some common & important notes to keep in mind for different stakeholders.
+Here, I will list important notes to keep in mind for different stakeholders.
+When you're meeting with these stakeholders and discussing what to do, these are some good starting points for conversation.
 
 ### Competitors & Competitive Ops
 
