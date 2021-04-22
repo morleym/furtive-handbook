@@ -26,17 +26,6 @@ If you are splitting your competition into groups and/or stopping early to advan
 * Possible progressions
   * How many competitors you could advance from the format. This may involve shortening the competition (e.g. stopping a single-elim bracket after quarterfinals so that you can advance 4 competitors)
 
-As an example, here is the reference table for **Single-Elimination**.
-
-| Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
-| -------------         | :-----------:             | ----- |
-| # of Matches Played   | *n - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
-| # of Necessary Rounds    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
-| Distinct Placements   |   1st & 2nd, 3rd* & 4th, 4x T-5th,<br />8x T-9th, 16x T-17th, etc.       |   |
-| Possible progressions | 1, 2, 3*, 4, 8, 16, etc.   |
-
-**Only when a third place match is played.*
-
 ## Considerations
 
 Here, I will list important notes to keep in mind for different stakeholders.
