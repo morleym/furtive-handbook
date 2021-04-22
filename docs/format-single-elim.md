@@ -4,13 +4,14 @@ title: Single-Elimination Bracket
 sidebar_label: Single-Elim Bracket
 ---
 
-Single Elimination, Single-Elimination, Single-Elim, SE.
-The *vanilla* ice cream of brackets.
-It's simple and pairs well with other formats.
+Common aliases: Single Elimination, Single-Elimination, Single-Elim, SE.
+
+The *vanilla ice cream* of competition formats.
+It's simple, and it's a timeless format for 'playoffs' or 'championships' events.
 
 ## How it Works
 
-Competitors are seeded into an initial round of matches.
+Competitors are seeded into a round of matches.
 Win, and you advance to the next round.
 Lose, and you are eliminated.
 This continues until only one competitor remains.
