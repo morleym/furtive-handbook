@@ -1,8 +1,10 @@
 ---
 id: format-swiss
-title: Swiss-System Tournament
+title: Swiss
 sidebar_label: Swiss
 ---
+
+Common Aliases: Swiss, Swiss-Style, Swiss System.
 
 Swiss provides a compromise between Round-Robin and runtime.
 It is 'non-eliminating' (competitors continue to play matches regardless of winning/losing) but scales logarithmically.
@@ -16,17 +18,17 @@ The complexities of Swiss could be its own documentation site. This is going to 
 ## How it Works
 
 Competitors are paired up for a first round of matches.
-If there is an even number of competitors, then all competitors will play each round.
 If there is an odd number of competitors, then one competitor will have a bye each round.
-After the first round of matches is completed, competitors are paired up for the second round based on their records (1-0 competitors are paired with 1-0 competitors, and 0-1 competitors are paired with 0-1 competitors).
+After the first round of matches is completed, competitors are paired up for the second round based on their records: 1-0 competitors are paired with 1-0 competitors, and 0-1 competitors are paired with 0-1 competitors.
+We'll get more into the specifics about pairings later.
 
 Assuming you are trying to determine a 1st place, this will continue until one competitor holds a higher record than all other competitors.
 
-E.g. for 8 competitors you'll have the following records after each round:
+For example, with 8 competitors you'll have the following records:
 
-* Round 1: 4 at *1-0*, 4 at *0-1*
-* Round 2: 2 at *2-0*, 4 at *1-1*, 2 at *0-2*
-* Round 3: **1 at *3-0***, 3 at *2-1*, 3 at *1-2*, 1 at *0-3*
+* After round 1: 4 at *1-0*, 4 at *0-1*
+* After round 2: 2 at *2-0*, 4 at *1-1*, 2 at *0-2*
+* After round 3: **1 at *3-0***, 3 at *2-1*, 3 at *1-2*, 1 at *0-3*
 
 Now you've determined a 1st place, and the Swiss competition would be over.
 
@@ -35,28 +37,21 @@ Now you've determined a 1st place, and the Swiss competition would be over.
 Typically, Swiss is used as an initial stage to whittle a larger group down to a smaller group for an elimination bracket final.
 This is accomplished by either:
 
-* Playing out a full number of rounds with all competitors, and then advancing the "top cut" (e.g. "top 8 competitors on the standings will advance")
+* Playing out a full number of rounds with all competitors, and then advancing a certain number from the top of the leaderboard afterwards. This is usually called "the top cut" advancing.
 
 *or*
 
 * Setting a threshold record for advancement/elimination (e.g. "win 3 matches and advance, lose 3 matches and be eliminated")
-  * Obviously, this is messy if you don't have a 'square' number of competitors (8, 16, 32, etc.)
+  * This gets messy if you don't have a 'square' number of competitors (8, 16, 32, etc.)
 
-The former is usually used in larger fields of open competition (to ensure every competitor gets their guaranteed number of matches in).
-The latter is more commonly used in invitational fields of competitors in order to keep every match meaningful (and so that it's *immediately clear* when someone advances or is eliminated).
+The former is usually used in larger fields of open competition, where numbers of competitors are unpredictable.
+The latter is more commonly used in invitational events where the number of competitors is controlled.
 
 ### Tiebreakers
 
 If you're advancing/eliminating based on a threshold, then you don't need to worry about tiebreakers!
-Otherwise, Swiss competitions usually *either*:
-
-* Use matches won as an initial sort, and then use tiebreakers as needed
-
-*or*
-
-* Use a 'Swiss points' system where winning/losing matches, or having a bye, awards you a set number of points. Sort standings based on those, and then use tiebreakers as needed
-
-In many cases, these two methods are just semantically different ways to account for byes in Swiss standings (since a 'bye' must award *some* kind of match result or points value).
+Otherwise, Swiss competitions usually have a points system where you are awarded different points for winning, losing, or tying a match (or having a bye).
+Sort standings based on those, and then use tiebreakers as needed
 
 Swiss has a unique tiebreaker available called 'Strength of Schedule' which is a measurement of how strong a competitor's opponents were.
 The simplest way to measure this is Opponent Match Win % (OMW): the overall match win-loss % of the opponents a competitor played.
