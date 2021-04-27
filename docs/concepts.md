@@ -22,23 +22,27 @@ As the number of competitors scales up, competitions are usually broken up—eit
 You can imagine, for example, that a double-elimination bracket of 512 competitors would be a behemoth to look at!
 For easier digestion and logistics, that 512 competitor bracket can instead be visually represented as groups (also known as 'pools') feeding into a final bracket.
 
-Let's say we draw it up as 16 groups/pools of 32 competitors each (16 groups \* 32 per group = 512), where the top two competitors per group advance to a 'final' bracket (16 groups * 2 advancing per group = 32 competitors in the final bracket).
-The exact number of groups, and how many advance, etc., are all subjective.
+Let's say we take that 512-team bracket, and instead draw it up as 16 groups/pools of 32 competitors each (16 groups \* 32 per group = 512), where the top two competitors per group advance to a 'final' bracket (16 groups * 2 advancing per group = 32 competitors in the final bracket).
+
+The exact number of groups, and how many advance, is subjective.
+The point is that competitors, Competitive Ops, and Broadcast will be able to easily digest whichever *piece* of the overall puzzle they're currently focused on.
 
 For other formats, like round-robin, the act of dividing competitors into separate groups is more than just an aesthetic difference;
 it changes how many matches are played, and what those matches are.
-Using groups, in those cases, is done for purposes of runtime/scheduling and for story/structure.
+Using groups, in those cases, is done to change runtime/scheduling and the story/structure.
 
 ## Seeding
 
 Seeding has multiple meanings.
 
 * Seeding, as a *noun*, is the starting positions of competitors in a competition.
- In a bracket, this is a particular 'slot' in the bracket.
- In round-robin groups, this would be which group you are placed into.
- In Swiss, this would be your pairing number.
+ It can universally be represented as a numbered list going from Seed 1 to Seed *n* (for *n* competitors).
+ A competitor's 'seed' is their position on this list (1st seed, 5th seed, 17th seed, etc.).
+  * In a bracket, a competitor's seed determines which 'slot' of the bracket they start in.
+  * In round-robin groups, a competitor's seed determines which group they are placed into.
+  * In Swiss, a seed is the competitor's pairing number.
 * Seeding, as a *verb*, is the act of sorting competitors from highest skill to lowest skill.
- Once this sorting has been performed, that seeding is 'applied' to place competitors into their starting positions.
+ Once this sorting has been performed, that seeding is then 'applied' to place competitors into their starting positions.
 
 Seeding plays an important role because it determines the path a competitor must take.
 'Accurate' seeding means that competitors are correctly sorted from highest skill to lowest skill, and should result in a fair competition.
@@ -69,4 +73,5 @@ But in general, these tools will offer invaluable features such as:
 * A means of seeding
 * A means of generating brackets
   * For certain formats & event sizes, this is imperative because doing so by hand would be a monstrous undertaking
+* A means of entering results & automatically progressing competitors to their next matches or stage
 * A way for anyone to look at the brackets and follow along

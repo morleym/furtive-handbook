@@ -13,11 +13,11 @@ First, I'll start by explaining how the format works, and will cover some import
 ## By the Numbers
 
 Next, I'll provide a reference table of important numbers for the format.
-The values in this table assume that you are playing to completion and determining a 1st place.
-If you are splitting your competition into groups and/or stopping early to advance competitors to another stage, then these values will be different.
+The values in these tables will include:
 
 * \# of Matches Played
-  * This is how many total matches will be played given *n* competitors
+  * This is how many total matches will be played given *n* competitors.
+  When you use groups, you should note that *n* is the number of competitors in a group (as opposed to overall number of competitors).
 * \# of Necessary Rounds
   * The number of necessary, consecutive rounds of play given *n* competitors
   * This is how you can calculate the runtime of a format! Multiply # of necessary rounds by the time you expect a match to take
@@ -26,6 +26,11 @@ If you are splitting your competition into groups and/or stopping early to advan
 * Possible progressions
   * How many competitors you could advance from the format. This may involve shortening the competition (e.g. stopping a single-elim bracket after quarterfinals so that you can advance 4 competitors)
 
+:::caution
+The values in these tables assume that you are playing to completion and determining a 1st place.
+If you are stopping early to advance competitors to another stage, then these values will be different.
+:::
+
 ## Considerations
 
 Here, I will list important notes to keep in mind for different stakeholders.
@@ -33,7 +38,7 @@ When you're meeting with these stakeholders and discussing what to do, these are
 
 ### Competitors & Competitive Ops
 
-Competitors & Comp Ops overlap enough on format-related concerns that I've grouped them together here.
+Competitors & Competitive Ops overlap enough on format-related concerns that I've grouped them together here (not to mention, competitors are *usually not involved with planning events*).
 Comp Ops, in an ideal world, exists to facilitate an excellent competitor experience while keeping everything running smoothly for broadcast & other stakeholders.
 That being the case, Comp Ops' considerations are largely driven by how competitors feel & behave in different formats.
 The items I list for them in each format usually relate to the competitor experience and the logistics for operating that format.
@@ -43,3 +48,4 @@ The items I list for them in each format usually relate to the competitor experi
 Broadcast tells the story of the competition to the world.
 That being the case, Broadcast considerations are largely driven by what stories can be told and how they can be told.
 The items I list for them relate to predictability in a format, typical storylines, and potential pitfalls.
+This, implicitly, includes aspects of a format that audiences may find exciting (or boring).
