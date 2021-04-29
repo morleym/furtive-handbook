@@ -43,11 +43,11 @@ module.exports = {
           items: [
             {
               label: 'Format Concepts',
-              to: 'docs/inputs-and-outputs',
+              to: 'docs/concepts',
             },
             {
               label: 'Format Reference Guide',
-              to: 'docs/format-basics',
+              to: 'docs/format-guides-overview',
             },
           ],
         },
