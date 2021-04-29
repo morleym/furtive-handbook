@@ -9,12 +9,6 @@ Common Aliases: Swiss, Swiss-Style, Swiss System.
 Swiss provides a compromise between Round-Robin and runtime.
 It is 'non-eliminating' (competitors continue to play matches regardless of winning/losing) but scales logarithmically.
 
-:::note
-
-The complexities of Swiss could be its own documentation site. This is going to focus on the 'common' applications of it in esports.
-
-:::
-
 ## How it Works
 
 Competitors are paired up for a first round of matches.
@@ -22,13 +16,14 @@ If there is an odd number of competitors, then one competitor will have a bye ea
 After the first round of matches is completed, competitors are paired up for the second round based on their records: 1-0 competitors are paired with 1-0 competitors, and 0-1 competitors are paired with 0-1 competitors.
 We'll get more into the specifics about pairings later.
 
-Assuming you are trying to determine a 1st place, this will continue until one competitor holds a higher record than all other competitors.
+Assuming you are trying to determine a 1st place, this process will be repeated until one competitor holds a higher record than all other competitors.
 
-For example, with 8 competitors you'll have the following records:
+For example, with 16 competitors you'll have the following records:
 
-* After round 1: 4 at *1-0*, 4 at *0-1*
-* After round 2: 2 at *2-0*, 4 at *1-1*, 2 at *0-2*
-* After round 3: **1 at *3-0***, 3 at *2-1*, 3 at *1-2*, 1 at *0-3*
+* After round 1: 8 at *1-0*, 8 at *0-1*
+* After round 2: 4 at *2-0*, 8 at *1-1*, 4 at *0-2*
+* After round 3: 2 at *3-0*, 6 at *2-1*, 6 at *1-2*, 2 at *0-3*
+* After round 4: **1 at *4-0***, 4 at *3-1*, 6 at *2-2*, 4 at *1-3*, 1 at *0-4*
 
 Now you've determined a 1st place, and the Swiss competition would be over.
 
@@ -62,15 +57,16 @@ Less commonly, events may use head-to-head or OGW (Opponent Game Win %) as addit
 
 ### Pairings
 
-*How* competitors are paired each round is a complex topic in Swiss.
-In Single-Elim and Double-Elim, matches are wholly deterministic based on seeding.
-In Round-Robin, matches are wholly determined by "every competitor plays every other competitor once."
-In Swiss, however, there are often multiple 'valid' ways to pair competitors each round.
+To keep *this* page shorter, I stuffed detailed pairing info [in a separate page](swiss-pairings).
 
-There are very detailed resources available on the Internet for exploring pairing methods in chess (such as [this one from a chess community](https://utuswiss.co.uk/Resources/Swiss%20Pairing%20Booklet.pdf)) but, as you'll see, they are highly specialized to the workings of a chess ranking system.
+Long story short, I recommend that you either:
 
-The general idea is to avoid rematches, and to keep things 'fair' throughout the competition.
-That second notion is dependent on how you are advancing/eliminating competitors, and how standings are determined.
+* Go with what your tournament software does
+
+or
+
+* If you're advancing by final standings, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number (seeding) ![haha.. please help jordan](/img/godhelpme3.jpg)
+* If you're advancing by a record threshold, then your safest choice is pairing highest Pairing Numbers vs lowest Pairing Numbers in each score group (like in elimination brackets) ![haha.. please help jordan!!](/img/godhelpme2.jpg)
 
 ## By the Numbers
 
