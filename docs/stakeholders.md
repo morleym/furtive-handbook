@@ -8,22 +8,24 @@ Maybe you're working solo on your first-ever project.
 Maybe you're the head of Competitive Ops for a franchised esports league.
 Maybe you're the producer for a grassroots event broadcast.
 No matter what role you're playing, or what size & shape your project is,
- you will need to work with your fellow stakeholders.
+ you will need to work with your fellow **stakeholders**: **the people who have a stake in your project**.
+They are invested in the outcome because they are involved with, working on, or otherwise supporting the project.
 If you're running a project by yourself, then consider these to be each of the different hats you're wearing!
 
-### Stakeholders
+## Common Stakeholders
 
 Typical stakeholders involved with an event are:
 
 * **Competitors** (the players/teams themselves)
 * **Competitive Operations** (tournament admins/referees)
+  * I'll sometimes shorten this as "Comp Ops"
 * **Broadcast** (production team, talent, etc.)
 * Competitor Orgs (brands that competitors represent)
-* The Competition's/Organizer's brand (social media/marketing)
-* Sponsors/Partners
+* The Competition's/Organizer's brand (social media/marketing/PR)
+* Sponsors & Partners
 
 This, of course, is not an exhaustive list.
-Some companies have a dedicated hospitality team, another might have a partnerships manager, etc. and they will require consideration for those projects.
+Some companies have a dedicated hospitality team, another might have a partnerships manager, etc. and they will be stakeholders on their projects.
 For the sake of keeping a tight scope in this handbook, I'll be focusing on the **bolded** stakeholders in this handbook
  because (in my opinion) these are the core of an esports product.
 Additionally, I will be grouping **Competitors** and **Competitive Ops** together.
@@ -47,7 +49,7 @@ Capturing every match on broadcast means some competitors would wait far longer 
 
 To address a conflict like this, you need to develop potential solutions and appeal to each side.
 Maybe you propose that only *one* quarterfinal match will be streamed, and then both semifinals and the finals.
-You appeal to Competitive Ops by saying, "This way, only one competitor (winner of the first semifinal) will have downtime!"
+You appeal to Comp Ops by saying, "This way, only one competitor (winner of the first semifinal) will have downtime!"
 You then appeal to Broadcast with, "That means we'll miss a few matches in the *earliest* round, but we will catch *all* of the action after that."
 Maybe they both end up liking the answer.
 Maybe you have to adjust to broadcast *two* quarterfinal matches.
