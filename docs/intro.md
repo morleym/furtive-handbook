@@ -12,7 +12,7 @@ Welcome to my handbook.
 
 This is a reference guide for common competitive formats used in esports events!
 
-To me, the creative freedom of formatting a competition is one of best parts of working in esports.
+To me, the creative freedom in formatting a competition is one of best parts of working in esports.
 Your format choices will enable you to deliver fair, fun and exciting experiences for your competitors, broadcast, viewers, staff, sponsors and partners—or poor ones, if you aren't careful!
 Consequently, it's important that you are *consciously working with your format ideas*, while being aware of potential benefits & pitfalls, rather than *winging it as an afterthought*.
 
