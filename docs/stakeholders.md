@@ -23,6 +23,7 @@ Typical stakeholders involved with an event are:
 * Competitor Orgs (brands that competitors represent)
 * The Competition's/Organizer's brand (social media/marketing/PR)
 * Sponsors & Partners
+* The Client (when you are white-labeling an event)
 
 This is not an exhaustive list.
 Some companies have a dedicated hospitality team, a partnerships manager, or another important role, and they will be stakeholders on their projects.

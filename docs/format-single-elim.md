@@ -54,7 +54,8 @@ After all matches are completed, a set of standings is produced where competitor
 
 * Single-Elim is efficient and fast
 * Single-Elim brackets are easy to generate
-  * At scale, use tournament software!
+  * At scale, use tournament software
+  * At *very* large scale, make sure you're utilizing [Groups](/docs/concepts#groups--pools)
 
 ### Broadcast
 
@@ -63,11 +64,12 @@ After all matches are completed, a set of standings is produced where competitor
 * Due to deterministic nature of bracket, it's easy to chart out the 'predicted' matchups throughout the day
   * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
   * Disruptions to this, aka 'upsets', are good stories themselves
-* Matches start with large predicted skill gaps, and close with small predicted skill gaps
+* Matches *start* with larger predicted skill gaps, and *end* with smaller predicted skill gaps
+  * In early rounds, there are still some matchups where the middle seeds are close together. *These* are your best bets for close matches to follow.
 * Every match is impactful
   * The winner moves on, and the loser goes home
 * There is a risk of key competitors going home 'early'
 
 #### Scheduling
 
-* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
+* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold' matches to broadcast multiple per round

@@ -14,15 +14,15 @@ In short: "Everyone plays everyone else!"
 
 Every competitor will play every other competitor once, meaning it's effectively one match per 'combination' of your competitors.
 After all matches are completed, you will have a standings sorted by how the competitors performed.
-The first sort is usually # of matches won.
+The first sort is usually by # of matches won.
 The secondary/tertiary/etc. sorts are called 'tiebreakers' and usually consist of the following (adjusted to taste):
 
 * Head-to-head record
 * Game Differential (games won minus games lost) or Game Win % (percentage of games won out of total games played)
-* [*Insert videogame-specific stat*] e.g. 'goal differential'
+* A videogame-specific stat (e.g. 'goal differential')
 
-Occasionally, certain games/sports will boil all performance down to 'points' and will use those points for their round-robin standings instead of strictly # of matches won.
-This is uncommon outside of games/sports where 'ties' are possible (e.g. FIFA), and consequently a match win/loss/tie will award different points.
+Certain games/sports support draws (ties), so they will award 'points' for a Win/Loss/Draw and use those points to sort their round-robin standings instead of using # of match wins.
+A good example of this is FIFA tournaments, where the standard is 3 points for match win, 1 point for match draw, and 0 points for match loss.
 
 Round Robins are visually distinct from 'brackets.' They may be shown as a table crossing the list of competitors with itself.
 This way, you can easily see all matches for each competitor.
@@ -37,6 +37,13 @@ Unlike with single-elim and double-elim, breaking a Round-Robin into groups effe
 Since the length of Round-Robin scales linearly with # of competitors (see below), breaking a large group into smaller group will save considerable time.
 If you have 16 competitors for example, and break them into two groups of eight, then you will have two separate Round-Robins which will take half as long to complete (7 rounds of play instead of 15 rounds of play).
 Time savings of this nature become more pronounced as the # of competitors increases; 128 competitors would take 127 rounds, but *16 groups of 8* still only needs 7 rounds.
+
+### Double Round Robin
+
+Double Round Robin is a common variant of Round Robin.
+As the name implies, it is simply a repeated Round Robin.
+Every competitor plays every other competitor once, and then it's done again.
+More commonly seen in long-term 'league' projects rather than in one-day/one-week tournaments.
 
 ## By the Numbers
 
