@@ -24,8 +24,8 @@ Typical stakeholders involved with an event are:
 * The Competition's/Organizer's brand (social media/marketing/PR)
 * Sponsors & Partners
 
-This, of course, is not an exhaustive list.
-Some companies have a dedicated hospitality team, another might have a partnerships manager, etc. and they will be stakeholders on their projects.
+This is not an exhaustive list.
+Some companies have a dedicated hospitality team, a partnerships manager, or another important role, and they will be stakeholders on their projects.
 For the sake of keeping a tight scope in this handbook, I'll be focusing on the **bolded** stakeholders in this handbook
  because (in my opinion) these are the core of an esports product.
 Additionally, I will be grouping **Competitors** and **Competitive Ops** together.
