@@ -34,7 +34,8 @@ If you are stopping early to advance competitors to another stage, then these va
 ## Considerations
 
 Here, I will list important notes to keep in mind for different stakeholders.
-When you're meeting with these stakeholders and discussing what to do, these are some good starting points for conversation.
+These might be opportunities to capitalize on an aspect of the format, potential issues to watch out for, or ways that different roles will need to communicate with each other.
+When you're meeting with these stakeholders and discussing your format options, these are some good starting points for conversation!
 
 ### Competitors & Competitive Ops
 
