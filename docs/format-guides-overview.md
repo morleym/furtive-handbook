@@ -31,7 +31,7 @@ The values in these tables assume that you are playing to completion and determi
 If you are stopping early to advance competitors to another stage, then these values will be different.
 :::
 
-## Considerations
+## Notes for Different Roles
 
 Here, I will list important notes to keep in mind for different stakeholders.
 These might be opportunities to capitalize on an aspect of the format, potential issues to watch out for, or ways that different roles will need to communicate with each other.

@@ -54,7 +54,7 @@ More commonly seen in long-term 'league' projects rather than in one-day/one-wee
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |   |
 | Possible progressions | 1 to *n*  |
 
-## Considerations
+## Notes for Different Roles
 
 ### Competitors & Competitive Ops
 

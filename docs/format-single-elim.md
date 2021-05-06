@@ -35,7 +35,7 @@ After all matches are completed, a set of standings is produced where competitor
 
 **Only when a third place match is played.*
 
-## Considerations
+## Notes for Different Roles
 
 ### Competitors & Competitive Ops
 

@@ -82,7 +82,7 @@ I really need a visual for this...
 * *there are adequate setups to play all necessary matches simultaneously*
 * *perfect world, no delays*
 
-## Considerations
+## Notes for Different Roles
 
 ### Competitors & Competitive Ops
 

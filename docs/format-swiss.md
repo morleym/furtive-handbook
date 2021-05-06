@@ -80,7 +80,7 @@ As always, a reminder that the below values assume you are playing to completion
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |
 | Possible progressions | 1 to *n*  |
 
-## Considerations
+## Notes for Different Roles
 
 ### Competitors & Competitive Ops
 
