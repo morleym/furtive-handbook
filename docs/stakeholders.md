@@ -48,4 +48,4 @@ What would Competitors, Competitive Ops, and Broadcast each think of Swiss versu
 * Which aspects would present challenges for their roles?
 * Where would different stakeholders need to coordinate with each other, and how?
 
-Before we jump into the specific formats to answer these questions, we need to quickly cover a few important concepts that apply to all formats.
+Before we jump into the specific format guides—which will prepare you to answer these questions—we need to cover a few general format concepts.

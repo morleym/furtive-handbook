@@ -12,24 +12,24 @@ Many competitions consist of more than just one bracket or bracket type.
 For example, a competition might *start* with round-robin and then *end* with a single-elim bracket.
 I refer to these as the 'stages' of a tournament, and you'll also see these referred to as 'phases' on certain bracketing software.
 
-Moving from one stage to another stage is what I call 'advancing' or 'progressing'.
-We see both of these concepts all the time in traditional sports.
-A team "making the playoffs" means that they advance from one stage (regular season play) to another stage (the playoffs bracket).
+Moving competitors from one stage to the next is what I call 'advancing' or 'progressing'.
+We see both of these concepts all the time in traditional sports:
+ a team "making the playoffs" means that they advanced from one stage (regular season play) to another stage (the playoffs bracket).
 
 ## Groups / Pools
 
-As the number of competitors scales up, competitions are usually broken up—either functionally or visually—into groups.
+As the number of competitors scales up, competitions are usually broken up—visually and/or functionally—into groups.
 You can imagine, for example, that a double-elimination bracket of 512 competitors would be a behemoth to look at!
-For easier digestion and logistics, that 512 competitor bracket can instead be visually represented as groups (also known as 'pools') feeding into a final bracket.
+For easier digestion and logistics, that 512 competitor bracket can instead be visually represented as several, digestable groups (also known as 'pools') feeding into a final bracket.
 
 Let's say we take that 512-team bracket, and instead draw it up as 16 groups/pools of 32 competitors each (16 groups \* 32 per group = 512), where the top two competitors per group advance to a 'final' bracket (16 groups * 2 advancing per group = 32 competitors in the final bracket).
 
 The exact number of groups, and how many advance, is subjective.
-The point is that competitors, Competitive Ops, and Broadcast will be able to easily digest whichever *piece* of the overall puzzle they're currently focused on.
+The ultimate goal is that Competitors, Competitive Ops, and Broadcast can easily digest whichever *piece* of the overall puzzle they're currently focused on.
 
-For other formats, like round-robin, the act of dividing competitors into separate groups is more than just an aesthetic difference;
+For some formats, like round-robin, the act of dividing competitors into separate groups is more than just an aesthetic difference;
 it changes how many matches are played, and what those matches are.
-Using groups, in those cases, is done to change runtime/scheduling and the story/structure.
+Using groups, in those cases, is done to adjust runtime/scheduling and the story/structure.
 
 ## Seeding
 
@@ -59,19 +59,18 @@ Some formats are actually well-suited to *determine* accurate seeding for anothe
 Unless you're doing things by hand (or in a private spreadsheet), you'll probably be making use of some form of bracketing software.
 Popular choices include:
 
-* [smash.gg](https://smash.gg)
 * [Battlefy](https://battlefy.com)
 * [Challonge](https://challonge.com)
+* [smash.gg](https://smash.gg)
 * [Toornament](https://toornament.com)
 
 They each boast their own strengths and weaknesses, and support different formats in different ways.
 This is obviously not an exhaustive list of tools, and certain games communities have built their own software for their particular needs.
-But in general, these tools will offer invaluable features such as:
+In general, these tools offer invaluable features such as:
 
-* A webpage for your tournament's info
+* A webpage for your tournament's information, bracketing, and results
 * A way for competitors to register for your competition
-* A means of seeding
+* A means of seeding the competitors
 * A means of generating brackets
-  * For certain formats & event sizes, this is imperative because doing so by hand would be a monstrous undertaking
+  * For certain formats & event sizes, this is imperative because doing so by hand would be impractical
 * A means of entering results & automatically progressing competitors to their next matches or stage
-* A way for anyone to look at the brackets and follow along
