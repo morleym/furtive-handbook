@@ -23,11 +23,6 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {
-          href: 'https://github.com/morleym/furtive-handbook',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -82,15 +77,15 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/morleym/furtive-handbook/edit/master/website/',
+          // removing edit URL for now
+          // editUrl:
+          //   'https://github.com/morleym/furtive-handbook/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/morleym/furtive-handbook(1/edit/master/website/blog/',
+          // removing edit URL for now
+          // editUrl:
+          //   'https://github.com/morleym/furtive-handbook(1/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
