@@ -12,17 +12,14 @@ No matter what role you're playing, or what size & shape your project is,
 They are invested in the outcome because they are involved with, working on, or otherwise supporting the project.
 If you're running a project by yourself, then consider these to be each of the different hats you're wearing!
 
-## Common Stakeholders
-
 Typical stakeholders involved with an event are:
 
-* **Competitors** (the players/teams themselves)
-* **Competitive Operations** (tournament admins/referees)
-  * I'll sometimes shorten this as "Comp Ops"
+* **Competitors** (the players/teams competing)
+* **Competitive Operations** aka "Comp Ops" (tournament admins/referees)
 * **Broadcast** (production team, talent, etc.)
 * Competitor Orgs (brands that competitors represent)
 * The Competition's/Organizer's brand (social media/marketing/PR)
-* Sponsors & Partners
+* Event Sponsors & Partners
 * The Client (when you are white-labeling an event)
 
 This is not an exhaustive list.
@@ -39,32 +36,28 @@ Competitive Ops is focused on competitor experience & keeping the competition fl
 Broadcast is focused on telling the story of that competition to the world.
 With that in mind, let's consider a single-elimination bracket with 8 competitors:
 
-* In the "CompOps is everything" universe, Competitive Ops would want to run every match when it's ready (because that is the quickest execution with the least waiting time for competitors).
+* In the "Comp Ops is everything" universe, Competitive Ops would want to run every match when it's ready (because that is the quickest execution with the least waiting time for competitors).
 * In the "Broadcast is everything" universe, Broadcast would want every match to be captured (because that would tell the full story of the competition).
 
 Obviously, these are at odds!
 Running every match when it's ready means that the broadcast would miss half of the matches played.
 Capturing every match on broadcast means some competitors would wait far longer between matches.
+So... what do you do?
 
 ## Lead the Charge
 
-To address a conflict like this, you need to develop potential solutions and appeal to each side.
+To address a conflict like this one, someone must develop potential solutions and get all parties on board.
 Maybe you propose that only *one* quarterfinal match will be streamed, and then both semifinals and the finals.
 You appeal to Comp Ops by saying, "This way, only one competitor (winner of the first semifinal) will have downtime!"
 You then appeal to Broadcast with, "That means we'll miss a few matches in the *earliest* round, but we will catch *all* of the action after that."
 Maybe they both end up liking the answer.
 Maybe you have to adjust to broadcast *two* quarterfinal matches.
 Eventually, in the end, you come to a solution that everyone gets behind and you move forward.
+This process works no matter how large a project is, or how many stakeholders it has.
+Even if you aren't in a position to make the calls on your project, your team will still benefit from you knowing how different formats impact *your* role and your *teammates'* roles.
 
-The larger a project is—and the more stakeholders it has—the more difficult this balancing act becomes.
-But the principle remains the same: **gather what each party wants**, **learn why they want it**, and **determine where to compromise and appeal to their wants**.
-
-For that last part, you'll need to quickly and confidently speak to how different formats suit (or don't suit) different wants.
-For example, round-robin has an entirely predetermined set of matches you can re-arrange while Swiss has you flying blind, hour by hour.
-Round-robin scales linearly with competitors while Swiss scales logarithmically.
-What would Competitive Ops think of each?
-What would Broadcast think of each?
-
-This handbook will provide you with general considerations for each stakeholder, but your exact needs may differ.
-Use this as a jumping-off point, and work towards the best solutions for your project.
-And even if you aren't in a position to make the calls on your project, you will still benefit from knowing how different formats can impact *your* role and your *teammates'* roles.
+Once you familiarize yourself with the format guides, you should be able to tackle all kinds of format comparisons with your team.
+For example, what would Broadcast and Competitive Ops each think of Swiss and Round Robin?
+What aspects of each would appeal to them?
+What aspects of each would present challenges?
+What aspects of each would require tight coordination between them?

@@ -28,11 +28,6 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
-        {
-          href: 'https://www.mitchellmorley.com/',
-          label: 'Portfolio',
-          position: 'right',
-        }
       ],
     },
     footer: {
@@ -42,12 +37,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Format Concepts',
-              to: 'docs/concepts',
+              label: 'Intro',
+              to: 'docs/',
             },
             {
-              label: 'Format Reference Guide',
-              to: 'docs/format-guides-overview',
+              label: 'Format Guide',
+              to: 'docs/concepts',
             },
           ],
         },
@@ -69,8 +64,12 @@ module.exports = {
             },
             {
               label: 'Shush emoji by Twemoji',
-              href: 'https://twemoji.twitter.com/'
+              href: 'https://twemoji.twitter.com/',
             },
+            {
+              label: 'furtive\'s portfolio',
+              href: 'https://www.mitchellmorley.com/',
+            }
           ],
         },
       ],

@@ -1,13 +1,14 @@
 ---
 id: format-swiss
-title: Swiss
-sidebar_label: Swiss
+title: Swiss System
+sidebar_label: Swiss System
 ---
 
-Common Aliases: Swiss, Swiss-Style, Swiss System.
+Common Aliases: Swiss, Swiss-Style.
 
 Swiss provides a compromise between Round-Robin and runtime.
-It is 'non-eliminating' (competitors continue to play matches regardless of winning/losing) but scales logarithmically.
+The traditional form of it is 'non-eliminating' (competitors continue to play matches regardless of winning/losing) but its runtime scales logarithmically like a bracket does.
+Swiss and its variants are complex, so this doc is going to be a little meatier than the others.
 
 ## How it Works
 
@@ -32,15 +33,16 @@ Now you've determined a 1st place, and the Swiss competition would be over.
 Typically, Swiss is used as an initial stage to whittle a larger group down to a smaller group for an elimination bracket final.
 This is accomplished by either:
 
-* Playing out a full number of rounds with all competitors, and then advancing a certain number from the top of the leaderboard afterwards. This is usually called "the top cut" advancing.
+* Playing out a full number of rounds with all competitors, and then advancing a certain number from the top of the leaderboard afterwards. Commonly called "the top cut" advancing.
 
 *or*
 
 * Setting a threshold record for advancement/elimination (e.g. "win 3 matches and advance, lose 3 matches and be eliminated")
-  * This gets messy if you don't have a 'square' number of competitors (8, 16, 32, etc.)
+  * This is only recommended if the number of competitors is a power of 2 (like 8, 16, 32, etc.)
+  * This effectively makes Swiss into an 'eliminating' format
 
-The former is usually used in larger fields of open competition, where numbers of competitors are unpredictable.
-The latter is more commonly used in invitational events where the number of competitors is controlled.
+The former is used in larger fields of open competition, where numbers of competitors are unpredictable.
+The latter is used less frequently, in invitational events where the number of competitors is controlled.
 
 ### Tiebreakers
 
