@@ -29,4 +29,6 @@ While I would never claim to be the authority on competitive formatting, I have 
 One of those learnings is that a team is *most* effective when its decision-makers understand the impact of their decisions on each role.
 To that end, **I created this handbook to teach others how competitive format choices impact different roles on an esports project.**
 
-It is my hope that you may walk gracefully where I (and many others) have tripped and fallen.
+I want to see the baseline of esports events rise to a higher quality, and that's only possible if we share knowledge openly.
+Otherwise, people will continue to trip up on preventable logistical issues, or miss easy opportunities for storytelling, because they just weren't fully aware of how their competitive format worked.
+It is my hope that you may walk gracefully today where I (and countless others) once tripped and fell.
