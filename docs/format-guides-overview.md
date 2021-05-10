@@ -26,7 +26,7 @@ The values in these tables will include:
 * Possible progressions
   * How many competitors you could advance from the format. This may involve shortening the competition (e.g. stopping a single-elim bracket after quarterfinals so that you can advance 4 competitors)
 
-:::caution
+:::note
 The values in these tables assume that you are playing to completion and determining a 1st place.
 If you are stopping early to advance competitors to another stage, then these values will be different.
 :::

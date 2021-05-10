@@ -19,17 +19,24 @@ We see both of these concepts all the time in traditional sports:
 ## Groups / Pools
 
 As the number of competitors scales up, competitions are usually broken up—visually and/or functionally—into groups.
-You can imagine, for example, that a double-elimination bracket of 512 competitors would be a behemoth to look at!
-For easier digestion and logistics, that 512 competitor bracket can instead be visually represented as several, digestable groups (also known as 'pools') feeding into a final bracket.
+Imagine trying to read a gigantic double-elimination bracket of 512 competitors.
+And, if it's an in-person events where the number of setups is limited, then how would you schedule out who is going to play their matches where & when?
 
-Let's say we take that 512-team bracket, and instead draw it up as 16 groups/pools of 32 competitors each (16 groups \* 32 per group = 512), where the top two competitors per group advance to a 'final' bracket (16 groups * 2 advancing per group = 32 competitors in the final bracket).
+For easier digestion and logistics, that 512 competitor bracket can *instead* be divided into several, digestable groups (also known as 'pools') which feed into a final bracket.
+Here's how that works: Let's say we take that 512-team bracket and draw it up as 16 groups/pools of 32 competitors each (16 groups \* 32 per group = 512), where the top two competitors per group advance to a 'final' bracket (16 groups * 2 advancing per group = 32 competitors in the final bracket).
+You could then schedule these 16 groups into different timeslots, assign different staff to run each of them, and focus on the storyline within each individual group when you broadcast matches ("who's going to advance out of *this* group?").
 
-The exact number of groups, and how many advance, is subjective.
-The ultimate goal is that Competitors, Competitive Ops, and Broadcast can easily digest whichever *piece* of the overall puzzle they're currently focused on.
+The exact number of groups, and how many advance per group, is subjective.
+The ultimate goal is that Competitors, Competitive Ops, and Broadcast can all easily manage and understand whichever *piece* of the overall puzzle they're currently focused on.
 
-For some formats, like round-robin, the act of dividing competitors into separate groups is more than just an aesthetic difference;
-it changes how many matches are played, and what those matches are.
+For some formats, like round-robin, the act of dividing competitors into separate groups will actually change *how many* matches are played, and *what* those matches are.
 Using groups, in those cases, is done to adjust runtime/scheduling and the story/structure.
+
+:::note
+
+Using groups for *single-elimination* doesn't change any matchups. Using groups for *double-elimination* will change the losers-side matchups.
+
+:::
 
 ## Seeding
 
@@ -44,10 +51,11 @@ Seeding has multiple meanings.
 * Seeding, as a *verb*, is the act of sorting competitors from highest skill to lowest skill.
  Once this sorting has been performed, that seeding is then 'applied' to place competitors into their starting positions.
 
-Seeding plays an important role because it determines the path a competitor must take.
+Seeding plays a crucial role for any competition because it determines the path each competitor must take.
 'Accurate' seeding means that competitors are correctly sorted from highest skill to lowest skill, and should result in a fair competition.
 'Bad' seeding would mean that competitors are not sorted correctly, and can lead to painful situations.
 These adjectives are subjective, but usually have elements of objective basis to them.
+A well-seeded competition usually starts with uneven matchups skill-wise, and then over time will have closer and closer matches.
 
 In each format guide, I will touch on how that format interacts with seeding.
 Some formats are heavily reliant on accurate seeding,
