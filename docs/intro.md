@@ -7,6 +7,12 @@ slug: /
 
 ## What is this?
 
+:::important
+
+Could use visuals on this intro page for the mood/concept of helping the reader's team succeed. And also we'll need to work YOU in here, Jordan. Introducing you as the artist for the guide and a blurb about your experience in bringing esports to life visually.
+
+:::
+
 This is a reference guide for common competitive formats used in esports events!
 
 To me, the creative freedom in formatting a competition is one of best parts of working in esports.

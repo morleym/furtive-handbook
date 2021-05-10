@@ -10,6 +10,12 @@ Next to single elimination, Round Robin may be the 'other' ubiqutous format
 
 ## How it Works
 
+:::important
+
+Need a visual of the 'combinations table' for round-robin
+
+:::
+
 In short: "Everyone plays everyone else!"
 
 Every competitor will play every other competitor once, meaning it's effectively one match per 'combination' of your competitors.
@@ -31,7 +37,19 @@ This way, you can easily see all matches for each competitor.
 
 Often times (and especially for larger Round Robins) you may simply see a list of standings in lieu of an actual diagram of the matches (as this is easier to digest on a broadcast).
 
+:::important
+
+need a visual for round-robin standings, including relevant columns for it like matches won, game W-L, game win %
+
+:::
+
 ### Groups
+
+:::important
+
+Could use a visual highlighting how breaking 16 competitors into two groups of 8 *separates* those competitors from each other (e.g. divided by a 'wall') and/or a visual of reducing a large number of matches into a smaller number of matches
+
+:::
 
 Unlike with single-elim and double-elim, breaking a Round-Robin into groups effectively changes the format (you won't see the same matches that you would have originally).
 Since the length of Round-Robin scales linearly with # of competitors (see below), breaking a large group into smaller group will save considerable time.

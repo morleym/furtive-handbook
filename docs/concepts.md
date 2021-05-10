@@ -8,6 +8,12 @@ These are some basic format concepts which I'll be referencing throughout my for
 
 ## Stages / Phases and Progressions / Advancements
 
+:::important
+
+Need a visual to show an example of a multi-stage format. Like a flowchart. One box for 'league play', an arrow pointing to the next box of 'playoffs', and maybe info in each like "16 competitors" and "round-robin" in league play box, "top 8 advance" on the arrow, and then "8 competitors" and "single-elimination" in playoffs box
+
+:::
+
 Many competitions consist of more than just one bracket or bracket type.
 For example, a competition might *start* with round-robin and then *end* with a single-elim bracket.
 I refer to these as the 'stages' of a tournament, and you'll also see these referred to as 'phases' on certain bracketing software.
@@ -17,6 +23,12 @@ We see both of these concepts all the time in traditional sports:
  a team "making the playoffs" means that they advanced from one stage (regular season play) to another stage (the playoffs bracket).
 
 ## Groups / Pools
+
+:::important
+
+need a visual showing how monstrous a huge bracket would be, and then how manageable a given 'pool' is by comparison. also need to communicate how the overall structure looks
+
+:::
 
 As the number of competitors scales up, competitions are usually broken up—visually and/or functionally—into groups.
 Imagine trying to read a gigantic double-elimination bracket of 512 competitors.
@@ -39,6 +51,12 @@ Using groups for *single-elimination* doesn't change any matchups. Using groups 
 :::
 
 ## Seeding
+
+:::important
+
+Need visuals what a seeding list looks like, and what it looks like to take an unordered list of competitors and sort them into a seeding list
+
+:::
 
 Seeding has multiple meanings.
 
@@ -63,6 +81,12 @@ Some formats are heavily reliant on accurate seeding,
 Some formats are actually well-suited to *determine* accurate seeding for another stage.
 
 ## Bracketing Software/Tournament Tools
+
+:::important
+
+Could use a visual for a generic tournament tool and how it's a webpage offering you tools to use, and showing off your tournament's info/results
+
+:::
 
 Unless you're doing things by hand (or in a private spreadsheet), you'll probably be making use of some form of bracketing software.
 Popular choices include:

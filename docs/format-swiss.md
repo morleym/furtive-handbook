@@ -12,6 +12,12 @@ Swiss and its variants are complex, so this doc is going to be a little meatier 
 
 ## How it Works
 
+:::important
+
+need a visual showing the round-by-round pairings by score groups (records)
+
+:::
+
 Competitors are paired up for a first round of matches.
 If there is an odd number of competitors, then one competitor will have a bye each round.
 After the first round of matches is completed, competitors are paired up for the second round based on their records: 1-0 competitors are paired with 1-0 competitors, and 0-1 competitors are paired with 0-1 competitors.
@@ -46,6 +52,12 @@ The latter is used less frequently, in invitational events where the number of c
 
 ### Tiebreakers
 
+:::important
+
+need a visual for standings with Swiss points, match wins, game win%, opponent match win%, etc.
+
+:::
+
 If you're advancing/eliminating based on a threshold, then you don't need to worry about tiebreakers!
 Otherwise, Swiss competitions usually have a points system where you are awarded different points for winning, losing, or tying a match (or having a bye).
 Sort standings based on those, and then use tiebreakers as needed
@@ -58,6 +70,12 @@ Game Win % and OMW are two of the most common Swiss tiebreakers used.
 Less commonly, events may use head-to-head or OGW (Opponent Game Win %) as additional tiebreakers.
 
 ### Pairings
+
+:::important
+
+Need a visual showing pairing randomly across top/bottom halves of a given score group by pairing number
+
+:::
 
 To keep *this* page shorter, I stuffed detailed pairing info [in a separate page](swiss-pairings).
 

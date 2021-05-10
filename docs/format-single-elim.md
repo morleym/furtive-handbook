@@ -11,6 +11,12 @@ It's simple, and it's a timeless format for 'playoffs' or 'championships' events
 
 ## How it Works
 
+:::important
+
+Need a visual of a single-elim bracket. Initial state, and then after a couple matches are finished (showing competitors advancing to next round, and other competitors eliminated)
+
+:::
+
 Competitors are seeded into a round of matches.
 Win, and you advance to the next round.
 Lose, and you are eliminated.

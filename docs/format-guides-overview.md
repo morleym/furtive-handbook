@@ -6,6 +6,12 @@ sidebar_label: Format Guides Overview
 
 This is a quick walkthrough of how I've formatted my format guides.
 
+:::important
+
+Could use visuals to generically communicate these sections' purposes. One is 'diagrams' (visual aids) another is 'numbers' (like calculating stuff) and the other is like 'notes'
+
+:::
+
 ## How it Works
 
 First, I'll start by explaining how the format works, and will cover some important aspects & variations.
@@ -36,6 +42,12 @@ If you are stopping early to advance competitors to another stage, then these va
 Here, I will list important notes to keep in mind for different stakeholders.
 These might be opportunities to capitalize on an aspect of the format, potential issues to watch out for, or ways that different roles will need to communicate with each other.
 When you're meeting with these stakeholders and discussing your format options, these are some good starting points for conversation!
+
+:::important
+
+I might play around with putting the 'role' visuals here on the notes in each doc
+
+:::
 
 ### Competitors & Competitive Ops
 
