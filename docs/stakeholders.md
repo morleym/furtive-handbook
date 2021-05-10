@@ -33,9 +33,10 @@ Additionally, due to how tightly they're coupled, I'll be grouping Competitors a
 
 What different stakeholders like and dislike about different formats may align or conflict with one another.
 And that's a good thing!
-Every role is trying to make a certain aspect of the event the best it can be.
-At the end of the day it is ONE team, ONE project, and your team will have to come up with a solution.
-Who will help the team craft good format options, rally everyone behind the final decision, and prepare them to make the most of it in their roles?
+Each role is working hard to make a certain aspect of the event the best it can be.
+At the end of the day it is ONE team, ONE project, and your team will need to arrive at a decision.
+Who will help the team craft good format options?
+Who will rally everyone behind the final decision, and prepare them to make the most of it in each of their roles?
 **Here's where you come in.**
 
 Even if you aren't a leader on paper (in a position to call the shots), you can still be a leader in service!
