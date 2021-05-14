@@ -87,7 +87,7 @@ or
 
 * If you're advancing by final standings, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number (seeding) <br />
 ![i will help don't worry](/img/godhelpme3.jpg)
-* If you're advancing by a record threshold, then your safest choice is pairing highest Pairing Numbers vs lowest Pairing Numbers in each score group (like in elimination brackets) <br /> ![haha.. please help jordan!!](/img/godhelpme2.jpg)
+* If you're advancing by a record threshold, then your safest choice is pairing highest Pairing Numbers vs lowest Pairing Numbers in each score group (like in elimination brackets) <br /> ![thanks jordan!](/img/godhelpme2.jpg)
 
 ## By the Numbers
 
