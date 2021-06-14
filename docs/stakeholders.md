@@ -46,14 +46,14 @@ Could use a visual showing you, the reader, being a leader to a group and helpin
 What different stakeholders like and dislike about different formats may align or conflict with one another.
 And that's a good thing!
 Each role is working hard to make a certain aspect of the event the best it can be.
-At the end of the day it is ONE team, ONE project, and your team will need to arrive at a decision.
+At the end of the day, however, it is ONE team, ONE project, and you will need to arrive at a decision.
 Who will help the team craft good format options?
 Who will rally everyone behind the final decision, and prepare them to make the most of it in each of their roles?
 **Here's where you come in.**
 
 Even if you aren't a leader on paper (in a position to call the shots), you can still be a leader in service!
 Your team *will* benefit from you knowing how different competitive formats impact your role and your teammates' roles.
-You can speak up confidently in meetings to guide conversations in a productive direction, you can privately share helpful information to prop up your teammates and set them up for success, and you can generally be a positive force for your project.
+You can speak up confidently in meetings to guide conversations in a productive direction, privately share helpful information to prop up your teammates and set them up for success, and generally be a positive force for your project.
 
 These format guides, once you familiarize yourself, will prepare you to tackle all kinds of format comparisons with your team.
 What would Competitors, Competitive Ops, and Broadcast each think of Swiss versus Round Robin? For each format...
