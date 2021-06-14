@@ -76,9 +76,8 @@ These adjectives are subjective, but usually have elements of objective basis to
 A well-seeded competition usually starts with uneven matchups skill-wise, and then over time will have closer and closer matches.
 
 In each format guide, I will touch on how that format interacts with seeding.
-Some formats are heavily reliant on accurate seeding,
- while some formats are not.
-Some formats are actually well-suited to *determine* accurate seeding for another stage.
+Some formats are heavily reliant on accurate seeding, some formats are not, and
+ some formats are actually well-suited to *determine* accurate seeding for subsequent stages.
 
 ## Bracketing Software/Tournament Tools
 
@@ -96,8 +95,6 @@ Popular choices include:
 * [smash.gg](https://smash.gg)
 * [Toornament](https://toornament.com)
 
-They each boast their own strengths and weaknesses, and support different formats in different ways.
-This is obviously not an exhaustive list of tools, and certain games communities have built their own software for their particular needs.
 In general, these tools offer invaluable features such as:
 
 * A webpage for your tournament's information, bracketing, and results
@@ -106,3 +103,7 @@ In general, these tools offer invaluable features such as:
 * A means of generating brackets
   * For certain formats & event sizes, this is imperative because doing so by hand would be impractical
 * A means of entering results & automatically progressing competitors to their next matches or stage
+
+Each software/tool boasts its own strengths and weaknesses, and supports different formats in different ways.
+Certain games communities have built their own software for their particular needs.
+Picking the right tool for your project can save you a great deal of effort and prevent problems, so make sure to consider your options!
