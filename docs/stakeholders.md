@@ -21,6 +21,7 @@ Typical stakeholders involved with an event are:
 * The Competition's brand/Organizer's brand (social media/marketing/PR)
 * Event Sponsors & Partners
 * "The Client" (when you are white-labeling an event)
+* Your Audience (who is viewing the broadcast)
 
 :::important
 
@@ -33,7 +34,9 @@ Some projects have a dedicated hospitality team, a partnerships team, or other i
 For the sake of keeping a tight scope in this handbook, I'll be focusing on the bolded three in this handbook
  because (in my opinion) these are the core of an esports product:
 **Competitors** ARE the gameplay, **Competitive Ops** sets the stage & oversees the gameplay, and **Broadcast** captures the story of the gameplay & overall competition to share it with the world.
-Additionally, due to how tightly they're coupled, I'll be grouping Competitors and Competitive Ops together.
+
+Due to how tightly they're coupled, I'll be grouping Competitors and Competitive Ops together.
+And, because the audience is also always on the mind of Broadcast, I would consider Broadcast to be the viewers' seat at the table in planning meetings.
 
 ## Being a Leader
 
