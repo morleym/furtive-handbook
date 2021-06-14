@@ -23,8 +23,8 @@ Lose, and you are eliminated.
 This continues until only one competitor remains.
 These rounds are typically named "Round of X" (e.g. Round of 64, Round of 32) to indicate how many competitors
  remain, or otherwise are referred to as "Round 1," "Round 2," etc.
-Once you have 8 remaining competitors, rounds are then named "Quarterfinal" (8), "Semifinal" (4), and "Final" (2).
-Optionally, you can add a 'third place match' where the losers of the semifinal matches play for third place.
+Once you have 8 remaining competitors, rounds are then named "Quarterfinals" (8), "Semifinals" (4), and "Final" (2).
+Optionally, you can add a 'third place match' where the losers of each semifinals match play for third place.
 
 After all matches are completed, a set of standings is produced where competitors are placed based on where they were eliminated.
 
@@ -50,11 +50,13 @@ After all matches are completed, a set of standings is produced where competitor
 * Competitors are only guaranteed one match (lowest of all format types)
   * Half of all competitors will only get to play one match
 * Competitors can chart out their course through bracket (to prepare for predicted matchups)
+* You'll want to clearly communicate when the bracket will be available to competitors
 
 #### Seeding
 
 * Single-elimination depends on excellent seeding
   * If there are significant unknowns or 'mistakes' in seeding, then competitors may be eliminated earlier than intended by similarly-skilled opponents
+* Seeding must be performed, and applied, in order to finalize and share the bracket with competitors and Broadcast
 
 #### Scheduling & Logistics
 
