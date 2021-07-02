@@ -12,12 +12,6 @@ Swiss and its variants are complex, so this doc is going to be a little meatier 
 
 ## How it Works
 
-:::important
-
-need a visual showing the round-by-round pairings by score groups (records)
-
-:::
-
 Competitors are paired up for a first round of matches.
 If there is an odd number of competitors, then one competitor will have a bye each round.
 After the first round of matches is completed, competitors are paired up for the second round based on their records: 1-0 competitors are paired with 1-0 competitors, and 0-1 competitors are paired with 0-1 competitors.
@@ -25,7 +19,9 @@ We'll get more into the specifics about pairings later.
 
 Assuming you are trying to determine a 1st place, this process will be repeated until one competitor holds a higher record than all other competitors.
 
-For example, with 16 competitors you'll have the following records:
+![swiss diagram](/img/format-guides/format-Swiss-RecordsChart.png)
+
+For example (as pictured above), with 16 competitors you'll have the following records:
 
 * After round 1: 8 at *1-0*, 8 at *0-1*
 * After round 2: 4 at *2-0*, 8 at *1-1*, 4 at *0-2*
@@ -71,12 +67,6 @@ Less commonly, events may use head-to-head or OGW (Opponent Game Win %) as addit
 
 ### Pairings
 
-:::important
-
-Need a visual showing pairing randomly across top/bottom halves of a given score group by pairing number
-
-:::
-
 To keep *this* page shorter, I stuffed detailed pairing info [in a separate page](swiss-pairings).
 
 Long story short, I recommend that you either:
@@ -86,8 +76,8 @@ Long story short, I recommend that you either:
 or
 
 * If you're advancing by final standings, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number (seeding) <br />
-![i will help don't worry](/img/godhelpme3.jpg)
-* If you're advancing by a record threshold, then your safest choice is pairing highest Pairing Numbers vs lowest Pairing Numbers in each score group (like in elimination brackets) <br /> ![thanks jordan!](/img/godhelpme2.jpg)
+![random pairings](/img/format-guides/format-swiss-pairings-random.png)
+* If you're advancing by a record threshold, then you may want to consider pairing the highest Pairing Numbers vs the lowest Pairing Numbers in each score group (like in elimination brackets) <br /> ![thanks jordan!](/img/format-guides/format-swiss-pairings.png)
 
 ## By the Numbers
 

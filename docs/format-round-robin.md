@@ -10,12 +10,6 @@ Next to single elimination, Round Robin may be the 'other' ubiqutous format
 
 ## How it Works
 
-:::important
-
-Need a visual of the 'combinations table' for round-robin
-
-:::
-
 In short: "Everyone plays everyone else!"
 
 Every competitor will play every other competitor once, meaning it's effectively one match per 'combination' of your competitors.
@@ -33,15 +27,11 @@ A good example of this is FIFA tournaments, where the standard is 3 points for m
 Round Robins are visually distinct from 'brackets.' They may be shown as a table crossing the list of competitors with itself.
 This way, you can easily see all matches for each competitor.
 
-![round robin image](https://imgur.com/tjf3iQt.png)
+![round robin diagram](/img/format-guides/format-RoundRobin.png)
 
 Often times (and especially for larger Round Robins) you may simply see a list of standings in lieu of an actual diagram of the matches (as this is easier to digest on a broadcast).
 
-:::important
-
-need a visual for round-robin standings, including relevant columns for it like matches won, game W-L, game win %
-
-:::
+![round robin standings](/img/format-guides/format-RoundRobinStandings.png)
 
 ### Groups
 
