@@ -65,11 +65,9 @@ Anyone who advances from losers side will remain in losers side in the next stag
 This could be two stages total, three stages total, or even more.
 In the end, however, it is still just one double-elimination bracket.
 
-:::important
+In this diagram, you can visualize how the top teams from each group advance to the next stage.
 
-Need a visual showing a pool which feeds into a final bracket (highlighting the competitors who advanced from the pool into the final bracket)
-
-:::
+![pools into bracket diagram](/img/format-guides/concepts-PoolsToBracket.png)
 
 ## By the Numbers
 

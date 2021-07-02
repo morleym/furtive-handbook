@@ -28,11 +28,11 @@ As the number of competitors scales up, competitions are usually broken up—vis
 Imagine trying to read a gigantic double-elimination bracket of 512 competitors.
 And, if it's an in-person events where the number of setups is limited, then how would you schedule out who is going to play their matches where & when?
 
-![big bracket no, format yes](/img/format-guides/concepts-GroupsPools.png)
-
 For easier digestion and logistics, that 512 competitor bracket can *instead* be divided into several, digestable groups (also known as 'pools') which feed into a final bracket.
 Here's how that works: Let's say we take that 512-team bracket and draw it up as 16 groups/pools of 32 competitors each (16 groups \* 32 per group = 512), where the top two competitors per group advance to a 'final' bracket (16 groups \* 2 advancing per group = 32 competitors in the final bracket).
 You could then schedule these 16 groups into different timeslots, assign different staff to run each of them, and focus on the storyline within each individual group when you broadcast matches ("who's going to advance out of *this* group?").
+
+![big bracket no, groups yes](/img/format-guides/concepts-GroupsPools.png)
 
 The exact number of groups, and how many advance per group, is subjective.
 The ultimate goal is that Competitors, Competitive Ops, and Broadcast can all easily manage and understand whichever *piece* of the overall puzzle they're currently focused on.
