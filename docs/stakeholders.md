@@ -18,10 +18,10 @@ Typical stakeholders involved with an event are:
 * **Competitive Operations** aka "Comp Ops" (tournament admins/referees)
 * **Broadcast** (production team, talent, etc.)
 * Competitor Orgs (brands that competitors represent)
-* The Competition's brand/Organizer's brand (social media/marketing/PR)
+* The Competition's Brand/Organizer's Brand (social media/marketing/PR)
 * Event Sponsors & Partners
 * "The Client" (when you are white-labeling an event)
-* Your Audience (who is viewing the broadcast)
+* Your Audience
 
 :::important
 
@@ -33,7 +33,7 @@ This is not an exhaustive list.
 Some projects have a dedicated hospitality team, a partnerships team, or other important stakeholders.
 For the sake of keeping a tight scope in this handbook, I'll be focusing on the bolded three in this handbook
  because (in my opinion) these are the core of an esports product:
-**Competitors** ARE the gameplay, **Competitive Ops** sets the stage & oversees the gameplay, and **Broadcast** captures the story of the gameplay & overall competition to share it with the world.
+**Competitors** provide the gameplay and create the story, **Competitive Ops** sets the stage & oversees the gameplay, and **Broadcast** captures this story of the gameplay, people & overall competition to share it with the world.
 
 Due to how tightly they're coupled, I'll be grouping Competitors and Competitive Ops together.
 And, because the audience is also always on the mind of Broadcast, I would consider Broadcast to be the viewers' seat at the table in planning meetings.
@@ -48,7 +48,7 @@ Could use a visual showing you, the reader, being a leader to a group and helpin
 
 What different stakeholders like and dislike about different formats may align or conflict with one another.
 And that's a good thing!
-Each role is working hard to make a certain aspect of the event the best it can be.
+Each role is working hard to make a certain aspect of the event the best it can be, so they'll naturally have different needs.
 At the end of the day, however, it is ONE team, ONE project, and you will need to arrive at a decision.
 Who will help the team craft good format options?
 Who will rally everyone behind the final decision, and prepare them to make the most of it in each of their roles?
@@ -59,7 +59,7 @@ Your team *will* benefit from you knowing how different competitive formats impa
 You can speak up confidently in meetings to guide conversations in a productive direction, privately share helpful information to prop up your teammates and set them up for success, and generally be a positive force for your project.
 
 These format guides, once you familiarize yourself, will prepare you to tackle all kinds of format comparisons with your team.
-What would Competitors, Competitive Ops, and Broadcast each think of Swiss versus Round Robin? For each format...
+For example, what would Competitors, Competitive Ops, and Broadcast each think of Swiss versus Round Robin? For each format...
 
 * Which aspects could they take advantage of in their roles?
 * Which aspects would present challenges for their roles?

@@ -13,6 +13,9 @@ Next to single elimination, Round Robin may be the 'other' ubiqutous format
 In short: "Everyone plays everyone else!"
 
 Every competitor will play every other competitor once, meaning it's effectively one match per 'combination' of your competitors.
+These matches are played in 'rounds' where each round has every competitor playing one of the other competitors (no repeats).
+If there is an odd number of competitors, then one competitor each round will have a 'bye' (each competitor will get exactly one bye).
+
 After all matches are completed, you will have a standings sorted by how the competitors performed.
 The first sort is usually by # of matches won.
 The secondary/tertiary/etc. sorts are called 'tiebreakers' and usually consist of the following (adjusted to taste):
@@ -71,6 +74,7 @@ More commonly seen in long-term 'league' projects rather than in one-day/one-wee
 * Competitors get to play all the other competitors in the Round-Robin (or their Round-Robin group)
   * Plenty of guaranteed matches
   * No competitor gets a better/worse set of matches compared to anyone else in the group
+* All matches are predetermined, so you should be able to provide a schedule of each round to competitors in advance. Communicate when they should expect to have this!
 * Multi-stage tournaments often use round-robin as a lead-in to a playoff. Some competitors may end up out of playoff contention before their matches are over
   * This can, sometimes, lead to sandbagging (competitors not trying their hardest) in their final round-robin matches
   * In the worst case, competitors could participate in matchfixing/collusion around such a situation
@@ -79,7 +83,7 @@ More commonly seen in long-term 'league' projects rather than in one-day/one-wee
 
 * A singular Round-Robin does not require seeding
 * Round-Robin *groups* require seeding because otherwise you can end up with imbalanced groups
-* With every competitor playing each other, you can use round robin to acquire 'accurate' seeding for a multi-stage tournament (e.g. round-robin into double-elim)
+* With every competitor playing each other, you can use Round-Robin to acquire 'accurate' seeding for a multi-stage tournament (e.g. round-robin into double-elim)
 
 #### Scheduling & Logistics
 
@@ -102,4 +106,4 @@ More commonly seen in long-term 'league' projects rather than in one-day/one-wee
 
 #### Scheduling
 
-* You can schedule every single match out in advance, because round-robin matchups are predetermined
+* You can schedule every broadcasted match in advance, because 100% of round-robin matchups will be known

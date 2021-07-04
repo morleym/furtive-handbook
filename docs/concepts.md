@@ -24,13 +24,14 @@ We see both of these concepts all the time in traditional sports:
 
 ## Groups / Pools
 
-As the number of competitors scales up, competitions are usually broken up—visually and/or functionally—into groups.
-Imagine trying to read a gigantic double-elimination bracket of 512 competitors.
-And, if it's an in-person events where the number of setups is limited, then how would you schedule out who is going to play their matches where & when?
+As the number of competitors scales, competitions are usually broken up—visually and/or functionally—into groups.
+Imagine trying to read a gigantic double-elimination bracket of 512 competitors (spoiler: it's an eyesore).
+And, if it's an in-person events where the number of setups (the hardware the game is played on) is limited, then how would you schedule out who is going to play their matches where & when?
 
 For easier digestion and logistics, that 512 competitor bracket can *instead* be divided into several, digestable groups (also known as 'pools') which feed into a final bracket.
 Here's how that works: Let's say we take that 512-team bracket and draw it up as 16 groups/pools of 32 competitors each (16 groups \* 32 per group = 512), where the top two competitors per group advance to a 'final' bracket (16 groups \* 2 advancing per group = 32 competitors in the final bracket).
-You could then schedule these 16 groups into different timeslots, assign different staff to run each of them, and focus on the storyline within each individual group when you broadcast matches ("who's going to advance out of *this* group?").
+You could then schedule these 16 groups into different timeslots on particular setups, assign different staff to run each of them, and focus on the storyline within each individual group when you broadcast matches ("who's going to advance out of *this* group?").
+Problem solved!
 
 ![big bracket no, groups yes](/img/format-guides/concepts-GroupsPools.png)
 
@@ -42,7 +43,7 @@ Using groups, in those cases, is done to adjust runtime/scheduling and the story
 
 :::note
 
-Using groups for *single-elimination* doesn't change any matchups. Using groups for *double-elimination* will change the losers-side matchups.
+Using groups for *single-elimination* doesn't change any matchups, when compared to a singular/monolith bracket. Using groups for *double-elimination* will change the losers-side matchups.
 
 :::
 
@@ -102,4 +103,4 @@ In general, these tools offer invaluable features such as:
 
 Each software/tool boasts its own strengths and weaknesses, and supports different formats in different ways.
 Certain games communities have built their own software for their particular needs.
-Picking the right tool for your project can save you a great deal of effort and prevent problems, so make sure to consider your options!
+Picking the right tool for your project can save you a great deal of effort and prevent problems, so make sure to research and carefully consider your options!

@@ -43,13 +43,14 @@ After all matches are completed, a set of standings is produced where competitor
 
 * Competitors are only guaranteed one match (lowest of all format types)
   * Half of all competitors will only get to play one match
-* Competitors can chart out their course through bracket (to prepare for predicted matchups)
-* You'll want to clearly communicate when the bracket will be available to competitors
+  * Another quarter of all competitors will only get to play two matches
+* Once the bracket is provided to them, competitors can chart out their predicted course through bracket (to prepare for matchups)
+  * For this reason, you'll want to clearly communicate when the bracket will be available to competitors
 
 #### Seeding
 
 * Single-elimination depends on excellent seeding
-  * If there are significant unknowns or 'mistakes' in seeding, then competitors may be eliminated earlier than intended by similarly-skilled opponents
+  * If there are significant unknowns or 'mistakes' in seeding, then top competitors may be eliminated earlier than intended by similarly-skilled opponents
 * Seeding must be performed, and applied, in order to finalize and share the bracket with competitors and Broadcast
 
 #### Scheduling & Logistics
@@ -63,15 +64,18 @@ After all matches are completed, a set of standings is produced where competitor
 
 #### Storylines & Information Flow
 
-* Due to deterministic nature of bracket, it's easy to chart out the 'predicted' matchups throughout the day
+* Due to the deterministic nature of brackets, it's easy to chart out the 'predicted' matchups throughout the day
   * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
   * Disruptions to this, aka 'upsets', are good stories themselves
 * Matches *start* with larger predicted skill gaps, and *end* with smaller predicted skill gaps
-  * In early rounds, there are still some matchups where the middle seeds are close together. *These* are your best bets for close matches to follow.
+  * It is common for broadcasts to skip the early rounds of larger brackets due to the lack of 'good' matches with top competitors involved
+  * If you want to broadcast early rounds, there are some matchups where the 'middle' seeds play each other. *These* are your best bets for close matches
 * Every match is impactful
   * The winner moves on, and the loser goes home
-* There is a risk of key competitors going home 'early'
+* There is a risk of key competitors going home 'early' off-stream if they are upset by a lower seed
+  * Broadcasts commonly feed this sort of info to talent for them to inform the audience, if that match was off-stream. You can work this in to the broadcast with more flair like with an 'upset alert' motion graphic
 
 #### Scheduling
 
 * Flexible length of day. You can pick one match per round to broadcast, or you can 'hold' matches to broadcast multiple per round
+  * Holding is most commonly done during the semifinals, so that you see the previous matches for *both* competitors who make it to the finals

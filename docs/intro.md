@@ -21,7 +21,7 @@ Your format choices play a crucial role in delivering fair, fun and exciting exp
 They can also make bad experiences, if you aren't careful!
 
 Having a handy reference guide to compare format options will empower you to **lead productive conversations with your team** and **navigate unclear & tough decisions**.
-You can steer them to take advantage of the opportunities a format provides and smoothly handle its challenges.
+You can steer them to take advantage of the opportunities a format provides *and* smoothly handle its challenges.
 
 ## Okay but *why* did you make this?
 
