@@ -23,12 +23,6 @@ Typical stakeholders involved with an event are:
 * "The Client" (when you are white-labeling an event)
 * Your Audience
 
-:::important
-
-Could use a visual to represent the bolded roles. Competitor, Competitive Ops, Broadcast. like person with controller, 'referee' and camera person?
-
-:::
-
 This is not an exhaustive list.
 Some projects have a dedicated hospitality team, a partnerships team, or other important stakeholders.
 For the sake of keeping a tight scope in this handbook, I'll be focusing on the bolded three in this handbook

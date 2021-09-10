@@ -8,11 +8,7 @@ These are some basic format concepts which I'll be referencing throughout my for
 
 ## Stages / Phases and Progressions / Advancements
 
-:::important
-
-Need a visual to show an example of a multi-stage format. Like a flowchart. One box for 'league play', an arrow pointing to the next box of 'playoffs', and maybe info in each like "16 competitors" and "round-robin" in league play box, "top 8 advance" on the arrow, and then "8 competitors" and "single-elimination" in playoffs box
-
-:::
+![diagram of multi-stage competition](/img/format-guides/concepts-multi-stage.png)
 
 Many competitions consist of more than just one bracket or bracket type.
 For example, a competition might *start* with round-robin and then *end* with a single-elim bracket.
