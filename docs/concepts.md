@@ -45,12 +45,6 @@ Using groups for *single-elimination* doesn't change any matchups, when compared
 
 ## Seeding
 
-:::important
-
-Need visuals what a seeding list looks like, and what it looks like to take an unordered list of competitors and sort them into a seeding list
-
-:::
-
 Seeding has multiple meanings.
 
 * Seeding, as a *noun*, is the starting positions of competitors in a competition.
@@ -73,12 +67,6 @@ Some formats are heavily reliant on accurate seeding, some formats are not, and
  some formats are actually well-suited to *determine* accurate seeding for subsequent stages.
 
 ## Bracketing Software/Tournament Tools
-
-:::important
-
-Could use a visual for a generic tournament tool and how it's a webpage offering you tools to use, and showing off your tournament's info/results
-
-:::
 
 Unless you're doing things by hand (or in a private spreadsheet), you'll probably be making use of some form of bracketing software.
 Popular choices include:

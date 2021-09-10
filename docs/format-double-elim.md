@@ -11,12 +11,6 @@ It's still fairly simple and pairs well with other formats,
 
 ## How it Works
 
-:::important
-
-Need a visual aid showing some winners + losers matches in an initial state, and then after a couple matches have finished (showing someone advance in winners, and someone drop to losers, aaand someone being eliminated in losers)
-
-:::
-
 Competitors are seeded into an initial round of matches.
 Win, and you advance to the next round in the 'winners bracket' (also known as 'upper bracket').
 Lose once, and you are sent to 'losers bracket' (also known as 'lower bracket').
@@ -30,21 +24,9 @@ Once you are in the last three rounds of either side bracket, those rounds are t
 
 After all matches are completed, a set of standings is produced where competitors are placed based on where they were eliminated.
 
-:::important
-
-Need a visual for the standings produced by double-elim (just placements)
-
-:::
-
 ![double elim bracket image](https://imgur.com/9E3KGEH.png)
 
 ### Grand Final
-
-:::important
-
-Need a visual showing the winners final, losers final, grand final, and bracket reset (with indication of winners/losers side team and both teams in reset marked as losers)
-
-:::
 
 There are conflicting schools of thought on how exactly the 'grand final' (where the winners of Winners Bracket and Losers Bracket meet) should work.
 Some believe that the competitor who entered grand final via winners bracket should have an advantage, either in the form of a bracket reset (where the team from losers match must win TWO matches, while the team from winners need only win ONE match), or a game advantage in a single match

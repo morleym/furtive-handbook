@@ -34,12 +34,6 @@ And, because the audience is also always on the mind of Broadcast, I would consi
 
 ## Being a Leader
 
-:::important
-
-Could use a visual showing you, the reader, being a leader to a group and helping them out
-
-:::
-
 What different stakeholders like and dislike about different formats may align or conflict with one another.
 And that's a good thing!
 Each role is working hard to make a certain aspect of the event the best it can be, so they'll naturally have different needs.

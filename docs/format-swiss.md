@@ -48,12 +48,6 @@ The latter is used less frequently, in invitational events where the number of c
 
 ### Tiebreakers
 
-:::important
-
-need a visual for standings with Swiss points, match wins, game win%, opponent match win%, etc.
-
-:::
-
 If you're advancing/eliminating based on a record threshold, then you don't need to worry about tiebreakers!
 Otherwise, Swiss competitions usually have a points system where you are awarded different points for winning, losing, or tying a match (or having a bye).
 Sort standings based on those, and then use tiebreakers as needed.
