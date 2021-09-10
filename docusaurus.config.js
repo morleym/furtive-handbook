@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'furtive\'s handbook',
-  tagline: 'A reference for tournament formats',
+  tagline: 'A reference guide for esports competition formats',
   url: 'https://morleym.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -23,16 +23,6 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {
-          href: 'https://github.com/morleym/furtive-handbook',
-          label: 'GitHub',
-          position: 'right',
-        },
-        {
-          href: 'https://www.mitchellmorley.com/',
-          label: 'Portfolio',
-          position: 'right',
-        }
       ],
     },
     footer: {
@@ -42,12 +32,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Format Concepts',
-              to: 'docs/concepts',
+              label: 'Intro',
+              to: 'docs/',
             },
             {
-              label: 'Format Reference Guide',
-              to: 'docs/format-guides-overview',
+              label: 'Format Guide',
+              to: 'docs/concepts',
             },
           ],
         },
@@ -69,8 +59,12 @@ module.exports = {
             },
             {
               label: 'Shush emoji by Twemoji',
-              href: 'https://twemoji.twitter.com/'
+              href: 'https://twemoji.twitter.com/',
             },
+            {
+              label: 'furtive\'s portfolio',
+              href: 'https://www.mitchellmorley.com/',
+            }
           ],
         },
       ],
@@ -83,15 +77,15 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/morleym/furtive-handbook/edit/master/website/',
+          // removing edit URL for now
+          // editUrl:
+          //   'https://github.com/morleym/furtive-handbook/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/morleym/furtive-handbook(1/edit/master/website/blog/',
+          // removing edit URL for now
+          // editUrl:
+          //   'https://github.com/morleym/furtive-handbook(1/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

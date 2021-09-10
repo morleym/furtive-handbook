@@ -1,67 +1,62 @@
 ---
 id: stakeholders
-title: Stakeholders
-sidebar_label: Stakeholders
+title: One Team, Many Roles
+sidebar_label: One Team, Many Roles
 ---
 
 Maybe you're working solo on your first-ever project.
 Maybe you're the head of Competitive Ops for a franchised esports league.
 Maybe you're the producer for a grassroots event broadcast.
 No matter what role you're playing, or what size & shape your project is,
- you will need to work with your fellow stakeholders.
-If you're running a project by yourself, then consider these to be each of the different hats you're wearing!
-
-### Stakeholders
+ you will need to work closely with your fellow **stakeholders**: **the people who have a stake in your project**.
+They are invested in the event's outcome because they are involved with, working on, or otherwise supporting the project.
+(If you're running a project by yourself, then consider these to be each of the different hats you're wearing!)
 
 Typical stakeholders involved with an event are:
 
-* **Competitors** (the players/teams themselves)
-* **Competitive Operations** (tournament admins/referees)
+* **Competitors** (the players/teams competing)
+* **Competitive Operations** aka "Comp Ops" (tournament admins/referees)
 * **Broadcast** (production team, talent, etc.)
 * Competitor Orgs (brands that competitors represent)
-* The Competition's/Organizer's brand (social media/marketing)
-* Sponsors/Partners
+* The Competition's Brand/Organizer's Brand (social media/marketing/PR)
+* Event Sponsors & Partners
+* "The Client" (when you are white-labeling an event)
+* Your Audience
 
-This, of course, is not an exhaustive list.
-Some companies have a dedicated hospitality team, another might have a partnerships manager, etc. and they will require consideration for those projects.
-For the sake of keeping a tight scope in this handbook, I'll be focusing on the **bolded** stakeholders in this handbook
- because (in my opinion) these are the core of an esports product.
-Additionally, I will be grouping **Competitors** and **Competitive Ops** together.
+This is not an exhaustive list.
+Some projects have a dedicated hospitality team, a partnerships team, or other important stakeholders.
+For the sake of keeping a tight scope in this handbook, I'll be focusing on the bolded three in this handbook
+ because (in my opinion) these are the core of an esports product:
+**Competitors** provide the gameplay and create the story, **Competitive Ops** sets the stage & oversees the gameplay, and **Broadcast** captures this story of the gameplay, people & overall competition to share it with the world.
 
-## Conflicting Interests
+Due to how tightly they're coupled, I'll be grouping Competitors and Competitive Ops together.
+And, because the audience is also always on the mind of Broadcast, I would consider Broadcast to be the viewers' seat at the table in planning meetings.
 
-What each stakeholder *wants* may align or conflict with one another.
-A classic example to dive into is how Competitive Ops and Broadcast might approach scheduling.
-Competitive Ops is focused on competitor experience & keeping the competition flowing smoothly.
-Broadcast is focused on telling the story of that competition to the world.
-With that in mind, let's consider a single-elimination bracket with 8 competitors:
+## Being a Leader
 
-* In the "CompOps is everything" universe, Competitive Ops would want to run every match when it's ready (because that is the quickest execution with the least waiting time for competitors).
-* In the "Broadcast is everything" universe, Broadcast would want every match to be captured (because that would tell the full story of the competition).
+:::important
 
-Obviously, these are at odds!
-Running every match when it's ready means that the broadcast would miss half of the matches played.
-Capturing every match on broadcast means some competitors would wait far longer between matches.
+Could use a visual showing you, the reader, being a leader to a group and helping them out
 
-## Lead the Charge
+:::
 
-To address a conflict like this, you need to develop potential solutions and appeal to each side.
-Maybe you propose that only *one* quarterfinal match will be streamed, and then both semifinals and the finals.
-You appeal to Competitive Ops by saying, "This way, only one competitor (winner of the first semifinal) will have downtime!"
-You then appeal to Broadcast with, "That means we'll miss a few matches in the *earliest* round, but we will catch *all* of the action after that."
-Maybe they both end up liking the answer.
-Maybe you have to adjust to broadcast *two* quarterfinal matches.
-Eventually, in the end, you come to a solution that everyone gets behind and you move forward.
+What different stakeholders like and dislike about different formats may align or conflict with one another.
+And that's a good thing!
+Each role is working hard to make a certain aspect of the event the best it can be, so they'll naturally have different needs.
+At the end of the day, however, it is ONE team, ONE project, and you will need to arrive at a decision.
+Who will help the team craft good format options?
+Who will rally everyone behind the final decision, and prepare them to make the most of it in each of their roles?
+**Here's where you come in.**
 
-The larger a project is—and the more stakeholders it has—the more difficult this balancing act becomes.
-But the principle remains the same: **gather what each party wants**, **learn why they want it**, and **determine where to compromise and appeal to their wants**.
+Even if you aren't a leader on paper (in a position to call the shots), you can still be a leader in service!
+Your team *will* benefit from you knowing how different competitive formats impact your role and your teammates' roles.
+You can speak up confidently in meetings to guide conversations in a productive direction, privately share helpful information to prop up your teammates and set them up for success, and generally be a positive force for your project.
 
-For that last part, you'll need to quickly and confidently speak to how different formats suit (or don't suit) different wants.
-For example, round-robin has an entirely predetermined set of matches you can re-arrange while Swiss has you flying blind, hour by hour.
-Round-robin scales linearly with competitors while Swiss scales logarithmically.
-What would Competitive Ops think of each?
-What would Broadcast think of each?
+These format guides, once you familiarize yourself, will prepare you to tackle all kinds of format comparisons with your team.
+For example, what would Competitors, Competitive Ops, and Broadcast each think of Swiss versus Round Robin? For each format...
 
-This handbook will provide you with general considerations for each stakeholder, but your exact needs may differ.
-Use this as a jumping-off point, and work towards the best solutions for your project.
-And even if you aren't in a position to make the calls on your project, you will still benefit from knowing how different formats can impact *your* role and your *teammates'* roles.
+* Which aspects could they take advantage of in their roles?
+* Which aspects would present challenges for their roles?
+* Where would different stakeholders need to coordinate with each other, and how?
+
+Before we jump into the specific format guides—which will prepare you to answer these questions—we need to cover a few general format concepts.

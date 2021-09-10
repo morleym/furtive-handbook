@@ -7,6 +7,13 @@ sidebar_label: Swiss Pairings
 *How* competitors are paired up each round is a complex topic in Swiss.
 So complex, that I just made this separate doc.
 
+
+:::important
+
+Drafted the visuals needed on this page..
+
+:::
+
 ## Super TL;DR
 
 * Go with what your tournament software does
