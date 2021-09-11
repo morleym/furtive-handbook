@@ -9,7 +9,7 @@ Maybe you're the head of Competitive Ops for a franchised esports league.
 Maybe you're the producer for a grassroots event broadcast.
 No matter what role you're playing, or what size & shape your project is,
  you will need to work closely with your fellow **stakeholders**: **the people who have a stake in your project**.
-They are invested in the event's outcome because they are involved with, working on, or otherwise supporting the project.
+They are invested in the project's outcome because they are involved with, working on, or otherwise supporting it.
 (If you're running a project by yourself, then consider these to be each of the different hats you're wearing!)
 
 Typical stakeholders involved with an event are:
@@ -25,12 +25,11 @@ Typical stakeholders involved with an event are:
 
 This is not an exhaustive list.
 Some projects have a dedicated hospitality team, a partnerships team, or other important stakeholders.
-For the sake of keeping a tight scope in this handbook, I'll be focusing on the bolded three in this handbook
- because (in my opinion) these are the core of an esports product:
-**Competitors** provide the gameplay and create the story, **Competitive Ops** sets the stage & oversees the gameplay, and **Broadcast** captures this story of the gameplay, people & overall competition to share it with the world.
+For the sake of keeping a tight scope in this handbook, I'll be focusing on the bolded three because (in my opinion) these are the core of an esports product:
+**Competitors** provide the gameplay and generate the story, **Competitive Ops** sets the stage & oversees the gameplay, and **Broadcast** captures this story of the gameplay, people & overall competition to share it with the world.
 
 Due to how tightly they're coupled, I'll be grouping Competitors and Competitive Ops together.
-And, because the audience is also always on the mind of Broadcast, I would consider Broadcast to be the viewers' seat at the table in planning meetings.
+Additionally, because the audience is always on the mind of Broadcast, I would consider Broadcast to be the viewers' seat at the table in planning meetings.
 
 ## Being a Leader
 
