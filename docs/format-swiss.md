@@ -48,18 +48,12 @@ The latter is used less frequently, in invitational events where the number of c
 
 ### Tiebreakers
 
-:::important
-
-need a visual for standings with Swiss points, match wins, game win%, opponent match win%, etc.
-
-:::
-
 If you're advancing/eliminating based on a record threshold, then you don't need to worry about tiebreakers!
 Otherwise, Swiss competitions usually have a points system where you are awarded different points for winning, losing, or tying a match (or having a bye).
 Sort standings based on those, and then use tiebreakers as needed.
 
 Swiss has a unique tiebreaker concept called 'Strength of Schedule,' which is a measurement of how strong a competitor's opponents were.
-The simplest way to measure this is Opponent Match Win % (OMW), which measure the % all the matches that a competitor's opponents played through the Swiss competition.
+The simplest way to measure this is Opponent Match Win % (OMW), which measure the % all the matches that a competitor's opponents won through the entire Swiss competition.
 So if two competitors are tied, but one of them has an OMW of 55% while the other has an OMW of 50%, then the one with 55% wins that particular tiebreaker.
 
 Game Win % and OMW are two of the most common Swiss tiebreakers used.
@@ -101,22 +95,24 @@ As a reminder, the below values assume you are playing to completion (to determi
   * Everyone should know what it means to advance/win. Is it reaching a certain point in standings? Is it getting a certain record threshold?
   * Everyone should also know how pairings work, and tiebreakers (if applicable)
   * Consider setting aside time for Q&A beforehand
+  * Ensure that competitors are kept updated about when the next round's matches will be available
 
 #### Seeding
 
-* Swiss does not 'hard require' seeding but it plays an important role (so make sure you seed as well as possible)
-  * Good seeding has its largest impact in round 1
+* Swiss does not *strictly* require seeding, but it plays an important role (so make sure you seed as well as possible)
   * Good seeding creates useful pairing numbers, which will impact pairings each round
+  * Good seeding has its largest impact in round 1 pairings
 
 #### Scheduling & Logistics
 
-* Swiss supports ties, which means it supports esports titles that have ties (like FIFA). Because Swiss can be used as a non-eliminating format, and ties on the standings can be broken by various means, individual matches/games can have tied results
-* Swiss, like Round-Robin, requires adequate setups to play all matches at once (otherwise it will have a significantly long runtime)
+* Swiss supports ties, which means it supports esports titles that have ties (like FIFA)
+  * Do not use the record-threshold version of Swiss if you are working with ties
+* Swiss, like Round-Robin, will take much longer if you do not have adequate setups to play all available matches at once
 * Swiss matchups cannot be determined in advance, so you need to have quick turnaround from round to round (in informing everyone of the next round's matches) to prevent delays
   * This communication needs to go both to competitors and to Broadcast when applicable
 * Be on top of getting matches started! A single delayed match can hold up the entire upcoming round.
 * Swiss can have meaningless matches in later rounds, so be wary of potential sandbagging
-  * Using a record-based cutoff for advancement/elimination will usually prevent this (but will reduce number of guaranteed matches for competitors)
+  * The record-threshold variant avoids this problem (but remember that it guarantees fewer matches and that it only works well when your # of competitors is a power of 2)
 * Using bracketing software to generate pairings for each round is much faster than by hand. However, make sure you know *how* the software is generating pairings beforehand, and that it matches your expectations.
 
 ### Broadcast
@@ -125,13 +121,15 @@ As a reminder, the below values assume you are playing to completion (to determi
 
 * Swiss is usually used as an initial stage for an event, followed by some form of elimination bracket
   * Consequently, the story of Swiss normally revolves around the Swiss standings/the records each competitor holds, and for any cutoff in the standings/records that competitors must make
-* You will not know matchups beyond the current round! Coordinate with Comp Ops for the expected cadence of learning the standings as of the current round, and the next round's matchups
+* You will not know matchups beyond the current round! Coordinate with Comp Ops for the expected cadence of learning...
+  * The standings as of the current round
+  * The next round's matchups
 * For broadcast, it's usually much more clear-cut to use a record-based threshold for advancement/elimination
   * Makes the stakes of each match clear for talent and audience
-* If you're using a fully-played-out Swiss stage, then coordinate with Comp Ops to know when to expect final standings & tiebreakers to be sorted out
+* Coordinate with Comp Ops to know when to expect final standings & tiebreakers to be sorted out
 
 #### Scheduling
 
 * Coordinate with Comp Ops to know the expected number of rounds played
-* Consider the possible downtime between matches (if you broadcast a sweep, but any matches go longer in the round, then the next round will take a while to start)
+* Consider the possible downtime between matches (e.g. if you broadcast a sweep, and a different match goes longer in the round, then the next round will take some time to start)
   * One way to address this is being ready to hop into another, in-progress match if your first one ends quickly

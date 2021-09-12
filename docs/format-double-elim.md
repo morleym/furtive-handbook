@@ -11,12 +11,6 @@ It's still fairly simple and pairs well with other formats,
 
 ## How it Works
 
-:::important
-
-Need a visual aid showing some winners + losers matches in an initial state, and then after a couple matches have finished (showing someone advance in winners, and someone drop to losers, aaand someone being eliminated in losers)
-
-:::
-
 Competitors are seeded into an initial round of matches.
 Win, and you advance to the next round in the 'winners bracket' (also known as 'upper bracket').
 Lose once, and you are sent to 'losers bracket' (also known as 'lower bracket').
@@ -30,21 +24,9 @@ Once you are in the last three rounds of either side bracket, those rounds are t
 
 After all matches are completed, a set of standings is produced where competitors are placed based on where they were eliminated.
 
-:::important
-
-Need a visual for the standings produced by double-elim (just placements)
-
-:::
-
 ![double elim bracket image](https://imgur.com/9E3KGEH.png)
 
 ### Grand Final
-
-:::important
-
-Need a visual showing the winners final, losers final, grand final, and bracket reset (with indication of winners/losers side team and both teams in reset marked as losers)
-
-:::
 
 There are conflicting schools of thought on how exactly the 'grand final' (where the winners of Winners Bracket and Losers Bracket meet) should work.
 Some believe that the competitor who entered grand final via winners bracket should have an advantage, either in the form of a bracket reset (where the team from losers match must win TWO matches, while the team from winners need only win ONE match), or a game advantage in a single match
@@ -59,11 +41,13 @@ Do what's right for your project, but be conscious of this debate and consider a
 ### Pools
 
 As the number of competitors scales up, entirely-double-elimination competitions are usually represented not as a singular behemoth bracket, but as [Groups](/docs/concepts#groups--pools) (commonly called 'pools') feeding into a final bracket (or, sometimes, *another* stage of double-elimination groups).
-For example, if you have 128 competitors, then you can represent that as 8 pools of 16 competitors each.
+For example, if you have 128 competitors, then you can represent it as 8 pools of 16 competitors each.
 Then, you would take a number from each pool (let's say top 2) and advance those competitors to the next 'stage'.
 Anyone who advances from losers side will remain in losers side in the next stage, and anyone who advances from winners will remain in winners.
 This could be two stages total, three stages total, or even more.
-In the case of [Genesis 5](https://smash.gg/tournament/genesis-5/event/melee-singles/overview)—a Super Smash Bros. Melee tournament which had **1,365** competitors—the competition was represented in *four* stages.
+In the case of [Genesis 5](https://smash.gg/tournament/genesis-5/event/melee-singles/overview)—a Super Smash Bros. Melee tournament which had **1,365** competitors—the competition was represented in *four* stages:
+
+![genesis pools](/img/format-guides/genesis-pools.png)
 
 ## By the Numbers
 
@@ -112,6 +96,8 @@ In the case of [Genesis 5](https://smash.gg/tournament/genesis-5/event/melee-sin
   * For this reason, you'll want to clearly communicate when the bracket will be available to competitors
 * Especially for broadcasted double-elim brackets, be conscious of downtime for competitors
   * Classic example is the winner of winners final waiting for *hours* to play grand finals
+  * Usually, excessive downtime occurs because of delays in early losers side rounds.
+  I recommend setting an early expectation/precedent for starting all matches in a timely manner
 * Conversely, be conscious of competitors burning out if playing too many matches back-to-back
   * Depending on how you schedule matches in the final rounds, a competitor may need to play Losers Semifinal, Losers Final, And Grand Finals consecutively
   * This can be addressed with quick breaks between those matches
@@ -139,7 +125,7 @@ In the case of [Genesis 5](https://smash.gg/tournament/genesis-5/event/melee-sin
 
 * It's easy to chart out the 'predicted' matchups throughout the day
   * Higher seeds will generally beat lower seeds. You can follow top seeds as a default story
-  * Disruptions to this, aka 'upsets', are good stories themselves
+  * Disruptions to the expected outcomes, aka 'upsets', are also good stories to cover
 * Every match is impactful
   * The winner moves on
   * The loser either goes to losers bracket, or goes home
@@ -154,7 +140,7 @@ In the case of [Genesis 5](https://smash.gg/tournament/genesis-5/event/melee-sin
 
 #### Scheduling
 
-* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all per round
+* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all in a round
 * Double-elimination has *options* for 'match order' in the final handful of matches. Work with Comp Ops to determine a suitable order
 * Bracket reset introduces a variance into runtime
   * Grand finals might be one match, or it might be two matches

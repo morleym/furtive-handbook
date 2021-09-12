@@ -7,12 +7,6 @@ slug: /
 
 ## What is this?
 
-:::important
-
-Could use visuals on this intro page for the mood/concept of helping the reader's team succeed. And also we'll need to work YOU in here, Jordan. Introducing you as the artist for the guide and a blurb about your experience in bringing esports to life visually.
-
-:::
-
 This is a reference guide for common competitive formats used in esports events!
 
 To me, the creative freedom in formatting a competition is one of best parts of working in esports.
@@ -25,12 +19,12 @@ You can steer them to take advantage of the opportunities a format provides *and
 
 ## Okay but *why* did you make this?
 
-While I would never claim to be the authority on competitive formatting, I have a serviceable collection of experiences and learnings to draw from.
-One of those learnings is that a team is *most* effective when its decision-makers understand the impact of their decisions on each role.
-To that end, **I created this handbook to teach others how competitive format choices impact different roles on an esports project.**
+I created this handbook to shed light on how competitive format choices impact different roles on an esports project.
+While I would never claim to be *the* authority on competitive formatting, I have a serviceable collection of experiences and learnings to draw from.
+One of those learnings is that a team is most effective when its decision-makers understand the impact of their decisions on the various roles who are delivering the 'product' of the competition.
 
 I want to see the baseline of esports events rise to a higher quality, and that's only possible if we share knowledge openly.
-Otherwise, people will continue to trip up on preventable logistical issues, or miss easy opportunities for storytelling, because they just weren't fully aware of how their competitive format worked.
+Otherwise, people will continue to trip up on preventable logistical issues, or miss easy opportunities for storytelling, because they simply were missing some information on their competitive format.
 It is my hope that you may walk gracefully today where I (and countless others) have tripped and fallen.
 
 ## Who are you?
