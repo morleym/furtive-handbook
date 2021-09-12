@@ -15,7 +15,7 @@ One of the most common combinations is something we've seen in traditional sport
 When the season is coming to a close, there are usually some competitors out of contention and their matches don't really have any impact (one of the weaknesses of Round-Robin).
 But, the playoffs that follow have the most exciting & impactful matches (a strength of Single-Elim) to cover for that.
 
-On the other side, the playoffs would be unfair & weird by itself; you might only see your favorite team once, and if all of the competitors were just dropped in randomly then we might see top teams knock each other out early (Single-Elim has few matches, and requires excellent seeding).
+On the other side, the playoffs would be unfair & weird if it were standalone; you might only see your favorite team once, and if all of the competitors were just dropped in randomly then we might see top teams knock each other out early (Single-Elim has few matches, and requires excellent seeding).
 So it's a good thing to have the regular season, because it gives far more chances to see our favorite competitors and it gives us *earned* seeds in the playoffs.
 
 ## Applying to Esports
@@ -39,7 +39,7 @@ They combine the power of Swiss (a logarithmic-scaling, non-eliminating format) 
 By doing so, they provide plenty of matches to all competitors, and deliver an exciting finish on broadcast, all in a timely manner.
 
 But you'll also see invitational tournaments utilize Swiss-to-elim formats.
-The [2017 ELEAGUE Major](http://static.hltv.org/images/galleries/1693-full/1483656015.2685.jpeg) (source: HLTV) used record-threshold Swiss -> Single-Elim format where teams who won 3 matches advanced to the final bracket and teams who lost 3 matches were eliminated.
+The [2017 ELEAGUE Major](http://static.hltv.org/images/galleries/1693-full/1483656015.2685.jpeg) (source: HLTV) used a record-threshold Swiss -> Single-Elim format where teams who won 3 matches advanced to the final bracket and teams who lost 3 matches were eliminated.
 
 ### Other Miscellaneous Examples
 
