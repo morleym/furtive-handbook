@@ -21,8 +21,9 @@ The values in these tables will include:
 * \# of Necessary Rounds
   * The number of necessary, consecutive rounds of play given *n* competitors
   * This is how you can calculate the runtime of a format! Multiply # of necessary rounds by the time you expect a match to take. Note that if you do not have sufficient setups to run all available matches concurrently, then your runtime will be longer than this
+
 * Distinct Placements
-  * These are the final standings you will have after you've completed all matches. If you want to award prizing, these will be your options.
+  * These are the final standings you will have after you've completed all matches. If you want to award prizing, then these will be your options
 * Possible progressions
   * How many competitors you could advance from the format. This may involve shortening the competition (e.g. stopping a single-elim bracket after quarterfinals so that you can advance 4 competitors)
 

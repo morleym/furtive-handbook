@@ -5,14 +5,14 @@ sidebar_label: Round Robin
 ---
 
 Round Robin, Round-Robin, RR.
-Next to single elimination, Round Robin may be the 'other' ubiqutous format
+Next to single elimination, Round Robin may be the 'other' ubiquitous format
  (featured in most traditional sports).
 
 ## How it Works
 
 In short: "Everyone plays everyone else!"
 
-Every competitor will play every other competitor once, meaning it's effectively one match per 'combination' of your competitors.
+Every competitor will play every other competitor once, meaning there is effectively one match per each 'combination' of your competitors.
 These matches are played in 'rounds' where each round has every competitor playing one of the other competitors (no repeats).
 If there is an odd number of competitors, then one competitor each round will have a 'bye' (each competitor will get exactly one bye).
 
@@ -25,7 +25,7 @@ The secondary/tertiary/etc. sorts are called 'tiebreakers' and usually consist o
 * A videogame-specific stat (e.g. 'goal differential')
 
 Certain games/sports support draws (ties), so they will award 'points' for a Win/Loss/Draw and use those points to sort their round-robin standings instead of using # of match wins.
-A good example of this is FIFA tournaments, where the standard is 3 points for match win, 1 point for match draw, and 0 points for match loss.
+For example, association football (and FIFA tournaments, as a result) commonly uses 3 points for match win, 1 point for match draw, and 0 points for match loss.
 
 Round Robins are visually distinct from 'brackets.' They may be shown as a table crossing the list of competitors with itself.
 This way, you can easily see all matches for each competitor.
@@ -37,12 +37,6 @@ Often times (and especially for larger Round Robins) you may simply see a list o
 ![round robin standings](/img/format-guides/format-RoundRobinStandings.png)
 
 ### Groups
-
-:::important
-
-Could use a visual highlighting how breaking 16 competitors into two groups of 8 *separates* those competitors from each other (e.g. divided by a 'wall') and/or a visual of reducing a large number of matches into a smaller number of matches
-
-:::
 
 Unlike with single-elim and double-elim, breaking a Round-Robin into groups effectively changes the format (you won't see the same matches that you would have originally).
 Since the length of Round-Robin scales linearly with # of competitors (see below), breaking a large group into smaller group will save considerable time.
