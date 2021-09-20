@@ -23,6 +23,11 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
+        {
+          href: 'https://mitchellmorley.com',
+          label: `furtive's portfolio`,
+          position: 'left',
+        },
       ],
     },
     footer: {
