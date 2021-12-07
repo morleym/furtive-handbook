@@ -15,8 +15,8 @@ They are invested in the project's outcome because they are involved with, worki
 Typical stakeholders involved with an event are:
 
 * **Competitors** (the players/teams competing)
-* **Competitive Operations** aka "Comp Ops" (tournament admins/referees)
-* **Broadcast** (production team, talent, etc.)
+* **Competitive Operations** aka "Comp Ops" (admins/referees, rules authors)
+* **Broadcast** (production team, talent, stage managers, etc.)
 * Competitor Orgs (brands that competitors represent)
 * The Competition's Brand/Organizer's Brand (social media/marketing/PR)
 * Event Sponsors & Partners
@@ -26,10 +26,9 @@ Typical stakeholders involved with an event are:
 This is not an exhaustive list.
 Some projects have a dedicated hospitality team, a partnerships team, or other important stakeholders.
 For the sake of keeping a tight scope in this handbook, I'll be focusing on the bolded three because (in my opinion) these are the core of an esports product:
-**Competitors** provide the gameplay and generate the story, **Competitive Ops** sets the stage & oversees the gameplay, and **Broadcast** captures this story of the gameplay, people & overall competition to share it with the world.
+**Competitors** provide the gameplay and generate the story material, **Competitive Ops** structures the competition & oversees its execution, and **Broadcast** captures this story of the gameplay, people & overall competition to share it with the world.
 
 Due to how tightly they're coupled, I'll be grouping Competitors and Competitive Ops together.
-Additionally, because the audience is always on the mind of Broadcast, I would consider Broadcast to be the viewers' seat at the table in planning meetings.
 
 ## Being a Leader
 
@@ -43,7 +42,7 @@ Who will rally everyone behind the final decision, and prepare them to make the 
 
 Even if you aren't a leader on paper (in a position to call the shots), you can still be a leader in service!
 Your team *will* benefit from you knowing how different competitive formats impact your role and your teammates' roles.
-You can speak up confidently in meetings to guide conversations in a productive direction, privately share helpful information to prop up your teammates and set them up for success, and generally be a positive force for your project.
+You can speak up confidently in meetings to guide conversations in a productive direction, share helpful information to prop up your teammates and set them up for success, and generally be a positive force for your project.
 
 These format guides, once you familiarize yourself, will prepare you to tackle all kinds of format comparisons with your team.
 For example, what would Competitors, Competitive Ops, and Broadcast each think of Swiss versus Round Robin? For each format...

@@ -57,8 +57,8 @@ After all matches are completed, a set of standings is produced where competitor
 
 * Single-Elim is efficient and fast
 * Single-Elim brackets are easy to generate
-  * At scale, use tournament software
-  * At *very* large scale, make sure you're utilizing [Groups](/docs/concepts#groups--pools)
+  * At scale, use tournament software and utilize [groups](/docs/concepts#groups--pools)
+    * Using groups will not change any matchups in single-elimination
 
 ### Broadcast
 
