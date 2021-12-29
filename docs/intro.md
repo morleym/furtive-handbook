@@ -8,7 +8,7 @@ slug: /
 ## What is this?
 
 This is a brief reference guide for the common competitive formats used in esports events!
-It will cover how each format works (with numbers to crunch for scheduling & logistics) and format aspects that different project roles should be aware of.
+It will cover how each format works (with numbers to crunch for scheduling & logistics) and items that different project roles should be aware of.
 
 ## Okay but *why* did you make this?
 
@@ -27,12 +27,18 @@ Otherwise, people will continue to trip up on preventable logistical issues, or 
 
 Having a handy reference guide to compare format options will empower you to **lead productive conversations with your team** and **navigate unclear & tough decisions**.
 You can steer them to take advantage of the opportunities a format provides *and* to smoothly handle its drawbacks or challenges.
-It is my hope that you may walk gracefully today where I (and countless others) have tripped and fallen.
+It is my hope that you may walk gracefully today where I (and countless others) have tripped and stumbled.
+
+## Who made all of the cool visuals?
+
+My good friend Jordan "Boomstick" Davis created the visuals on this project.
+He's awesome, and you should go check out his [turn-key production services](https://www.hitscanstudios.com/)!
 
 ## Who are you?
 
 My name is Mitchell Morley, and I also go by 'furtive'.
 I've been working on esports events since 2015, when I started running
- [Rocket League LAN tournaments out of a friend's garage](https://secure.meetupstatic.com/photos/event/a/d/4/d/highres_444404365.jpeg).
-Most recently, I've worked on competitive operations and creative production for professional esports events like the [RLCS](https://www.rocketleague.com/news/introducing-rlcs-x/), [eMLS](https://www.mlssoccer.com/news/emls-cup-2021-preview-how-watch-stream-and-follow-action),
+ Rocket League LAN tournaments out of a friend's garage.
+![the image](/img/garageLAN.jpeg)
+Since then, I've worked on competitive operations and creative production for professional esports leagues & events like the Rocket League Championship Series, eMLS,
  and [all kinds of projects in between](https://mitchellmorley.com).

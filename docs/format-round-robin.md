@@ -12,17 +12,17 @@ Next to single elimination, Round Robin may be the 'other' ubiquitous format
 
 In short: "Everyone plays everyone else!"
 
-Every competitor will play every other competitor once, meaning there is effectively one match per each 'combination' of your competitors.
-These matches are played in 'rounds' where each round has every competitor playing one of the other competitors (no repeats).
-If there is an odd number of competitors, then one competitor each round will have a 'bye' (each competitor will get exactly one bye).
+Every competitor will play every other competitor once, meaning there is effectively one match per combination of your competitors.
+These matches are played in 'rounds' where each round has every competitor playing one of the other competitors whom they have not already played.
+If there is an odd number of competitors, then one competitor each round will have a 'bye' where they sit out for the round (each competitor will get exactly one bye in those cases).
 
-After all matches are completed, you will have a standings sorted by how the competitors performed.
+After all matches are completed, you will have a final standings sorted by how the competitors performed.
 The first sort is usually by # of matches won.
 The secondary/tertiary/etc. sorts are called 'tiebreakers' and usually consist of the following (adjusted to taste):
 
-* Head-to-head record
 * Game Differential (games won minus games lost) or Game Win % (percentage of games won out of total games played)
-* A videogame-specific stat (e.g. 'goal differential')
+* Head-to-head record
+* A videogame-specific stat (e.g. goal differential in FIFA)
 
 Certain games/sports support draws (ties), so they will award 'points' for a Win/Loss/Draw and use those points to sort their round-robin standings instead of using # of match wins.
 For example, association football (and FIFA tournaments, as a result) commonly uses 3 points for match win, 1 point for match draw, and 0 points for match loss.
@@ -38,10 +38,10 @@ Often times (and especially for larger Round Robins) you may simply see a list o
 
 ### Groups
 
-Unlike with single-elim and double-elim, breaking a Round-Robin into groups effectively changes the format (you won't see the same matches that you would have originally).
 Since the length of Round-Robin scales linearly with # of competitors (see below), breaking a large group into smaller group will save considerable time.
 If you have 16 competitors for example, and break them into two groups of eight, then you will have two separate Round-Robins which will take half as long to complete (7 rounds of play instead of 15 rounds of play).
 Time savings of this nature become more pronounced as the # of competitors increases; 128 competitors would take 127 rounds, but *16 groups of 8* still only needs 7 rounds.
+An additional note: unlike with single-elim and double-elim, breaking a Round-Robin into groups significantly changes the matchups you will have.
 
 ### Double Round Robin
 
@@ -84,7 +84,6 @@ More commonly seen in long-term 'league' projects rather than in one-day/one-wee
 * Round-Robin supports ties! Unlike elimination formats, competitors can play a match and have a tied outcome.
 * Round-Robin has a significantly larger # of rounds of play per competitors involved compared to elimination brackets or Swiss
   * If you do not have adequate setups to run all available matches at once, then runtime will be longer
-  * On the positive side, competitors are guaranteed that many matches, and this is a common format for leagues played over several weeks
   * Again, you can break Round-Robin into smaller groups to save runtime
 * Tiebreakers can take some time to calculate if it isn't natively handled in the tournament software/tooling you're using. Keep this in mind and be sure to communicate timeline expectations to competitors & broadcast in advance.
 
@@ -96,6 +95,8 @@ More commonly seen in long-term 'league' projects rather than in one-day/one-wee
   * Who is expected to advance out of the group? Who is expected to be eliminated?
 * If a competitor is already eliminated from contention for the next stage in a multi-stage tournament, then their late round-robin matches may not be suitable for broadcast
   * No one wants to see competitors sandbagging/not trying their hardest. Unless they do!
+* Look for developing stories in the standings for each round.
+  * Who is vying for 1st place, or is on the cutoff for advancing out of the round-robin stage? Watch *their* matches.
 * Tiebreakers may take some time to sort out. Consider how you will communicate scenarios and tiebreakers to an audience, and work with Comp Ops for how & when they will be determined
 
 #### Scheduling

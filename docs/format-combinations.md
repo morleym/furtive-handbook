@@ -25,14 +25,14 @@ But we can learn from sports, and apply those learnings to what we do.
 
 ### Round-Robin to Elim
 
-This traditional 'league' format is something we don't see as frequently in esports because of the resources involved with competing (and broadcasting) over several weeks.
-Therefore, we tend to see it in collegiate esports (where school club infrastructure keeps teams together) and in premiere franchised esports leagues (where $$$ & signed contracts keeps teams together).
-[Call of Duty League 2021](https://callofdutyleague.com/en-us/news/2021-call-of-duty-league-season-structure-details) is using a series of five majors, where each major consists of Round-Robin groups (played over multiple weeks) into a Double-Elimination "Major" weekend.
-That way, fans get guaranteed matches with their favorite teams (which are all determined upfront and can be arranged for storytelling purposes) while also getting high-impact elimination matches at the end.
+This traditional 'league' structure seen in sports is something we don't see as frequently in esports because of the resources involved with competing (and broadcasting) over several weeks.
+Therefore, we tend to see mostly in scholastic esports (where school club infrastructure keeps teams together) and in premier    franchised esports leagues (where $$$ & signed contracts keeps teams together).
+[Call of Duty League 2021](https://callofdutyleague.com/en-us/news/2021-call-of-duty-league-season-structure-details) used a series of five majors, where each major consisted of Round-Robin groups (played over multiple weeks) progressing into a Double-Elimination "Major" weekend.
+That way, fans got guaranteed matches with their favorite teams (which were all determined upfront and scheduled/ordered for storytelling purposes) while also getting high-impact elimination matches at the end.
 
 ### Swiss to Elim
 
-Swiss is more common in chess and TCG/CCG games than in major sports (although [now we're seeing "the world's game" incorporate it](https://soccer.nbcsports.com/2020/12/01/champions-league-swiss-system-details/)), and largely found its way into esports via digital TCG/CCG games like Hearthstone.
+Swiss is more common in chess and TCG/CCG games than in major sports (although [now we're seeing "the world's game" incorporate it](https://soccer.nbcsports.com/2020/12/01/champions-league-swiss-system-details/)), and largely found its way into esports via digital TCG/CCG videogames like Hearthstone.
 
 When setups and space aren't an issue, Swiss is an excellent way to start an open event, like a [Hearthstone event with hundreds of competitors at DreamHack](https://playhearthstone.com/en-us/esports/tournament/hct-dreamhack-atlanta-2018/).
 They combine the power of Swiss (a logarithmic-scaling, non-eliminating format) with a single-elim final.
@@ -47,4 +47,4 @@ With the basic principle of "use strengths to cover weaknesses," you can come up
 
 * [Ladder into bracket](https://smash.gg/tournament/training-mode-tournaments-21/details)
 * [Round-Robin groups into Double-Elim into Single-Elim](https://esports.rocketleague.com/news/announcing-the-rlcs-x-spring-split/)
-* [GSL Groups (Double-Elim groups that feed into a Single-Elim final)](https://help.toornament.com/structures/introducing-the-bracket-group)
+* [GSL Groups (slightly-modified Double-Elim groups that feed into a Single-Elim final)](https://help.toornament.com/structures/introducing-the-bracket-group)

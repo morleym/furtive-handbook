@@ -79,4 +79,4 @@ After all matches are completed, a set of standings is produced where competitor
 #### Scheduling
 
 * Flexible length of day. You can pick one match per round to broadcast, or you can 'hold' matches to broadcast multiple per round
-  * The semifinals are the most common round where a match is held, so that you see the previous matches for *both* competitors who are in the the final match
+  * The semifinals are the most common round where a match is held, so that you see the semifinal match for *both* competitors who advance to the finals.

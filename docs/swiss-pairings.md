@@ -13,8 +13,9 @@ So complex, that I just made this separate doc.
 
 or
 
-* If you're advancing by final standings, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number (seeding)
-* If you're advancing by a record threshold, then your safest choice is probably pairing highest Pairing Numbers vs lowest Pairing Numbers in each score group (like in elimination brackets)
+* If you're advancing by final standings with tiebreakers focused on *points* and *game win%*, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number
+* If you're advancing by final standings with tiebreakers focused on *Strength of Schedule*, then a safe choice is pairing straight across the top/bottom halves of the score group (so highest in top half vs highest in bottom half, all the way down to lowest in top half vs lowest in bottom half)
+* If you're advancing by a record threshold, then a safe choice is pairing the highest Pairing Numbers vs the lowest Pairing Numbers in each score group (like in elimination brackets)
 
 ## The Not-So-Short
 
@@ -26,28 +27,41 @@ There are some very detailed resources available on the Internet for exploring p
 Other game communities don't publish their pairing algorithms (or, at least, they make it *extremely difficult* to find).
 
 I'm going to write my own summary here, but just be aware that this is a complicated topic which can be (and often is) tuned and tweaked by different communities.
+I do *not* have all the answers here.
+
+## Pairing Numbers and Score Groups
 
 Each round, you'll have competitors in different 'Score Groups', which are another way of naming the records each competitor has (e.g. 2-0, 1-1, 0-1).
-The goals of pairing up the teams within each Score Group are to avoid rematches, and to keep matchups 'fair' throughout the competition.
-That second notion is subjective, and it is dependent on how you are advancing/eliminating competitors, and how standings are determined.
+The goals when pairing up the teams within each Score Group are to avoid rematches and to keep matchups 'fair' throughout the competition.
+That second notion is subjective, and it is dependent on how you are advancing/eliminating competitors and how standings are determined.
 
 Usually, competitors are given a seed before the start of a Swiss competitions.
 That's called their "Pairing Number," and it can be used to order the competitors in a given Score Group.
 So while you might have, say, eight competitors in the "1-0" Score Group, you can order those competitors by their Pairing Number.
 Most approaches involve splitting a Score Group into a top half and a bottom half, using the Pairing Numbers, and then pairing competitors up between those halves.
+
+### Strength of Schedule Focus
+
 Chess, traditionally, pairs tops of each half and then works their way down each half in that fashion.
+Part of the reason they do this is that strength of schedule plays a larger role in their tiebreakers.
 
 Example for the "1-0" score group for a 16-competitor Swiss competition:
 
 ![haha](/img/godhelpme.jpg)
 
-But maybe you want traditional "top vs bottom seed" matchups, in which case you would have...
+### Random Within Halves
 
-![i draw so gud](/img/godhelpme2.jpg)
+If your tiebreakers have more emphasis on game win% than on Strength of Schedule, then you may just want to randomize the pairings between top and bottom. Then you'd have...
 
-Or, maybe, you just want to randomize the pairings between top and bottom. Then you'd have...
+![random pairings](/img/format-guides/format-swiss-pairings-random.png)
 
-![jordan plz help me](/img/godhelpme3.jpg)
+### Strictly Top-Versus-Bottom
+
+If you're advancing/eliminating on a record threshold, then maybe you want traditional "top vs bottom seed" matchups, in which case you would have...
+
+![thanks jordan!](/img/format-guides/format-swiss-pairings.png)
+
+### Chaotic Neutral
 
 OR, MAYBE, you just go the whole hog and randomize *everyone* in the Scoring Group (I do not recommend this unless it's more social/fun, because it *will* pit top seeds against each other).
 

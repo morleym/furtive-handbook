@@ -44,7 +44,7 @@ Even if you aren't a leader on paper (in a position to call the shots), you can 
 Your team *will* benefit from you knowing how different competitive formats impact your role and your teammates' roles.
 You can speak up confidently in meetings to guide conversations in a productive direction, share helpful information to prop up your teammates and set them up for success, and generally be a positive force for your project.
 
-These format guides, once you familiarize yourself, will prepare you to tackle all kinds of format comparisons with your team.
+These format guides, once you familiarize yourself, will assist you in tackling all kinds of format comparisons with your team.
 For example, what would Competitors, Competitive Ops, and Broadcast each think of Swiss versus Round Robin? For each format...
 
 * Which aspects could they take advantage of in their roles?
