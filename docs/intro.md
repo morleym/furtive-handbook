@@ -21,18 +21,18 @@ While I would never claim to be the authority on competitive formatting, I have 
 One of those learnings is that a team is most effective when its decision-makers understand the impact of their decisions on the various roles who are delivering the 'product' of the competition.
 
 I want to see the baseline of esports events rise to a higher quality, and that's only possible if we share knowledge openly.
-Otherwise, people will continue to trip up on preventable logistical issues, or miss easy opportunities for storytelling, on account of missing some information on their competitive format.
+Otherwise, people will continue to trip up on preventable logistical issues, or miss easy opportunities for storytelling, due to missing some information on their competitive format.
 
 ## How might this help me?
 
 Having a handy reference guide to compare format options will empower you to **lead productive conversations with your team** and **navigate unclear & tough decisions**.
-You can steer them to take advantage of the opportunities a format provides *and* to smoothly handle its drawbacks or challenges.
+You can help steer your team to take advantage of the opportunities a format provides *and* to smoothly handle its drawbacks or challenges.
 It is my hope that you may walk gracefully today where I (and countless others) have tripped and stumbled.
 
 ## Who made all of the cool visuals?
 
 My good friend Jordan "Boomstick" Davis created the visuals on this project.
-He's awesome, and you should go check out his [turn-key production services](https://www.hitscanstudios.com/)!
+He's awesome, and you should go check out his [turn-key production services: Hitscan Studios](https://www.hitscanstudios.com/)!
 
 ## Who are you?
 

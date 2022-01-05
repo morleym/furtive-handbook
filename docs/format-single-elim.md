@@ -29,7 +29,7 @@ After all matches are completed, a set of standings is produced where competitor
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played   | *n - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
-| # of Necessary Rounds    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| # of Necessary Rounds    |   log₂(*n*) rounded up               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   1st & 2nd, 3rd* & 4th, 4x T-5th,<br />8x T-9th, 16x T-17th, etc.       |   |
 | Possible progressions | 1, 2, 3*, 4, 8, 16, etc.   |
 
@@ -74,9 +74,10 @@ After all matches are completed, a set of standings is produced where competitor
   * The winner moves on, and the loser goes home
 * There is a risk of key competitors going home 'early' off-stream if they are upset by a lower seed
   * Broadcasts commonly feed this sort of info to talent for them to inform the audience, if that match was off-stream.
-  You could work this in with more flair visually, if desired.
+  You could work this in with more flair visually, if desired. 🚨UPSET ALERT!🚨
 
 #### Scheduling
 
-* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold' matches to broadcast multiple per round
+* Flexible length of day. You can pick one match per round to broadcast, or you can 'hold' matches to broadcast multiple per round.
+  Coordinate this scheduling with Comp Ops (ideally in advance).
   * The semifinals are the most common round where a match is held, so that you see the semifinal match for *both* competitors who advance to the finals.

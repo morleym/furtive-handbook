@@ -56,7 +56,7 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Discord',
+              label: 'Discord (WIP)',
               href: 'https://discord.gg/4U7UWjCt7r',
             }
           ],
@@ -75,6 +75,10 @@ module.exports = {
             {
               label: 'furtive\'s portfolio',
               href: 'https://www.mitchellmorley.com/',
+            },
+            {
+              label: 'Hitscan Studios',
+              href: 'https://www.hitscanstudios.com/',
             }
           ],
         },
