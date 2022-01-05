@@ -74,7 +74,7 @@ or
 
 * If you're advancing by final standings with tiebreakers focused on *points* and *game win%*, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number <br />
 ![random within top & half pairings](/img/format-guides/format-swiss-pairings-random.png)
-* If you're advancing by final standings with tiebreakers focused on *Strength of Schedule*, then a safe choice is pairing straight across the top/bottom halves of the score group (so highest in top half vs highest in bottom half, all the way down to lowest in top half vs lowest in bottom half)
+* If you're advancing by final standings with tiebreakers focused on *Strength of Schedule*, then a safe choice is pairing straight across the top/bottom halves of the score group (so highest in top half vs highest in bottom half, all the way down to lowest in top half vs lowest in bottom half) <br /> ![strength of schedule pairings](/img/format-guides/format-swiss-pairings-sos.png)
 * If you're advancing by a record threshold, then a safe choice is pairing the highest Pairing Numbers vs the lowest Pairing Numbers in each score group (like in elimination brackets) ![pairing like elim bracket](/img/format-guides/format-swiss-pairings.png)
 
 ## By the Numbers

@@ -8,8 +8,6 @@ These are some basic format concepts which I'll be referencing throughout my for
 
 ## Stages/Phases and Progressions/Advancements
 
-![diagram of multi-stage competition](/img/format-guides/concepts-multi-stage.png)
-
 Competitions often consist of more than just one bracket or bracket type.
 For example, a competition might *start* with round-robin and then *end* with a single-elim bracket.
 I refer to these as the 'stages' of a tournament; you'll see these referred to as 'phases' on certain bracketing software.
@@ -17,6 +15,8 @@ I refer to these as the 'stages' of a tournament; you'll see these referred to a
 Moving competitors from one stage to the next is what I call 'advancing' or 'progressing'.
 We see both of these concepts all the time in traditional sports:
  a team 'making the playoffs' means that they advanced from one stage (regular season play) to another stage (the playoffs bracket).
+
+![diagram of multi-stage competition](/img/format-guides/concepts-multi-stage.png)
 
 ## Groups/Pools
 

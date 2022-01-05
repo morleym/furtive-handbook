@@ -38,7 +38,7 @@ That second notion is subjective, and it is dependent on how you are advancing/e
 Usually, competitors are given a seed before the start of a Swiss competitions.
 That's called their "Pairing Number," and it can be used to order the competitors in a given Score Group.
 So while you might have, say, eight competitors in the "1-0" Score Group, you can order those competitors by their Pairing Number.
-Most approaches involve splitting a Score Group into a top half and a bottom half, using the Pairing Numbers, and then pairing competitors up between those halves.
+Most approaches involve splitting a Score Group into a top half and a bottom half, sorted using the Pairing Numbers, and then pairing competitors up between those halves.
 
 ### Strength of Schedule Focus
 
@@ -47,7 +47,7 @@ Part of the reason they do this is that strength of schedule plays a larger role
 
 Example for the "1-0" score group for a 16-competitor Swiss competition:
 
-![haha](/img/godhelpme.jpg)
+![strength of schedule pairings](/img/format-guides/format-swiss-pairings-sos.png)
 
 ### Random Within Halves
 
@@ -63,9 +63,9 @@ If you're advancing/eliminating on a record threshold, then maybe you want tradi
 
 ### Chaotic Neutral
 
-OR, MAYBE, you just go the whole hog and randomize *everyone* in the Scoring Group (I do not recommend this unless it's more social/fun, because it *will* pit top seeds against each other).
+OR, MAYBE, you just go the whole hog and randomize *everyone* in the Score Group (I do not recommend this unless it's more social/fun, because it *will* pit top seeds against each other).
 
-![jordan plz help me](/img/godhelpme4.jpg)
+![thanks jordan!](/img/format-guides/format-swiss-pairings-chaotic.png)
 
 ## Do What's Right for You
 
