@@ -39,6 +39,5 @@ He's awesome, and you should go check out his [turn-key production services: Hit
 My name is Mitchell Morley, and I also go by 'furtive'.
 I've been working on esports events since 2015, when I started running
  Rocket League LAN tournaments out of a friend's garage.
-![the image](/img/garageLAN.jpeg)
 Since then, I've worked on competitive operations and creative production for professional esports leagues & events like the Rocket League Championship Series, eMLS,
  and [all kinds of projects in between](https://mitchellmorley.com).
