@@ -4,7 +4,8 @@ title: Double-Elimination Bracket
 sidebar_label: Double-Elim Bracket
 ---
 
-Double Elimination, Double-Elimination, Double-Elim, DE.
+Common aliases: Double Elimination, Double-Elimination, Double-Elim, DE.
+
 The *chocolate chip* ice cream of brackets.
 It's still fairly simple and pairs well with other formats,
  but it has an added layer of complexity and flavor.

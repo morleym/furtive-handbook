@@ -4,7 +4,8 @@ title: Round Robin
 sidebar_label: Round Robin
 ---
 
-Round Robin, Round-Robin, RR.
+Common aliases: Round Robin, Round-Robin, RR.
+
 Next to single elimination, Round Robin may be the 'other' ubiquitous format
  (featured in most traditional sports).
 

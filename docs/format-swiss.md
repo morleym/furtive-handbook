@@ -4,7 +4,7 @@ title: Swiss System
 sidebar_label: Swiss System
 ---
 
-Common Aliases: Swiss, Swiss-Style.
+Common aliases: Swiss, Swiss-Style.
 
 Swiss provides a compromise between Round-Robin and runtime.
 The traditional form of it is 'non-eliminating' (competitors continue to play matches regardless of winning/losing) while its runtime scales logarithmically as a bracket does.
