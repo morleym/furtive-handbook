@@ -9,8 +9,10 @@ module.exports = {
       'format-round-robin',
       'format-swiss',
       'format-combinations',
-      'additional-thoughts',
     ],
+    'Additional Thoughts': [
+      'go-beyond',
+    ]
   },
 };
 
