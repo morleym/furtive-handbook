@@ -110,8 +110,12 @@ As a reminder, the below values assume you are playing to completion (to determi
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played*   | ceiling[ log₂(*n*) ] \* floor[ *n*  / 2 ]                   | 16 competitors = 32 matches played <br />17 competitors = 40 matches played |
-| # of Necessary Consecutive Rounds*    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| # of Necessary Consecutive Rounds*    |   log₂(*n*) rounded up              | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |
 | Possible progressions | 1 to *n*  |
 
 *The edge cases for non-square numbers of competitors are pretty messy and vary by community, so this is a very rough look at numbers
+
+## Citations
+
+1. [Moore, J. (2021, February 25). *The Math Behind SPR and UF*.](https://www.pgstats.com/articles/spr-uf-extra-mathematical-details)

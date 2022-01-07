@@ -7,20 +7,24 @@ slug: /
 
 ## What is this?
 
-This is my reference guide for the common competitive formats used in esports events!
-It will cover how each format works (with numbers to crunch for scheduling & logistics) and items that different project roles should be aware of.
+This is my reference guide for common competition formats used in esports!
+It will cover how each format works (with numbers to crunch for scheduling & logistics) and list thoughtful items that different project roles should be aware of.
+
+* If you would like to skip to the cheat sheets and comparisons for each format, [click here](cheat-sheet)!
+* Otherwise, to gain the full context of the handbook and format guides, please continue to read through at your leisure!
 
 ## Okay but *why* did you make this?
 
-I created this handbook to shed light on how competitive format choices impact different roles on an esports project.
+The primary goal of my handbook is to establish foundations for competitive formatting and to tie those into the different project roles of esports products.
 Your competition's format is impactful, and it shouldn't be decided on as an afterthought.
 Your format choices play a crucial role in delivering fair, fun and exciting experiences for your competitors, viewers, staff, and sponsors.
 They can also create bad experiences, if you aren't careful!
 
-While I would never claim to be the authority on competitive formatting, I have a serviceable collection of experiences and learnings to draw from.
+I am not the authority on competitive formatting, and I would like to ask the reader to remember this is titled "furtive's handbook" and not "*the* handbook".
+I simply have a serviceable collection of experiences and learnings to draw from.
 One of those learnings is that a team is most effective when its decision-makers understand the impact of their decisions on the various roles who are delivering the 'product' of the competition.
 
-I want to see the baseline of esports events rise to a higher quality, and that's only possible if we share knowledge openly.
+Ultimately, I want to see the baseline of esports events rise to a higher quality, and that's only possible if we openly share our knowledge & learnings.
 Otherwise, people will continue to trip up on preventable logistical issues, or miss easy opportunities for storytelling, due to missing some information on their competitive format.
 
 ## How might this help me?
@@ -28,6 +32,8 @@ Otherwise, people will continue to trip up on preventable logistical issues, or 
 Having a handy reference guide to compare format options will empower you to **lead productive conversations with your team** and **navigate unclear & tough decisions**.
 You can help steer your team to take advantage of the opportunities a format provides *and* to smoothly handle its drawbacks or challenges.
 It is my hope that you may walk gracefully today where I (and countless others) have tripped and stumbled.
+
+In other words, familiarity with formats will help you catch potential issues early, capitalize on strengths, and deliver great experience & products.
 
 ## Who made all of the cool visuals?
 
