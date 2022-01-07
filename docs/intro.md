@@ -7,7 +7,7 @@ slug: /
 
 ## What is this?
 
-This is a brief reference guide for the common competitive formats used in esports events!
+This is my reference guide for the common competitive formats used in esports events!
 It will cover how each format works (with numbers to crunch for scheduling & logistics) and items that different project roles should be aware of.
 
 ## Okay but *why* did you make this?
