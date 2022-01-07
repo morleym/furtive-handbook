@@ -22,7 +22,7 @@ Potential Drawbacks:
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played   | *n - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
-| # of Necessary Rounds    |   log₂(*n*) rounded up               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| # of Necessary Consecutive Rounds    |   log₂(*n*) rounded up               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   1st & 2nd, 3rd* & 4th, 4x T-5th,<br />8x T-9th, 16x T-17th, etc.       |   |
 | Possible progressions | 1, 2, 3*, 4, 8, 16, etc.   |
 
@@ -44,7 +44,7 @@ Potential Drawbacks:
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played*   | *2n - 2* or *2n -1*       | 16 competitors = 30 or 31 matches played <br />17 competitors = 32 or 33 matches played |
-| # of Necessary Rounds* | *Floor[log₂(n-1)] + Ceiling[log₂(2n/3)] + 1* <br />[[1](#citations)] (or see below table!)          | 16 competitors = 8-9 required <br /> 17 competitors = 9-10 rounds required |
+| # of Necessary Consecutive Rounds* | *Floor[log₂(n-1)] + Ceiling[log₂(2n/3)] + 1* <br />[[1](#citations)] (or see below table!)          | 16 competitors = 8-9 required <br /> 17 competitors = 9-10 rounds required |
 | Distinct Placements   |   1st, 2nd, 3rd, 4th, 2x T-5th,<br />2x T-7th, 4x T-9th, 4x T-13th, etc.       |   |
 | Possible progressions | 1, 2, 3, 4, 6, 8, 12, 16, etc.   |
 
@@ -89,7 +89,7 @@ Potential Drawbacks:
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played   | *n! / [2! \* (n-2)!]* <br /> (# of combinations)       | 8 competitors = 28 matches played <br />17 competitors = 136 matches played |
-| # of Necessary Rounds | *n-1* (if *n* is even) <br />*n* (if *n* is odd)          | 8 competitors = 7 rounds required <br /> 17 competitors = 17 rounds required |
+| # of Necessary Consecutive Rounds | *n-1* (if *n* is even) <br />*n* (if *n* is odd)          | 8 competitors = 7 rounds required <br /> 17 competitors = 17 rounds required |
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |   |
 | Possible progressions | 1 to *n*  |
 
@@ -110,7 +110,7 @@ As a reminder, the below values assume you are playing to completion (to determi
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played*   | ceiling[ log₂(*n*) ] \* floor[ *n*  / 2 ]                   | 16 competitors = 32 matches played <br />17 competitors = 40 matches played |
-| # of Necessary Rounds*    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| # of Necessary Consecutive Rounds*    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |
 | Possible progressions | 1 to *n*  |
 

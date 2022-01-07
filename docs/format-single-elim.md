@@ -41,7 +41,7 @@ After all matches are completed, a set of standings is produced where competitor
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
 | # of Matches Played   | *n - 1*                   | 16 competitors = 15 matches played <br />17 competitors = 16 matches played |
-| # of Necessary Rounds    |   log₂(*n*) rounded up               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| # of Necessary Consecutive Rounds    |   log₂(*n*) rounded up               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   1st & 2nd, 3rd* & 4th, 4x T-5th,<br />8x T-9th, 16x T-17th, etc.       |   |
 | Possible progressions | 1, 2, 3*, 4, 8, 16, etc.   |
 

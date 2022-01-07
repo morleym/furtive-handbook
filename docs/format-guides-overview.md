@@ -18,9 +18,9 @@ The values in these tables will include:
 
 * \# of Matches Played
   * This is how many total matches will be played given *n* competitors.
-* \# of Necessary Rounds
+* \# of Necessary Consecutive Rounds
   * The number of necessary, consecutive rounds of play given *n* competitors
-  * This is how you can calculate the runtime of a format! Multiply # of necessary rounds by the time you expect a match to take. Note that if you do not have sufficient setups to run all available matches concurrently, then your runtime will be longer than this
+  * This is how you can calculate the runtime of a format! Multiply # of Necessary Consecutive Rounds by the time you expect a match to take. Note that if you do not have sufficient setups to run all available matches concurrently, then your runtime will be longer than this
 
 * Distinct Placements
   * These are the final standings you will have after you've completed all matches. If you want to award prizing, then these will be your options
