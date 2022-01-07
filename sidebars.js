@@ -11,9 +11,9 @@ module.exports = {
       'format-double-elim', 
       'format-round-robin',
       'format-swiss',
-      'format-combinations',
     ],
     'Additional Thoughts': [
+      'format-combinations',
       'go-beyond',
     ]
   },
