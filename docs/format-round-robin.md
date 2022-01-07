@@ -71,7 +71,7 @@ More commonly seen in long-term 'league' projects rather than in one-day/one-wee
 
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
-| # of Matches Played   | *n! / [2! \* (n-2)!]* <br /> (# of combinations)       | 8 competitors = 28 matches played <br />17 competitors = 136 matches played |
+| # of Matches Played   | *n! / [2! × (n-2)!]* <br /> (# of combinations)       | 8 competitors = 28 matches played <br />17 competitors = 136 matches played |
 | # of Necessary Consecutive Rounds | *n-1* (if *n* is even) <br />*n* (if *n* is odd)          | 8 competitors = 7 rounds required <br /> 17 competitors = 17 rounds required |
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |   |
 | Possible progressions | 1 to *n*  |

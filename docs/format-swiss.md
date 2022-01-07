@@ -96,7 +96,7 @@ As a reminder, the below values assume you are playing to completion (to determi
 
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
-| # of Matches Played*   | ceiling[ log₂(*n*) ] \* floor[ *n*  / 2 ]                   | 16 competitors = 32 matches played <br />17 competitors = 40 matches played |
+| # of Matches Played*   | ceiling[ log₂(*n*) ] × floor[ *n*  / 2 ]                   | 16 competitors = 32 matches played <br />17 competitors = 40 matches played |
 | # of Necessary Consecutive Rounds*    |   log₂(*n*) rounded up               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |
 | Possible progressions | 1 to *n*  |
