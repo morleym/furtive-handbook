@@ -2,6 +2,8 @@
 id: format-round-robin
 title: Round Robin
 sidebar_label: Round Robin
+description: A guide to the Round Robin format
+
 ---
 
 Common aliases: Round Robin, Round-Robin, RR.

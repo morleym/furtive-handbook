@@ -2,6 +2,7 @@
 id: concepts
 title: Format Concepts
 sidebar_label: Format Concepts
+description: Basic concepts for esports formats used throughout the guides in this handbook
 ---
 
 These are some basic format concepts which I'll be referencing throughout my format guides.

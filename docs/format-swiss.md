@@ -2,6 +2,8 @@
 id: format-swiss
 title: Swiss System
 sidebar_label: Swiss System
+description: A guide to the Swiss System format
+
 ---
 
 Common aliases: Swiss, Swiss-Style.

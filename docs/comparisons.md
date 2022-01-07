@@ -2,6 +2,7 @@
 id: comparisons
 title: Comparisons
 sidebar_label: Comparisons
+description: Comparing specific measurements across each format such as runtime
 ---
 
 Each format has its own nuanced strengths & drawbacks to explore for your project's needs, but sometimes it helps to look at a particular measurement across all of the formats at once.

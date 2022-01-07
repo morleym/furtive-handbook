@@ -2,6 +2,7 @@
 id: cheat-sheet
 title: Cheat Sheet
 sidebar_label: Cheat Sheet
+description: A one-stop shop for reference values on each format
 ---
 
 Important numbers for each format, in one place!

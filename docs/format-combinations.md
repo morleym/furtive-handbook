@@ -2,6 +2,7 @@
 id: format-combinations
 title: Combining Formats
 sidebar_label: Combining Formats
+description: Covering the basics of combining formats
 ---
 
 If you want to reap the benefits of multiple formats while covering their weaknesses, then try combining them!

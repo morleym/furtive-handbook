@@ -2,6 +2,7 @@
 id: go-beyond
 title: Go Beyond
 sidebar_label: Go Beyond
+description: Some additional, soapboxing thoughts of a battle-scarred esports contractor
 ---
 
 The primary goal of this handbook was to establish some foundations for competitive formatting and to tie those into

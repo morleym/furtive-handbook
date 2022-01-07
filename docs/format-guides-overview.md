@@ -2,6 +2,7 @@
 id: format-guides-overview
 title: Format Guides Overview
 sidebar_label: Format Guides Overview
+description: This is a quick walkthrough of how I've formatted my format guides
 ---
 
 This is a quick walkthrough of how I've formatted my format guides.

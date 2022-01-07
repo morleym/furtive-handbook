@@ -2,6 +2,8 @@
 id: format-double-elim
 title: Double-Elimination Bracket
 sidebar_label: Double-Elim Bracket
+description: A guide to the Double-Elimination format
+
 ---
 
 Common aliases: Double Elimination, Double-Elimination, Double-Elim, DE.

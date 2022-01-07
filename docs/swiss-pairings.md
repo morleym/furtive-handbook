@@ -2,6 +2,7 @@
 id: swiss-pairings
 title: Swiss Pairings
 sidebar_label: Swiss Pairings
+description: A dedicated page for Swiss pairings
 ---
 
 *How* competitors are paired up each round is a complex topic in Swiss.

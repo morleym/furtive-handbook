@@ -2,6 +2,7 @@
 id: stakeholders
 title: One Team, Many Roles
 sidebar_label: One Team, Many Roles
+description: An introduction to project stakeholders for an esports product
 ---
 
 Maybe you're working solo on your first-ever project.

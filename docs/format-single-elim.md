@@ -2,6 +2,7 @@
 id: format-single-elim
 title: Single-Elimination Bracket
 sidebar_label: Single-Elim Bracket
+description: A guide to the Single-Elimination format
 ---
 
 Common aliases: Single Elimination, Single-Elimination, Single-Elim, SE.

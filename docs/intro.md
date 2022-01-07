@@ -3,6 +3,7 @@ id: welcome
 title: Welcome!
 sidebar_label: Welcome
 slug: /
+description: An introduction to furtive's handbook
 ---
 
 ## What is this?
