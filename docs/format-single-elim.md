@@ -6,6 +6,8 @@ sidebar_label: Single-Elim Bracket
 
 Common aliases: Single Elimination, Single-Elimination, Single-Elim, SE.
 
+## Ultra-Quick Look
+
 The *vanilla ice cream* of competition formats.
 It's simple, and it's a timeless format for 'playoffs' or 'championships' events.
 

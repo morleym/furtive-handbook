@@ -6,6 +6,8 @@ sidebar_label: Double-Elim Bracket
 
 Common aliases: Double Elimination, Double-Elimination, Double-Elim, DE.
 
+## Ultra-Quick Look
+
 The *chocolate chip* ice cream of brackets.
 It's still fairly simple and pairs well with other formats,
  but it has an added layer of complexity and flavor.
