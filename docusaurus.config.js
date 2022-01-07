@@ -48,7 +48,7 @@ module.exports = {
             },
             {
               label: 'Format Guide',
-              to: 'docs/concepts',
+              to: 'docs/format-guides-overview',
             },
           ],
         },
@@ -67,11 +67,7 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/morleym/furtive-handbook',
-            },
-            {
-              label: 'Shush emoji by Twemoji',
-              href: 'https://twemoji.twitter.com/',
-            },
+            },          
             {
               label: 'furtive\'s portfolio',
               href: 'https://www.mitchellmorley.com/',
@@ -79,7 +75,11 @@ module.exports = {
             {
               label: 'Hitscan Studios',
               href: 'https://www.hitscanstudios.com/',
-            }
+            },
+            {
+              label: 'Shush emoji by Twemoji',
+              href: 'https://twemoji.twitter.com/',
+            },
           ],
         },
       ],

@@ -5,10 +5,11 @@ sidebar_label: Cheat Sheet
 ---
 
 Important numbers for each format, in one place!
+The strengths and drawbacks are highly simplified here—see the [full guides](format-guides-overview) for more context.
 
 ## Single-Elimination
 
-Pros:
+Strengths:
 
 * fastest format in the West
 * high-stakes every match
@@ -71,3 +72,46 @@ Potential Drawbacks:
 * *there are adequate setups to play all necessary matches simultaneously*
 * *all matches are played as soon as they are available (e.g. none held for broadcast, and start any Upper Round 1 and Upper Round 2 matches together if applicable)*
 * *perfect world, no delays*
+
+## Round Robin
+
+Strengths:
+
+* Most guaranteed matches possible
+* Great at acquiring seeding for a following stage
+
+Potential Drawbacks:
+
+* Longest schedule required across all formats
+* Lacks an exciting punch on its own—needs a following stage
+* Can generate "throwaway" low-stakes match scenarios which can lead to sandbagging and/or collusion
+
+| Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
+| -------------         | :-----------:             | ----- |
+| # of Matches Played   | *n! / [2! \* (n-2)!]* <br /> (# of combinations)       | 8 competitors = 28 matches played <br />17 competitors = 136 matches played |
+| # of Necessary Rounds | *n-1* (if *n* is even) <br />*n* (if *n* is odd)          | 8 competitors = 7 rounds required <br /> 17 competitors = 17 rounds required |
+| Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |   |
+| Possible progressions | 1 to *n*  |
+
+## Swiss (Non-Eliminating Version)
+
+Strengths:
+
+* Compromises between round-robin's guaranteed match count and elimination brackets' efficient runtime
+* Great for acquiring seeding for a following stage
+
+Potential Drawbacks:
+
+* Lacks an exciting punch on its own—needs a following stage
+* Pairing, scoring, advancement, and tiebreak rules can confuse participants and viewers if not presented clearly in advance
+
+As a reminder, the below values assume you are playing to completion (to determine a 1st place)!
+
+| Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
+| -------------         | :-----------:             | ----- |
+| # of Matches Played*   | ceiling[ log₂(*n*) ] \* floor[ *n*  / 2 ]                   | 16 competitors = 32 matches played <br />17 competitors = 40 matches played |
+| # of Necessary Rounds*    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |
+| Possible progressions | 1 to *n*  |
+
+*The edge cases for non-square numbers of competitors are pretty messy and vary by community, so this is a very rough look at numbers

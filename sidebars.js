@@ -15,6 +15,9 @@ module.exports = {
     'Additional Thoughts': [
       'format-combinations',
       'go-beyond',
+    ],
+    'Quick Info': [
+      'cheat-sheet',
     ]
   },
 };
