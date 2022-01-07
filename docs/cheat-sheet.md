@@ -32,7 +32,7 @@ Potential Drawbacks:
 
 Strengths:
 
-* competitors are guaranteed 100% more matches than in single-elimination!
+* competitors are guaranteed 100% more matches than in single-elimination! (two instead of one, don't get *too* excited)
 * stakes are still clear each match, and the "losers run" storylines exist
 
 Potential Drawbacks:
