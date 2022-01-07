@@ -18,6 +18,7 @@ module.exports = {
     ],
     'Quick Info': [
       'cheat-sheet',
+      'comparisons',
     ]
   },
 };
