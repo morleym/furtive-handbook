@@ -29,8 +29,9 @@ So when people claim to be the authority (in one way or another), but they aren'
 (Or if they're trying to make a buck on 'helping others'.
 Looking at you, Esports Certification Institute!)
 **Just because someone made it to a prominent position in a popular company does not mean they are a role model!!**
-Be critical of anyone telling you how things *should* work or telling you how you *should* become successful.
+Be critical of anyone telling you how things *should* work, passing things off as 'the' way as opposed to 'their' way, or telling you how you *should* become successful.
 To that end, I tried to ensure that anything outside of empirical info was presented as my personal opinion, in this handbook.
+And, I didn't title this thing "the" handbook—it's *my* handbook.
 
 It's nigh impossible to cover all of the potential uses for different formats and their variations in the world of esports products.
 My hope is that if you ever encounter a situation where you need to make a strange judgment call on competitive formats,
