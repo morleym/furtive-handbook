@@ -5,7 +5,7 @@ sidebar_label: Cheat Sheet
 ---
 
 Important numbers for each format, in one place!
-The strengths and drawbacks are highly simplified here—see the [full guides](format-guides-overview) for more context.
+See the [full guides](format-guides-overview) to explore each format in a deeper fashion.
 
 ## Single-Elimination
 

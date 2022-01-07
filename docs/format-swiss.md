@@ -12,6 +12,16 @@ The traditional form of it is 'non-eliminating' (competitors continue to play ma
 A quick word of warning: Swiss and its variants are complex, so this doc is going to be a little meatier than the others.
 I may also simplify things where they are more complex in practice (Chess communities have *far* more complex Swiss rules than what I am going to cover here).
 
+Strengths:
+
+* Compromises between round-robin's guaranteed match count and elimination brackets' efficient runtime
+* Great for acquiring seeding for a following stage
+
+Potential Drawbacks:
+
+* Lacks an exciting punch on its own—needs a following stage
+* Pairing, scoring, advancement, and tiebreak rules can confuse participants and viewers if not presented clearly in advance
+
 ## How it Works
 
 Competitors are paired up for a first round of matches.

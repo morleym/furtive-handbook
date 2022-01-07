@@ -10,6 +10,17 @@ The *chocolate chip* ice cream of brackets.
 It's still fairly simple and pairs well with other formats,
  but it has an added layer of complexity and flavor.
 
+Strengths:
+
+* competitors are guaranteed 100% more matches than in single-elimination!
+* stakes are still clear each match, and the "losers run" storylines exist
+
+Potential Drawbacks:
+
+* deceptively lengthy, and lower bracket can lag behind if you aren't careful
+* half of your competitors are done after *two* matches
+* if your seeding isn't great, then top competitors can still knock each other out VERY quickly
+
 ## How it Works
 
 Competitors are seeded into an initial round of matches.

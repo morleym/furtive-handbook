@@ -9,6 +9,17 @@ Common aliases: Round Robin, Round-Robin, RR.
 Next to single elimination, Round Robin may be the 'other' ubiquitous format
  (featured in most traditional sports).
 
+Strengths:
+
+* Most guaranteed matches possible
+* Great at acquiring seeding for a following stage
+
+Potential Drawbacks:
+
+* Longest schedule required across all formats
+* Lacks an exciting punch on its own—needs a following stage
+* Can generate "throwaway" low-stakes match scenarios which can lead to sandbagging and/or collusion
+
 ## How it Works
 
 In short: "Everyone plays everyone else!"

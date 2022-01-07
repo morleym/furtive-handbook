@@ -9,6 +9,16 @@ Common aliases: Single Elimination, Single-Elimination, Single-Elim, SE.
 The *vanilla ice cream* of competition formats.
 It's simple, and it's a timeless format for 'playoffs' or 'championships' events.
 
+Strengths:
+
+* fastest format in the West
+* high-stakes every match
+
+Potential Drawbacks:
+
+* half of your competitors are done after one match
+* if your seeding isn't great, then top competitors knock each other out VERY quickly
+
 ## How it Works
 
 Competitors are seeded into a round of matches.
