@@ -48,7 +48,7 @@ module.exports = {
             },
             {
               label: 'Format Guide',
-              to: 'docs/concepts',
+              to: 'docs/format-guides-overview',
             },
           ],
         },
@@ -56,7 +56,7 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Discord',
+              label: 'Discord (WIP)',
               href: 'https://discord.gg/4U7UWjCt7r',
             }
           ],
@@ -67,15 +67,19 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/morleym/furtive-handbook',
+            },          
+            {
+              label: 'furtive\'s portfolio',
+              href: 'https://www.mitchellmorley.com/',
+            },
+            {
+              label: 'Hitscan Studios',
+              href: 'https://www.hitscanstudios.com/',
             },
             {
               label: 'Shush emoji by Twemoji',
               href: 'https://twemoji.twitter.com/',
             },
-            {
-              label: 'furtive\'s portfolio',
-              href: 'https://www.mitchellmorley.com/',
-            }
           ],
         },
       ],

@@ -2,9 +2,13 @@
 id: format-swiss
 title: Swiss System
 sidebar_label: Swiss System
+description: A guide to the Swiss System format
+
 ---
 
-Common Aliases: Swiss, Swiss-Style.
+Common aliases: Swiss, Swiss-Style.
+
+## Ultra-Quick Look
 
 Swiss provides a compromise between Round-Robin and runtime.
 The traditional form of it is 'non-eliminating' (competitors continue to play matches regardless of winning/losing) while its runtime scales logarithmically as a bracket does.
@@ -12,11 +16,21 @@ The traditional form of it is 'non-eliminating' (competitors continue to play ma
 A quick word of warning: Swiss and its variants are complex, so this doc is going to be a little meatier than the others.
 I may also simplify things where they are more complex in practice (Chess communities have *far* more complex Swiss rules than what I am going to cover here).
 
+Strengths:
+
+* Compromises between round-robin's guaranteed match count and elimination brackets' efficient runtime
+* Great for acquiring seeding for a following stage
+
+Potential Drawbacks:
+
+* Lacks an exciting punch on its own—needs a following stage
+* Pairing, scoring, advancement, and tiebreak rules can confuse participants and viewers if not presented clearly in advance
+
 ## How it Works
 
 Competitors are paired up for a first round of matches.
 If there is an odd number of competitors, then one competitor will have a bye each round.
-After the first round of matches is completed, competitors are paired up for the second round based on their records: 1-0 competitors are paired with 1-0 competitors, and 0-1 competitors are paired with 0-1 competitors.
+After the first round of matches is completed, competitors are paired up for the second round based on their current match records: 1-0 competitors are paired with 1-0 competitors, and 0-1 competitors are paired with 0-1 competitors.
 We'll get more into the specifics about pairings later.
 
 Assuming you are trying to determine a 1st place, this process will be repeated until one competitor holds a higher record than all other competitors.
@@ -56,7 +70,8 @@ Otherwise, Swiss competitions usually have a points system where you are awarded
 Sort standings based on those, and then use tiebreakers as needed.
 
 Swiss has a unique tiebreaker concept called 'Strength of Schedule,' which is a measurement of how strong a competitor's opponents were.
-The simplest way to measure this is Opponent Match Win % (OMW), which measure the % all the matches that a competitor's opponents won through the entire Swiss competition.
+The simplest way to measure this is Opponent Match Win % (OMW), which measures the % of all matches that a competitor's opponents won through the entire Swiss competition.
+Higher is better, here, because it would indicate that one played tougher opponents.
 So if two competitors are tied, but one of them has an OMW of 55% while the other has an OMW of 50%, then the one with 55% wins that particular tiebreaker.
 
 Game Win % and OMW are two of the most common Swiss tiebreakers used.
@@ -64,7 +79,7 @@ Less commonly, events may use head-to-head or OGW (Opponent Game Win %) as addit
 
 ### Pairings
 
-To keep *this* page shorter, I stuffed detailed pairing info [in a separate page](swiss-pairings).
+To keep *this* page shorter, I stuffed detailed pairing info [into a separate page](swiss-pairings).
 
 Long story short, I recommend that you either:
 
@@ -72,9 +87,9 @@ Long story short, I recommend that you either:
 
 or
 
-* If you're advancing by final standings with tiebreakers focused on *points* and *game win%*, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number <br />
+* If you're advancing by final standings with tiebreakers focused on *game win%* first, then a safe choice is pairing randomly across the top & bottom halves of each Score Group by Pairing Number <br />
 ![random within top & half pairings](/img/format-guides/format-swiss-pairings-random.png)
-* If you're advancing by final standings with tiebreakers focused on *Strength of Schedule*, then a safe choice is pairing straight across the top/bottom halves of the score group (so highest in top half vs highest in bottom half, all the way down to lowest in top half vs lowest in bottom half)
+* If you're advancing by final standings with tiebreakers focused on *Strength of Schedule* first, then a safe choice is pairing straight across the top/bottom halves of the score group (so highest in top half vs highest in bottom half, all the way down to lowest in top half vs lowest in bottom half) <br /> ![strength of schedule pairings](/img/format-guides/format-swiss-pairings-sos.png)
 * If you're advancing by a record threshold, then a safe choice is pairing the highest Pairing Numbers vs the lowest Pairing Numbers in each score group (like in elimination brackets) ![pairing like elim bracket](/img/format-guides/format-swiss-pairings.png)
 
 ## By the Numbers
@@ -83,10 +98,12 @@ As a reminder, the below values assume you are playing to completion (to determi
 
 | Category              |      Value <br />(*n* is # of competitors)                |   Example / Notes |
 | -------------         | :-----------:             | ----- |
-| # of Matches Played   | ceiling[ log₂(*n*) ] \* floor[ *n*  / 2 ]                   | 16 competitors = 32 matches played <br />17 competitors = 40 matches played |
-| # of Necessary Rounds    |   log₂(*n*)               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
+| # of Matches Played*   | ceiling[ log₂(*n*) ] × floor[ *n*  / 2 ]                   | 16 competitors = 32 matches played <br />17 competitors = 40 matches played |
+| # of Necessary Consecutive Rounds*    |   log₂(*n*) rounded up               | 16 competitors = 4 rounds required <br /> 17 competitors = 5 rounds required |
 | Distinct Placements   |   All placements <br /> (1st - *n*<sup>th</sup>)       |
 | Possible progressions | 1 to *n*  |
+
+*The edge cases for non-square numbers of competitors are pretty messy and vary by community, so this is a very rough look at numbers
 
 ## Notes for Different Roles
 
@@ -96,7 +113,7 @@ As a reminder, the below values assume you are playing to completion (to determi
 
 * Swiss guarantees plenty of matches
 * Make sure the rules of *your* Swiss competition are clearly communicated in advance
-  * Everyone should know what it means to advance/win. Is it reaching a certain point in standings? Is it getting a certain record threshold?
+  * Everyone should know what it means to advance/win. Is it making a certain cutoff in the standings? Is it reaching a certain record threshold?
   * Everyone should also know how pairings work, and tiebreakers (if applicable)
   * Consider setting aside time for Q&A beforehand
   * Ensure that competitors are kept updated about when the next round's matches will be available
@@ -114,9 +131,10 @@ As a reminder, the below values assume you are playing to completion (to determi
 * Swiss, like Round-Robin, will take much longer if you do not have adequate setups to play all available matches at once
 * Swiss matchups cannot be determined in advance, so you need to have quick turnaround from round to round (informing everyone of the next round's matches) to prevent delays
   * This communication needs to go both to competitors and to Broadcast when applicable
-* Be on top of getting matches started! A single delayed match can hold up the entire upcoming round.
+* Be on top of getting matches started! A single delayed match can hold up the entire upcoming round because you generally need the current round's matches to be completed in order to generate the pairings for the next round.
 * Swiss can have meaningless matches in later rounds, so be wary of potential sandbagging or people dropping out between rounds!
   * The record-threshold variant avoids this problem (but remember that it guarantees fewer matches and that it only works well when your # of competitors is a power of 2)
+  * Familiarize yourself with your bracketing software's tools for handling drop-outs! If you don't catch a drop-out before they're paired against someone, plan to handle that with 'bye' points.
 * Using bracketing software to generate pairings for each round is much faster than by hand. However, make sure you know *how* the software is generating pairings beforehand, and that it matches your expectations.
 
 ### Broadcast
@@ -126,7 +144,7 @@ As a reminder, the below values assume you are playing to completion (to determi
 * Because Swiss can mean many things, make sure that you and Comp Ops are aligned on the format and win/advancement conditions
 * Swiss is usually used as an initial stage for an event, followed by some form of elimination bracket
   * Consequently, the story of Swiss normally revolves around the Swiss standings/the records each competitor holds, and for any cutoff in the standings/records that competitors must make
-* You will not know matchups beyond the current round! Coordinate with Comp Ops for the expected cadence of learning...
+* You will not know matchups beyond the current round! Coordinate with Comp Ops for the expected cadence of learning:
   * The standings as of the current round
   * The next round's matchups
 * For broadcast, it's usually much more clear-cut to use a record-based threshold for advancement/elimination

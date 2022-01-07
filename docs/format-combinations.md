@@ -2,6 +2,7 @@
 id: format-combinations
 title: Combining Formats
 sidebar_label: Combining Formats
+description: Covering the basics of combining formats
 ---
 
 If you want to reap the benefits of multiple formats while covering their weaknesses, then try combining them!
@@ -15,8 +16,10 @@ One of the most common combinations is something we've seen in traditional sport
 When the season is coming to a close, there are usually some competitors out of contention and their matches don't really have any impact (one of the weaknesses of Round-Robin).
 But, the playoffs that follow have the most exciting & impactful matches (a strength of Single-Elim) to cover for that.
 
-On the other side, the playoffs would be unfair & weird if it were standalone; you might only see your favorite team once, and if all of the competitors were just dropped in randomly then we might see top teams knock each other out early (Single-Elim has few matches, and requires excellent seeding).
+On the other side, the playoffs would be unfair & weird if it were standalone; you might only see your favorite team once, and if all of the competitors were just dropped in randomly then we might see top teams knock each other out early (Single-Elim's weakness include having few matches and needing excellent seeding).
 So it's a good thing to have the regular season, because it gives far more chances to see our favorite competitors and it gives us *earned* seeds in the playoffs.
+
+In this way, round-robin and single-elim blend together to cover each other's weaknesses and set up each other's strengths.
 
 ## Applying to Esports
 
@@ -26,7 +29,7 @@ But we can learn from sports, and apply those learnings to what we do.
 ### Round-Robin to Elim
 
 This traditional 'league' structure seen in sports is something we don't see as frequently in esports because of the resources involved with competing (and broadcasting) over several weeks.
-Therefore, we tend to see mostly in scholastic esports (where school club infrastructure keeps teams together) and in premier    franchised esports leagues (where $$$ & signed contracts keeps teams together).
+Therefore, we tend to see it mostly in scholastic esports (where school club infrastructure keeps teams together) and in premier franchised esports leagues (where $$$ & signed contracts keep teams together).
 [Call of Duty League 2021](https://callofdutyleague.com/en-us/news/2021-call-of-duty-league-season-structure-details) used a series of five majors, where each major consisted of Round-Robin groups (played over multiple weeks) progressing into a Double-Elimination "Major" weekend.
 That way, fans got guaranteed matches with their favorite teams (which were all determined upfront and scheduled/ordered for storytelling purposes) while also getting high-impact elimination matches at the end.
 
