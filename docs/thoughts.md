@@ -26,19 +26,25 @@ Even though we have (arguably) decades of history now, we're still getting onto 
 There are heroes and success stories, sure.
 But the overwhelming majority of esports efforts are still low-to-zero budget events powered by passion.
 Personally, I think that's less of an endearing characteristic of esports and more of a shameful burden.
+We should be doing better.
 
-So when people claim to be the authority (in one way or another), but they aren't directly helping uplift others,
-  I don't tend to trust them.
+Those with resources and momentum ought to be generating financially stable paths in the industry.
+Instead, they are often the ones perpetuating underpaid/unpaid internships and entry-level work.
+Wouldn't true success include positively shaping the industry to be better than you found it?
+So when such people claim to be an authority (in one way or another), and they aren't directly helping uplift others,
+  I don't tend to trust what they're saying.
 (Or if they're trying to make a buck on 'helping others'.
-Looking at you, Esports Certification Institute!)
+Looking at you, Esports Certification Institute)
+
 **Just because someone made it to a prominent position in a popular company does not mean they are a role model!!**
-Be critical of anyone telling you how things *should* work, passing things off as 'the' way as opposed to 'their' way, or telling you how you *should* become successful.
+Have healthy skepticism when anyone tells you how things *should* work, passing things off as 'the' way as opposed to 'their' way, or telling you how you *should* become successful.
+They may be well-intentioned, and they also may not be very good at their job (which is *crazy*, but it happens all the time).
 To that end, I tried to ensure that anything outside of empirical info was presented as my personal opinion, in this handbook.
-And, I didn't title this thing "the" handbook—it's *my* handbook.
+That's why I didn't title this thing "the" handbook—it's *my* handbook.
 
 \**steps off soapbox*\*
 
-It's nigh impossible to cover all of the potential uses for different formats and their variations in the world of esports products.
+It's nigh impossible to cover all of the potential uses for different formats and their variants in the world of esports products.
 My hope is that if you ever encounter a situation where you need to make a strange judgment call on competitive formats,
   then you're at least prepared to think through it from a few different angles (to defend your decision and make the best of it).
 
