@@ -2,7 +2,7 @@
 module.exports = {
   title: 'furtive\'s handbook',
   tagline: 'My reference guide for esports competition formats',
-  url: 'https://morleym.github.io',
+  url: 'https://furtive.gg',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
