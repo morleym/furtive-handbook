@@ -19,6 +19,8 @@ In fact...
 
 ## No One is the Authority*
 
+\**steps on soapbox*\*
+
 Esports is a frontier.
 Even though we have (arguably) decades of history now, we're still getting onto our feet as an industry.
 There are heroes and success stories, sure.
@@ -33,6 +35,8 @@ Looking at you, Esports Certification Institute!)
 Be critical of anyone telling you how things *should* work, passing things off as 'the' way as opposed to 'their' way, or telling you how you *should* become successful.
 To that end, I tried to ensure that anything outside of empirical info was presented as my personal opinion, in this handbook.
 And, I didn't title this thing "the" handbook—it's *my* handbook.
+
+\**steps off soapbox*\*
 
 It's nigh impossible to cover all of the potential uses for different formats and their variations in the world of esports products.
 My hope is that if you ever encounter a situation where you need to make a strange judgment call on competitive formats,
