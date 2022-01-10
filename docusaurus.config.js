@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'furtive\'s handbook',
-  tagline: 'A reference guide for esports competition formats',
+  tagline: 'My reference guide for esports competition formats',
   url: 'https://morleym.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
