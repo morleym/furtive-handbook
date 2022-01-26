@@ -6,7 +6,7 @@ description: A one-stop shop for reference values on each format
 ---
 
 Important numbers for each format, in one place!
-See the [full guides](format-guides-overview) to explore each format in a deeper fashion.
+See the [full guides](category/format-guides) to explore each format in a deeper fashion.
 
 ## Single-Elimination
 
