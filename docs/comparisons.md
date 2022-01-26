@@ -23,9 +23,13 @@ Or, if we wanted to estimate runtime for this same 64 competitor tournament in a
 `[12-13 consecutive rounds required] × [30 minutes] = [360-390 minutes total runtime]`
 
 There are more factors involved here, of course, such as varying match lengths (e.g. Bo3 changing to Bo5) and broadcast needs (e.g. broadcasting both semifinals in a single-elimination bracket).
-While I hope to one day develop a tool to assist with that process, I believe you have enough of a start to calculate your own specific project schedule needs from here.
+There is also the prickly detail of "sufficient setups" in a live event setting.
+If you have 16 first-round matches in a double-elimination bracket, but can only play 8 at a time, then that effectively adds *another* round's worth of runtime.
+For double-elimination, my friend [Mitch "Dz" Dzugan](https://github.com/mitchdzugan/) created [an awesome tool called Tourney Time Calc](https://calc-tourney-time.herokuapp.com/) to visualize and calculate runtimes under such setup constraints.
 
-So, for simplicity's sake, I'm going to stick to the # of necessary consecutive rounds for the following comparison table.
+While I hope to one day develop a tool for all formats to assist with that process, I believe you have enough of a start to calculate your own specific project schedule needs from here.
+For the sake of concisely comparing formats, I'm going to stick to the # of necessary consecutive rounds for the following comparison table.
+Just be aware that constrained setups will extend the runtime of formats with more [**Total Matches**](#comparing-guaranteed-matches-and-total-matches) in a stronger way than those with fewer.
 
 ### Comparing Runtimes
 
