@@ -11,7 +11,13 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Format Reference Guides',
+      label: 'Format Guides',
+      link: {
+        type: 'generated-index',
+        title: 'Format Reference Guides',
+        description: 'Click a format to explore how it works, calculate important numbers, and browse notes for each role.',
+        slug: '/category/format-guides',
+      },
       items: [
         'format-guides-overview', 
         'format-single-elim', 
