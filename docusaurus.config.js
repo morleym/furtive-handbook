@@ -10,12 +10,6 @@ module.exports = {
   organizationName: 'morleym', // Usually your GitHub org/user name.
   projectName: 'furtive-handbook', // Usually your repo name.
   themeConfig: {
-    gtag: {
-      // You can also use your "G-" Measurement ID here.
-      trackingID: 'G-8ZMYPSTFBM',
-      // Optional fields.
-      anonymizeIP: true, // Should IPs be anonymized?
-    },
     navbar: {
       title: 'furtive\'s handbook',
       logo: {
@@ -104,6 +98,12 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        gtag: {
+          // You can also use your "G-" Measurement ID here.
+          trackingID: 'G-8ZMYPSTFBM',
+          // Optional fields.
+          anonymizeIP: true, // Should IPs be anonymized?
         },
       },
     ],
