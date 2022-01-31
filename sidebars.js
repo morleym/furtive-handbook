@@ -33,19 +33,19 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Quick Info',
+      items: [
+        'cheat-sheet',
+        'comparisons',
+      ]
+    },
+    {
+      type: 'category',
       label: 'Additional Thoughts',
       items: [
         'format-combinations',
         'go-beyond',
       ]
     },
-    {
-      type: 'category',
-      label: 'Quick Info',
-      items: [
-        'cheat-sheet',
-        'comparisons',
-      ]
-    }
   ]
 };
