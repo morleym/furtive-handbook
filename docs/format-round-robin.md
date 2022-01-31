@@ -43,13 +43,15 @@ The secondary/tertiary/etc. sorts are called 'tiebreakers' and usually consist o
 Certain games/sports support draws (ties), so they will award 'points' for a Win/Loss/Draw and use those points to sort their round-robin standings instead of using # of match wins.
 For example, association football (and FIFA tournaments, as a result) commonly uses 3 points for match win, 1 point for match draw, and 0 points for match loss.
 
-Round Robins are visually distinct from 'brackets.' They may be shown as a table crossing the list of competitors with itself.
+Round Robins are visually distinct from 'brackets.' You may see a round robin represented as a table crossing the list of competitors with itself.
 This way, you can read the results of all matches for each competitor.
 Read from left to right in the example below, you can see that Seed 1 won against Seed 2, lost against Seed 3, has not yet played Seed 4, and so on.
 
 ![round robin diagram](/img/format-guides/format-RoundRobin.png)
 
-Often times (and especially for larger Round Robins) you may simply see a list of standings in lieu of an actual diagram of the matches (as this is easier to digest on a broadcast, and is sorted to give you the desired info about who is doing the best).
+Often times (and especially for larger Round Robins) you may simply see a list of standings in lieu of an actual diagram of the matches.
+This is much easier to digest at a glance, especially on a broadcast, and it is sorted to show who is doing the best.
+Such a view is especially valuable for storytelling in cases where you have a 'cutoff' for advancing to the next stage (e.g. "top 2 advance" as shown in the below example).
 
 ![round robin standings](/img/format-guides/format-RoundRobinStandings.png)
 
@@ -57,6 +59,7 @@ Often times (and especially for larger Round Robins) you may simply see a list o
 
 Since the length of Round-Robin scales linearly with # of competitors (see below), breaking a large group into smaller groups will save considerable time.
 If you have 16 competitors for example, and break them into two groups of eight, then you will have two separate Round-Robins which will each take half as long to complete (7 rounds of play instead of 15 rounds of play).
+
 Time savings of this nature become more pronounced as the # of competitors increases; 128 competitors would take 127 rounds, but *16 groups of 8* still only needs 7 rounds.
 An additional note: unlike with single-elim and double-elim, breaking a Round-Robin into groups significantly changes the matchups you will have.
 Because now, in this same example, the competitors in one of those groups of 16 will not play *any* of the other 112 competitors.

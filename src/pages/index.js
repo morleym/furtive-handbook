@@ -30,7 +30,6 @@ export default function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`${siteConfig.title}`}
       description="furtive's handbook covers esports competition formats and how they relate to different project roles">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">

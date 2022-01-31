@@ -6,7 +6,8 @@ description: A one-stop shop for reference values on each format
 ---
 
 Important numbers for each format, in one place!
-See the [full guides](format-guides-overview) to explore each format in a deeper fashion.
+See the [full guides](category/format-guides) to explore each format in a deeper fashion.
+I've also created a simplistic [Google Sheet](https://docs.google.com/spreadsheets/d/1jaDr9tvI5PhJSSJ1yRLFaaHdphWzzpo--axiJqg7wEs/edit?usp=sharing) to calculate and compare certain values.
 
 ## Single-Elimination
 
@@ -34,7 +35,7 @@ Potential Drawbacks:
 Strengths:
 
 * competitors are guaranteed 100% more matches than in single-elimination! (two instead of one, don't get *too* excited)
-* stakes are still clear each match, and the "losers run" storylines exist
+* stakes are still clear each match, and the "losers run" storylines now exist
 
 Potential Drawbacks:
 

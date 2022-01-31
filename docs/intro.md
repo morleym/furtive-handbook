@@ -30,7 +30,7 @@ Otherwise, people will continue to trip up on preventable logistical issues, or 
 
 ## How might this help me?
 
-Having a handy reference guide to compare format options will empower you to **lead productive conversations with your team** and **navigate unclear & tough decisions**.
+Having a handy reference guide to compare format options will empower you to lead productive conversations with your team and navigate unclear & tough decisions together.
 You can help steer your team to take advantage of the opportunities a format provides *and* to smoothly handle its drawbacks or challenges.
 It is my hope that you may walk gracefully today where I (and countless others) have tripped and stumbled.
 
@@ -39,7 +39,7 @@ In other words, familiarity with formats will help you catch potential issues ea
 ## Who made all of the cool visuals?
 
 My good friend Jordan "Boomstick" Davis created the visuals on this project.
-He's awesome, and you should go check out his [turn-key production services: Hitscan Studios](https://www.hitscanstudios.com/)!
+He's awesome, and you should go check out [Hitscan Studios](https://www.hitscanstudios.com/), his turn-key production services!
 
 ## Who are you?
 

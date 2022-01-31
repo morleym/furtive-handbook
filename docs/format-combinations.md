@@ -23,8 +23,7 @@ In this way, round-robin and single-elim blend together to cover each other's we
 
 ## Applying to Esports
 
-No, esports don't have to be like sports!
-But we can learn from sports, and apply those learnings to what we do.
+No, esports don't *have* to be like sports, but we should still learn from sports and apply those learnings to what we do!
 
 ### Round-Robin to Elim
 
@@ -51,3 +50,4 @@ With the basic principle of "use strengths to cover weaknesses," you can come up
 * [Ladder into bracket](https://smash.gg/tournament/training-mode-tournaments-21/details)
 * [Round-Robin groups into Double-Elim into Single-Elim](https://esports.rocketleague.com/news/announcing-the-rlcs-x-spring-split/)
 * [GSL Groups (slightly-modified Double-Elim groups that feed into a Single-Elim final)](https://help.toornament.com/structures/introducing-the-bracket-group)
+* [Round-Robin into Page Playoff/Gauntlet Bracket](https://lol.fandom.com/wiki/LCK/2018_Season/Summer_Playoffs)

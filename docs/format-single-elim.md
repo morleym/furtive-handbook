@@ -33,7 +33,7 @@ These rounds are typically named "Round of X" (e.g. Round of 64, Round of 32) to
 Once you have 8 remaining competitors, rounds are then named "Quarterfinals" (8), "Semifinals" (4), and "Final" (2).
 Optionally, you can add a 'third place match' where the losers of each semifinals match play for third place.
 
-After all matches are completed, a set of standings is produced where competitors are placed based on where they were eliminated.
+After all matches are completed, a set of standings is produced where competitors are ordered by where they were eliminated.
 
 ![single elim bracket image](/img/format-guides/format-single-elim-bracket.png)
 
@@ -70,7 +70,7 @@ After all matches are completed, a set of standings is produced where competitor
 
 * Single-Elim is efficient and fast
 * Single-Elim brackets are easy to generate
-  * At scale, use tournament software and utilize [groups](/docs/concepts#groups--pools)
+  * At scale, use tournament software and utilize [groups](/docs/concepts#groupspools)
     * Using groups will not change any matchups in single-elimination
 
 ### Broadcast
@@ -87,7 +87,8 @@ After all matches are completed, a set of standings is produced where competitor
   * The winner moves on, and the loser goes home
 * There is a risk of key competitors going home 'early' off-stream if they are upset by a lower seed
   * Broadcasts commonly feed this sort of info to talent for them to inform the audience, if that match was off-stream.
-  You could work this in with more flair visually, if desired. 🚨UPSET ALERT!🚨
+  You could work this in with more flair visually, if desired. 
+  Did someone say 🚨UPSET ALERT?!🚨
 
 #### Scheduling
 

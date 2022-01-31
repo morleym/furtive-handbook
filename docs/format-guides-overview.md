@@ -7,13 +7,17 @@ description: This is a quick walkthrough of how I've formatted my format guides
 
 This is a quick walkthrough of how I've formatted my format guides.
 
+## Ultra-Quick Look
+
+First, I'll have a quick blurb about the format with strengths and potential drawbacks.
+
 ## How it Works
 
-First, I'll start by explaining how the format works, and will cover some important aspects & variations.
+Next, I'll explain how the format works.
 
 ## By the Numbers
 
-Next, I'll provide a reference table of important numbers for the format.
+Here I will provide a reference table of important numbers for the format.
 The calculations will revolve around the number of competitors, represented as *n*.
 The values in these tables will include:
 
