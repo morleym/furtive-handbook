@@ -41,8 +41,8 @@ module.exports = {
               to: 'docs/',
             },
             {
-              label: 'Format Guide',
-              to: 'docs/format-guides-overview',
+              label: 'Format Guides',
+              to: 'docs/category/format-guides',
             },
           ],
         },

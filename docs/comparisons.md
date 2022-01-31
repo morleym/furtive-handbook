@@ -14,7 +14,7 @@ Each format has its own nuanced strengths & drawbacks to explore for your projec
 To compare runtimes of each format, I will be utilizing the # of necessary consecutive rounds.
 To calculate an actual runtime, you would need to multiply this number of necessary rounds by the expected total length of a match in your esport (i.e. the time to set up a match *and* to play it).
 In the case of Rocket League, for example, tournament organizers generally allot half an hour in total for a best-of-three match.
-So to estimate the runtime of an all-Bo3 single-elimination bracket of 64 competitors, we would multiply:
+So to estimate the runtime of an all-Bo3 single-elimination bracket of 64 competitors, assuming we have sufficient setups to play all matches concurrently, we would multiply:
 
 `[6 consecutive rounds required] × [30 minutes] = [180 minutes total runtime]`
 
@@ -25,11 +25,12 @@ Or, if we wanted to estimate runtime for this same 64 competitor tournament in a
 There are more factors involved here, of course, such as varying match lengths (e.g. Bo3 changing to Bo5) and broadcast needs (e.g. broadcasting both semifinals in a single-elimination bracket).
 There is also the prickly detail of "sufficient setups" in a live event setting.
 If you have 16 first-round matches in a double-elimination bracket, but can only play 8 at a time, then that effectively adds *another* round's worth of runtime.
-For double-elimination, my friend [Mitch "Dz" Dzugan](https://github.com/mitchdzugan/) created [an awesome tool called Tourney Time Calc](https://calc-tourney-time.herokuapp.com/) to visualize and calculate runtimes under such setup constraints.
 
-While I hope to one day develop a tool for all formats to assist with that process, I believe you have enough of a start to calculate your own specific project schedule needs from here.
+For double-elimination, my friend [Mitch "Dz" Dzugan](https://github.com/mitchdzugan/) created [an awesome tool called Tourney Time Calc](https://calc-tourney-time.herokuapp.com/) to visualize and calculate runtimes under such setup constraints.
+While I hope to one day develop a tool for *all* formats to assist with that process, I believe you have enough of a start to calculate your own project-specific schedule needs from here.
+
 For the sake of concisely comparing formats, I'm going to stick to the # of necessary consecutive rounds for the following comparison table.
-Just be aware that constrained setups will extend the runtime of formats with more [**Total Matches**](#comparing-guaranteed-matches-and-total-matches) in a stronger way than those with fewer.
+Just be aware that constrained setups will extend the runtime of formats with more [**Total Matches**](#comparing-guaranteed-matches-and-total-matches) in a more drastic way than those with fewer.
 
 ### Comparing Runtimes
 
@@ -38,8 +39,8 @@ I've included a few sample values in the table below, and you can calculate valu
 | Format                  | # Of Necessary Consecutive Rounds | At 16 Competitors    | At 64 Competitors   | At 256 Competitors |
 |:------------------------:|:-----:|:---------:|:------------------:| :----: |
 | Single-Elimination      | log₂(n) rounded up    | 4 rounds     | 6 rounds      | 8 rounds  |
-| Double-Elimination      | *Floor[log₂(n-1)] + Ceiling[log₂(2n/3)] + 1* <br />[[1](#citations)]   | 8-9 rounds    | 12-13 rounds   | 16-17 rounds  |
-| Round Robin             | *n! / [2! × (n-2)!]* <br /> (# of combinations)     | 15 rounds   <br />\*Broken into two groups of 8: 7 rounds  | 63 rounds  <br />\*Broken into 8 groups of 8: 7 rounds  <br />\*Broken into 4 groups of 16: 15 rounds  | 255 rounds  <br />\*Broken into 16 groups of 16: 15 rounds  <br />\*Broken into 32 groups of 8: 7 rounds  |
+| Double-Elimination      | *Floor[log₂(n-1)] + Ceiling[log₂(2n/3)] + 1* <br />[[1]](#citations)   | 8-9 rounds    | 12-13 rounds   | 16-17 rounds  |
+| Round Robin             | n-1 (if n is even)<br />n (if n is odd)     | 15 rounds   <br />\*Broken into two groups of 8: 7 rounds  | 63 rounds  <br />\*Broken into 8 groups of 8: 7 rounds  <br />\*Broken into 4 groups of 16: 15 rounds  | 255 rounds  <br />\*Broken into 16 groups of 16: 15 rounds  <br />\*Broken into 32 groups of 8: 7 rounds  |
 | Swiss (Non-Eliminating) | log₂(*n*) rounded up  | 4 rounds        | 6 rounds        | 8 rounds  |
 
 ### My Takeaways for Runtimes
