@@ -30,7 +30,7 @@ Otherwise, people will continue to trip up on preventable logistical issues, or 
 
 ## How might this help me?
 
-Having a handy reference guide to compare format options will empower you to **lead productive conversations with your team** and **navigate unclear & tough decisions**.
+Having a handy reference guide to compare format options will empower you to lead productive conversations with your team and navigate unclear & tough decisions together.
 You can help steer your team to take advantage of the opportunities a format provides *and* to smoothly handle its drawbacks or challenges.
 It is my hope that you may walk gracefully today where I (and countless others) have tripped and stumbled.
 
