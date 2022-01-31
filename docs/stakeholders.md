@@ -10,7 +10,7 @@ Maybe you're the head of Competitive Ops for a franchised esports league.
 Maybe you're the producer for a grassroots event broadcast.
 No matter what role you're playing, or what size & shape your project is,
  you will need to work closely with your fellow **stakeholders**: **the people who have a stake in your project**.
-They are invested in the project's outcome because they are involved with, working on, or otherwise supporting it.
+They are invested in the project's outcome because they are involved with, working on, benefitting from, or otherwise supporting it.
 (If you're running a project by yourself, then consider these to be each of the different hats you're wearing!)
 
 Typical stakeholders involved with an event are:
@@ -37,8 +37,7 @@ What different stakeholders like and dislike about different formats may align o
 And that's a good thing!
 Each role is working hard to make a certain aspect of the event the best it can be, so they'll naturally have different needs.
 At the end of the day, however, it is ONE team, ONE project, and you will need to arrive at a decision.
-Who will help the team craft good format options?
-Who will rally everyone behind the final decision, and prepare them to make the most of it in each of their roles?
+Who will help the team craft good format options, rally everyone behind one, and prepare them to make the most of it in their respective roles?
 **Here's where you come in.**
 
 Even if you aren't a leader on paper (in a position to call the shots), you can still be a leader in service!
@@ -48,8 +47,8 @@ You can speak up confidently in meetings to guide conversations in a productive 
 These format guides, once you familiarize yourself, will assist you in tackling all kinds of format comparisons with your team.
 For example, what would Competitors, Competitive Ops, and Broadcast each think of Swiss versus Round Robin? For each format...
 
-* Which aspects could they take advantage of in their roles?
 * Which aspects would present challenges for their roles?
+* Which aspects could they take advantage of in their roles?
 * Where would different stakeholders need to coordinate with each other, and how?
 
 Before we jump into the specific format guides—which will prepare you to answer these questions—we need to cover a few general format concepts.

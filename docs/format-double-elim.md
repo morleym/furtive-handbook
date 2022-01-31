@@ -16,8 +16,8 @@ It's still fairly simple and pairs well with other formats,
 
 Strengths:
 
-* competitors are guaranteed 100% more matches than in single-elimination! (two instead of one, don't get *too* excited)
-* stakes are still clear each match, and the "losers run" storylines exist
+* competitors are guaranteed 100% more matches than in single-elimination! (two instead of one, so don't get *too* excited)
+* stakes are still clear each match, and the "losers run" storylines now exist
 
 Potential Drawbacks:
 
@@ -53,13 +53,14 @@ Others believe that there should be no advantage for the team from upper side.
 ![double elim bracket reset image](/img/format-guides/format-double-elimination-reset.png)
 
 Personally, I'm of the opinion that a double-elimination bracket is incomplete if it ends when two competitors have only lost once.
+The most blatant case is when grand finals is a rematch of two teams who previously met in Upper Bracket, because now the tournament could end with those teams effectively having a 1-1 record against each other.
 From that purist point of view, a grand final *must* have a bracket reset.
 **But**, I understand that some esports have established a standard of no-advantage grand finals due to impractical match lengths (e.g. [Overwatch League](https://www.ggrecon.com/articles/were-the-vancouver-titans-done-dirty)).
-Do what's right for your project, but be conscious of this debate and consider alternatives like single-elim in those cases.
+Do what's right for your project, but be conscious of this debate and consider alternatives like a single-elim finale in those cases.
 
 ### Pools
 
-As the number of competitors scales up, entirely-double-elimination competitions are usually represented not as a singular behemoth bracket, but as [Groups](/docs/concepts#groups--pools) (commonly called 'pools') feeding into a final bracket (or, sometimes, *another* stage of double-elimination groups).
+As the number of competitors scales up, entirely-double-elimination competitions are usually represented not as a singular behemoth bracket, but as [Groups](/docs/concepts#groupspools) (commonly called 'pools') feeding into a final bracket (or, sometimes, *yet another* stage of double-elimination groups).
 This is extremely prominent in large FGC/Smash tournaments.
 For example, if you have 128 competitors, then you can represent it as 8 pools of 16 competitors each.
 Then, you would take a number from each pool (let's say top 2) and advance those competitors to the next 'stage'.
@@ -82,7 +83,7 @@ Using groups will change lower-side matchups, but not upper-side matches, when c
 
 **Variance due to whether or not a 'bracket reset' occurs*
 
-| # of Competitors  | Total Rounds Required**|
+| # of Competitors  | # of Necessary Consecutive Rounds**|
 | :-------:         |   :-------:           |
 | 4                 | 4-5                   |
 | 5-6               | 6-7*                     |
@@ -98,10 +99,11 @@ Using groups will change lower-side matchups, but not upper-side matches, when c
 
 **just trust me on this one*
 
-***Total rounds assumes:*
+***# of Necessary Consecutive Rounds Assumes:*
 
 * *all matches are the same length*
 * *there are adequate setups to play all necessary matches simultaneously*
+  * *for cases where there aren't, try [this tool](https://calc-tourney-time.herokuapp.com/) by [Mitch "Dz" Dzugan](https://github.com/mitchdzugan/)!*
 * *all matches are played as soon as they are available (e.g. none held for broadcast, and start any Upper Round 1 and Upper Round 2 matches together if applicable)*
 * *perfect world, no delays*
 
@@ -117,9 +119,11 @@ Using groups will change lower-side matchups, but not upper-side matches, when c
 * Once the bracket is provided to them, competitors can chart out their predicted course through bracket (to prepare for matchups)
   * For this reason, you'll want to clearly communicate when the bracket will be available to competitors
 * Especially for broadcasted double-elim brackets, be conscious of downtime for competitors
-  * Classic example is the winner of upper final waiting for *hours* to play grand finals
   * Usually, excessive downtime occurs because of delays in early lower side rounds.
-  I recommend setting an early expectation/precedent for starting all matches in a timely manner
+    This can lead to cases like...
+    * the winner of upper final waiting to play grand finals
+    * A competitor dropping to losers late in the upper bracket and waiting for their lower bracket opponent to be determined
+  * I recommend setting an early expectation/precedent for starting all matches in a timely manner, and monitoring for any potentially delayed matches
 * Conversely, be conscious of competitors burning out if playing too many matches back-to-back
   * Depending on how you schedule matches in the final rounds, a competitor may need to play Lower Semifinal, Lower Final, And Grand Finals consecutively
   * This can be addressed with appropriate breaks between those matches
@@ -153,7 +157,7 @@ Using groups will change lower-side matchups, but not upper-side matches, when c
   * The winner moves on
   * The loser either goes to lower bracket, or goes home
 * The "Losers Run"
-  * Double-Elimination features a potential story where a competitor drops into lower side, and strings together wins. It's an exciting, fight-your-way-back-from-the-pits-of-hell kind of tale.
+  * Double-Elimination introduces a potential story where a competitor drops into lower side, and strings together wins. It's an exciting, fight-your-way-back-from-the-pits-of-hell kind of tale, and people [tend to remember](https://www.youtube.com/watch?v=Lv1nprK8ywY) [and discuss](https://www.reddit.com/r/SSBM/comments/2p4pa0/what_are_the_greatest_losers_run_in_melee_history/) [these tales](https://www.ggrecon.com/articles/one-of-the-greatest-losers-bracket-runs-of-all-time/)
 * Rematches can happen!
   * Competitors can meet in upper bracket and then rematch later on in lower bracket
     * Sometimes, this rematch might even happen in grand finals!
@@ -164,7 +168,8 @@ Using groups will change lower-side matchups, but not upper-side matches, when c
 #### Scheduling
 
 * Flexible length of day. You can pick one match per round to broadcast, or you can 'hold up' matches to broadcast multiple/all in a round
-* Double-elimination has *options* for 'match order' in the final handful of matches. Work with Comp Ops to determine a suitable order
+* Double-elimination has options for ordering the final handful of matches.
+  Work with Comp Ops to determine a suitable order!
 * Bracket reset introduces a variance into runtime
   * Grand finals might be one match, or it might be two matches
 

@@ -35,6 +35,7 @@ Just be aware that constrained setups will extend the runtime of formats with mo
 ### Comparing Runtimes
 
 I've included a few sample values in the table below, and you can calculate values for *n* number of competitors by using the provided formulas.
+I've also created a simplistic [Google Sheet](https://docs.google.com/spreadsheets/d/1jaDr9tvI5PhJSSJ1yRLFaaHdphWzzpo--axiJqg7wEs/edit?usp=sharing) to calculate and compare these values.
 
 | Format                  | # Of Necessary Consecutive Rounds | At 16 Competitors    | At 64 Competitors   | At 256 Competitors |
 |:------------------------:|:-----:|:---------:|:------------------:| :----: |

@@ -47,7 +47,7 @@ Seeding has multiple meanings.
  A competitor's 'seed' is their position on this list: 1st seed, 5th seed, 17th seed, etc.
   * In a bracket, a competitor's seed determines which 'slot' of the bracket they start in.
   * In round-robin groups, a competitor's seed determines which group they are placed into.
-  * In Swiss, a seed is the competitor's pairing number.
+  * In Swiss, a competitor's seed is their pairing number.
 * Seeding, as a *verb*, is the act of sorting competitors from highest skill to lowest skill to produce the ordered list.
  Once this sorting has been performed, that seeding is then 'applied' to place competitors into their starting positions.
 
@@ -55,7 +55,7 @@ Seeding plays a crucial role for any competition because it determines the path 
 'Accurate' seeding means that competitors are correctly sorted from highest skill to lowest skill, and should result in a fair competition.
 'Bad' seeding would mean that competitors are not sorted correctly, and can lead to painful situations (usually involving top competitors eliminating each other earlier than they should).
 These adjectives are subjective, but usually have elements of objective basis to them.
-A well-seeded competition usually starts with uneven matchups skill-wise, and then over time will have closer and closer matches.
+A well-seeded competition usually starts with more 'imbalanced' matchups, and then progresses into closer and closer matchups.
 
 In each format guide, I will touch on how that format interacts with seeding.
 Some formats are heavily reliant on accurate seeding, some formats are not, and

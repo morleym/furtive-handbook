@@ -39,7 +39,7 @@ In other words, familiarity with formats will help you catch potential issues ea
 ## Who made all of the cool visuals?
 
 My good friend Jordan "Boomstick" Davis created the visuals on this project.
-He's awesome, and you should go check out his [turn-key production services: Hitscan Studios](https://www.hitscanstudios.com/)!
+He's awesome, and you should go check out [Hitscan Studios](https://www.hitscanstudios.com/), his turn-key production services!
 
 ## Who are you?
 
